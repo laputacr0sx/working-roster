@@ -2,1112 +2,1112 @@
     "D15": {
       "D15101": {
         "Book On Location": "HUH",
-        "Book On Time": "06:41 AM",
-        "Book Off Time": "02:56 PM",
+        "Book On Time": "06:41",
+        "Book Off Time": "14:56",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "TAP PICK T32"
       },
       "D15102": {
         "Book On Location": "HUH",
-        "Book On Time": "05:16 AM",
-        "Book Off Time": "12:46 PM",
+        "Book On Time": "05:16",
+        "Book Off Time": "12:46",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "MKKP1S T3"
       },
       "D15103": {
         "Book On Location": "HTD",
-        "Book On Time": "05:05 AM",
-        "Book Off Time": "01:05 PM",
+        "Book On Time": "05:05",
+        "Book Off Time": "13:05",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "T24"
       },
       "D15104": {
         "Book On Location": "HUH",
-        "Book On Time": "01:44 PM",
-        "Book Off Time": "08:59 PM",
+        "Book On Time": "13:44",
+        "Book Off Time": "20:59",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "EMU"
       },
       "D15105": {
         "Book On Location": "HUH",
-        "Book On Time": "11:00 AM",
-        "Book Off Time": "07:45 PM",
+        "Book On Time": "11:00",
+        "Book Off Time": "19:45",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "KB"
       },
       "D15106": {
         "Book On Location": "HUH",
-        "Book On Time": "10:28 AM",
-        "Book Off Time": "05:28 PM",
+        "Book On Time": "10:28",
+        "Book Off Time": "17:28",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "EMU"
       },
       "D15107": {
         "Book On Location": "HUH",
-        "Book On Time": "05:22 AM",
-        "Book Off Time": "12:37 PM",
+        "Book On Time": "05:22",
+        "Book Off Time": "12:37",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "EMU"
       },
       "D15108": {
         "Book On Location": "HUH",
-        "Book On Time": "08:00 AM",
-        "Book Off Time": "04:45 PM",
+        "Book On Time": "08:00",
+        "Book Off Time": "16:45",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "EMU"
       },
       "D15109": {
         "Book On Location": "HUH",
-        "Book On Time": "05:23 PM",
-        "Book Off Time": "01:23 AM",
+        "Book On Time": "17:23",
+        "Book Off Time": "01:23",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "FOTP1 STOP"
       },
       "D15110": {
         "Book On Location": "HUH",
-        "Book On Time": "05:59 PM",
-        "Book Off Time": "01:44 AM",
+        "Book On Time": "17:59",
+        "Book Off Time": "01:44",
         "Book Off Location": "HUH",
         "Duration": "7:15",
         "Remarks": "SHTP3 STOP"
       },
       "D15111": {
         "Book On Location": "HUH",
-        "Book On Time": "02:11 PM",
-        "Book Off Time": "10:26 PM",
+        "Book On Time": "14:11",
+        "Book Off Time": "22:26",
         "Book Off Location": "HTD",
         "Duration": "7:45",
         "Remarks": "EMU"
       },
       "D15112": {
         "Book On Location": "HUH",
-        "Book On Time": "05:17 AM",
-        "Book Off Time": "12:47 PM",
+        "Book On Time": "05:17",
+        "Book Off Time": "12:47",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "EMU"
       },
       "D15113": {
         "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "10:50 AM",
+        "Book On Time": "04:05",
+        "Book Off Time": "10:50",
         "Book Off Location": "HUH",
         "Duration": "6:15",
         "Remarks": "SHTP4S T8"
       },
       "D15114": {
         "Book On Location": "HUH",
-        "Book On Time": "12:35 PM",
-        "Book Off Time": "08:05 PM",
+        "Book On Time": "12:35",
+        "Book Off Time": "20:05",
         "Book Off Location": "HUH",
         "Duration": "7:00",
-        "Remarks": "EMU/PMBY"
+        "Remarks": "EMU/PM BY"
       },
       "D15115": {
         "Book On Location": "HUH",
-        "Book On Time": "01:17 PM",
-        "Book Off Time": "09:32 PM",
+        "Book On Time": "13:17",
+        "Book Off Time": "21:32",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "EMU"
       },
       "D15116": {
         "Book On Location": "HUH",
-        "Book On Time": "12:22 PM",
-        "Book Off Time": "07:22 PM",
+        "Book On Time": "12:22",
+        "Book Off Time": "19:22",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "EMU"
       },
       "D15117": {
         "Book On Location": "HUH",
-        "Book On Time": "07:33 AM",
-        "Book Off Time": "04:18 PM",
+        "Book On Time": "07:33",
+        "Book Off Time": "16:18",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "EMU"
       },
       "D15118": {
         "Book On Location": "HUH",
-        "Book On Time": "05:41 AM",
-        "Book Off Time": "01:11 PM",
+        "Book On Time": "05:41",
+        "Book Off Time": "13:11",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "EMU"
       },
       "D15119": {
         "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "10:58 AM",
+        "Book On Time": "04:28",
+        "Book Off Time": "10:58",
         "Book Off Location": "HUH",
         "Duration": "6:00",
         "Remarks": "MKKP3 T5"
       },
       "D15120": {
         "Book On Location": "HUH",
-        "Book On Time": "05:34 PM",
-        "Book Off Time": "01:34 AM",
+        "Book On Time": "17:34",
+        "Book Off Time": "01:34",
         "Book Off Location": "HTD",
         "Duration": "7:30",
         "Remarks": "EMU"
       },
       "D15121": {
         "Book On Location": "HUH",
-        "Book On Time": "05:42 PM",
-        "Book Off Time": "01:27 AM",
+        "Book On Time": "17:42",
+        "Book Off Time": "01:27",
         "Book Off Location": "HUH",
         "Duration": "7:15",
         "Remarks": "SHTP4 STOP"
       },
       "D15122": {
         "Book On Location": "HUH",
-        "Book On Time": "04:16 PM",
-        "Book Off Time": "01:01 AM",
+        "Book On Time": "16:16",
+        "Book Off Time": "01:01",
         "Book Off Location": "HUH",
         "Duration": "8:15",
-        "Remarks": "SHTP4S Stop"
+        "Remarks": "SHTP4S STOP"
       },
       "D15123": {
         "Book On Location": "HTD",
-        "Book On Time": "05:53 AM",
-        "Book Off Time": "01:38 PM",
+        "Book On Time": "05:53",
+        "Book Off Time": "13:38",
         "Book Off Location": "HTD",
         "Duration": "7:15",
         "Remarks": "T29"
       },
       "D15124": {
         "Book On Location": "HUH",
-        "Book On Time": "06:53 AM",
-        "Book Off Time": "02:23 PM",
+        "Book On Time": "06:53",
+        "Book Off Time": "14:23",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "EMU"
       },
       "D15125": {
         "Book On Location": "HTD",
-        "Book On Time": "05:11 AM",
-        "Book Off Time": "11:41 AM",
+        "Book On Time": "05:11",
+        "Book Off Time": "11:41",
         "Book Off Location": "HTD",
         "Duration": "6:00",
         "Remarks": "T25"
       },
       "D15126": {
         "Book On Location": "HUH",
-        "Book On Time": "01:24 PM",
-        "Book Off Time": "10:09 PM",
+        "Book On Time": "13:24",
+        "Book Off Time": "22:09",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "EMU"
       },
       "D15127": {
         "Book On Location": "HUH",
-        "Book On Time": "12:02 PM",
-        "Book Off Time": "07:17 PM",
+        "Book On Time": "12:02",
+        "Book Off Time": "19:17",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "EMU"
       },
       "D15128": {
         "Book On Location": "HUH",
-        "Book On Time": "06:56 AM",
-        "Book Off Time": "01:56 PM",
+        "Book On Time": "06:56",
+        "Book Off Time": "13:56",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "EMU"
       },
       "D15129": {
         "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "10:35 AM",
+        "Book On Time": "04:05",
+        "Book Off Time": "10:35",
         "Book Off Location": "HTD",
         "Duration": "6:00",
         "Remarks": "SHTP3 T7"
       },
       "D15130": {
         "Book On Location": "HUH",
-        "Book On Time": "06:54 PM",
-        "Book Off Time": "01:54 AM",
+        "Book On Time": "18:54",
+        "Book Off Time": "01:54",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "MKKP3 STOP"
       },
       "D15131": {
         "Book On Location": "HUH",
-        "Book On Time": "05:15 PM",
-        "Book Off Time": "01:30 AM",
+        "Book On Time": "17:15",
+        "Book Off Time": "01:30",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "KB"
       },
       "D15132": {
         "Book On Location": "HUH",
-        "Book On Time": "04:02 PM",
-        "Book Off Time": "11:17 PM",
+        "Book On Time": "16:02",
+        "Book Off Time": "23:17",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "EMU"
       },
       "D15133": {
         "Book On Location": "HUH",
-        "Book On Time": "06:40 AM",
-        "Book Off Time": "03:10 PM",
+        "Book On Time": "06:40",
+        "Book Off Time": "15:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "EMU"
       },
       "D15134": {
         "Book On Location": "HTD",
-        "Book On Time": "05:00 AM",
-        "Book Off Time": "01:30 PM",
+        "Book On Time": "05:00",
+        "Book Off Time": "13:30",
         "Book Off Location": "HTD",
         "Duration": "8:00",
         "Remarks": "HB/Hot Standby"
       },
       "D15135": {
         "Book On Location": "HUH",
-        "Book On Time": "04:50 AM",
-        "Book Off Time": "12:35 PM",
+        "Book On Time": "04:50",
+        "Book Off Time": "12:35",
         "Book Off Location": "HUH",
         "Duration": "7:15",
         "Remarks": "HUHP1 T1"
       },
       "D15136": {
         "Book On Location": "HUH",
-        "Book On Time": "04:28 PM",
-        "Book Off Time": "01:13 AM",
+        "Book On Time": "16:28",
+        "Book Off Time": "01:13",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "HUHP1 STOP"
       },
       "D15137": {
         "Book On Location": "HTD",
-        "Book On Time": "05:03 PM",
-        "Book Off Time": "01:03 AM",
+        "Book On Time": "17:03",
+        "Book Off Time": "01:03",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "T24a"
       },
       "D15138": {
         "Book On Location": "HUH",
-        "Book On Time": "04:40 PM",
-        "Book Off Time": "01:10 AM",
+        "Book On Time": "16:40",
+        "Book Off Time": "01:10",
         "Book Off Location": "HTD",
-        "Duration": "8:00",
+        "Duration": "8:15",
         "Remarks": "EMU"
       },
       "D15139": {
         "Book On Location": "HUH",
-        "Book On Time": "05:56 AM",
-        "Book Off Time": "01:26 PM",
+        "Book On Time": "05:56",
+        "Book Off Time": "13:26",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "EMU"
       },
       "D15140": {
         "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "12:28 PM",
+        "Book On Time": "04:28",
+        "Book Off Time": "12:28",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "KB"
       },
       "D15141": {
         "Book On Location": "HUH",
-        "Book On Time": "06:34 AM",
-        "Book Off Time": "02:04 PM",
+        "Book On Time": "06:34",
+        "Book Off Time": "14:04",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "EMU"
       },
       "D15142": {
         "Book On Location": "HUH",
-        "Book On Time": "05:39 PM",
-        "Book Off Time": "01:24 AM",
+        "Book On Time": "17:39",
+        "Book Off Time": "01:24",
         "Book Off Location": "HUH",
         "Duration": "7:15",
         "Remarks": "MKKP1 STOP"
       },
       "D15143": {
         "Book On Location": "HUH",
-        "Book On Time": "06:26 PM",
-        "Book Off Time": "01:26 AM",
+        "Book On Time": "18:26",
+        "Book Off Time": "01:26",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "EMU"
       },
       "D15144": {
         "Book On Location": "HUH",
-        "Book On Time": "06:19 AM",
-        "Book Off Time": "03:04 PM",
+        "Book On Time": "06:19",
+        "Book Off Time": "15:04",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "EMU"
       },
       "D15145": {
         "Book On Location": "HUH",
-        "Book On Time": "08:05 AM",
-        "Book Off Time": "04:50 PM",
+        "Book On Time": "08:05",
+        "Book Off Time": "16:50",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "EMU"
       },
       "D15146": {
         "Book On Location": "HUH",
-        "Book On Time": "01:30 PM",
-        "Book Off Time": "09:15 PM",
+        "Book On Time": "13:30",
+        "Book Off Time": "21:15",
         "Book Off Location": "HUH",
         "Duration": "7:15",
         "Remarks": "EMU"
       },
       "D15147": {
         "Book On Location": "HUH",
-        "Book On Time": "12:41 PM",
-        "Book Off Time": "07:41 PM",
+        "Book On Time": "12:41",
+        "Book Off Time": "19:41",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "EMU"
       },
       "D15148": {
         "Book On Location": "HUH",
-        "Book On Time": "10:25 AM",
-        "Book Off Time": "06:10 PM",
+        "Book On Time": "10:25",
+        "Book Off Time": "18:10",
         "Book Off Location": "HUH",
         "Duration": "7:15",
         "Remarks": "EMU"
       },
       "D15149": {
         "Book On Location": "HUH",
-        "Book On Time": "04:50 AM",
-        "Book Off Time": "12:20 PM",
+        "Book On Time": "04:50",
+        "Book Off Time": "12:20",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "HUHP4 T2/AM BY"
       },
       "D15150": {
         "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "12:13 PM",
+        "Book On Time": "04:28",
+        "Book Off Time": "12:13",
         "Book Off Location": "HUH",
         "Duration": "7:15",
         "Remarks": "MKKP1 T4"
       },
       "D15151": {
         "Book On Location": "HTD",
-        "Book On Time": "05:31 AM",
-        "Book Off Time": "01:46 PM",
+        "Book On Time": "05:31",
+        "Book Off Time": "13:46",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "T28"
       },
       "D15152": {
         "Book On Location": "HUH",
-        "Book On Time": "06:19 PM",
-        "Book Off Time": "01:49 AM",
+        "Book On Time": "18:19",
+        "Book Off Time": "01:49",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "HUHP4 STOP"
       },
       "D15153": {
         "Book On Location": "HUH",
-        "Book On Time": "06:10 PM",
-        "Book Off Time": "01:55 AM",
+        "Book On Time": "18:10",
+        "Book Off Time": "01:55",
         "Book Off Location": "HUH",
         "Duration": "7:15",
         "Remarks": "SHTP1 STOP"
       },
       "D15154": {
         "Book On Location": "HUH",
-        "Book On Time": "04:31 PM",
-        "Book Off Time": "01:01 AM",
+        "Book On Time": "16:31",
+        "Book Off Time": "01:01",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "EMU"
       },
       "D15155": {
         "Book On Location": "HUH",
-        "Book On Time": "06:37 AM",
-        "Book Off Time": "01:52 PM",
+        "Book On Time": "06:37",
+        "Book Off Time": "13:52",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "EMU"
       },
       "D15156": {
         "Book On Location": "HTD",
-        "Book On Time": "06:34 AM",
-        "Book Off Time": "03:19 PM",
+        "Book On Time": "06:34",
+        "Book Off Time": "15:19",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "T31"
       },
       "D15157": {
         "Book On Location": "HUH",
-        "Book On Time": "03:10 PM",
-        "Book Off Time": "11:55 PM",
+        "Book On Time": "15:10",
+        "Book Off Time": "23:55",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "MKKP1S STOP"
       },
       "D15158": {
         "Book On Location": "HUH",
-        "Book On Time": "12:38 PM",
-        "Book Off Time": "07:38 PM",
+        "Book On Time": "12:38",
+        "Book Off Time": "19:38",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "EMU"
       },
       "D15159": {
         "Book On Location": "HTD",
-        "Book On Time": "12:00 PM",
-        "Book Off Time": "07:15 PM",
+        "Book On Time": "12:00",
+        "Book Off Time": "19:15",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "HTD BY/T30a"
       },
       "D15301": {
         "Book On Location": "HUH",
-        "Book On Time": "08:00 AM",
-        "Book Off Time": "02:30 PM",
+        "Book On Time": "08:00",
+        "Book Off Time": "14:30",
         "Book Off Location": "HUH",
         "Duration": "6:00",
         "Remarks": "P702/P705/P712"
       },
       "D15302": {
         "Book On Location": "LOW",
-        "Book On Time": "07:15 AM",
-        "Book Off Time": "03:15 PM",
+        "Book On Time": "07:15",
+        "Book Off Time": "15:15",
         "Book Off Location": "LOW",
         "Duration": "7:30",
         "Remarks": "RS"
       },
       "D15303": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET12"
       },
       "D15304": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET6"
       },
       "D15305": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET5"
       },
       "D15306": {
         "Book On Location": "HUH",
-        "Book On Time": "10:15 AM",
-        "Book Off Time": "05:15 PM",
+        "Book On Time": "10:15",
+        "Book Off Time": "17:15",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "P708/P713"
       },
       "D15307": {
         "Book On Location": "HUH",
-        "Book On Time": "01:37 PM",
-        "Book Off Time": "09:37 PM",
+        "Book On Time": "13:37",
+        "Book Off Time": "21:37",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "EMU"
       },
       "D15308": {
         "Book On Location": "HUH",
-        "Book On Time": "02:00 PM",
-        "Book Off Time": "10:15 PM",
+        "Book On Time": "14:00",
+        "Book Off Time": "22:15",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "P714/P717/P720"
       },
       "D15309": {
         "Book On Location": "LOW",
-        "Book On Time": "02:30 PM",
-        "Book Off Time": "10:30 PM",
+        "Book On Time": "14:30",
+        "Book Off Time": "22:30",
         "Book Off Location": "LOW",
         "Duration": "7:30",
         "Remarks": "RS/MTT"
       },
       "D15310": {
         "Book On Location": "HUH",
-        "Book On Time": "01:30 PM",
-        "Book Off Time": "09:45 PM",
+        "Book On Time": "13:30",
+        "Book Off Time": "21:45",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "P711/P718/P721"
       },
       "D15311": {
         "Book On Location": "HUH",
-        "Book On Time": "08:00 AM",
-        "Book Off Time": "03:00 PM",
+        "Book On Time": "08:00",
+        "Book Off Time": "15:00",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "P703/P704/P707"
       },
       "D15312": {
         "Book On Location": "HUH",
-        "Book On Time": "07:16 AM",
-        "Book Off Time": "04:01 PM",
+        "Book On Time": "07:16",
+        "Book Off Time": "16:01",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "FOT PICK T24"
       },
       "D15313": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET8"
       },
       "D15314": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET3"
       },
       "D15315": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET1"
       },
       "D15316": {
         "Book On Location": "LOW",
-        "Book On Time": "07:15 AM",
-        "Book Off Time": "03:15 PM",
+        "Book On Time": "07:15",
+        "Book Off Time": "15:15",
         "Book Off Location": "LOW",
         "Duration": "7:30",
         "Remarks": "RS"
       },
       "D15317": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET11"
       },
       "D15318": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET10"
       },
       "D15319": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET2"
       },
       "D15320": {
         "Book On Location": "LOW",
-        "Book On Time": "02:30 PM",
-        "Book Off Time": "10:30 PM",
+        "Book On Time": "14:30",
+        "Book Off Time": "22:30",
         "Book Off Location": "LOW",
         "Duration": "7:30",
         "Remarks": "RS/MTT"
       },
       "D15321": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET9"
       },
       "D15322": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET7"
       },
       "D15323": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "22:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET2"
       },
       "D15501": {
         "Book On Location": "SHS",
-        "Book On Time": "06:00 AM",
-        "Book Off Time": "02:00 PM",
+        "Book On Time": "06:00",
+        "Book Off Time": "14:00",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "LOWP3 PICK T8"
       },
       "D15502": {
         "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "11:40 AM",
+        "Book On Time": "04:55",
+        "Book Off Time": "11:40",
         "Book Off Location": "HTD",
         "Duration": "6:15",
         "Remarks": "LOWP1 T20"
       },
       "D15503": {
         "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "10:50 AM",
+        "Book On Time": "04:05",
+        "Book Off Time": "10:50",
         "Book Off Location": "HUH",
         "Duration": "6:15",
         "Remarks": "FOTP4 T11"
       },
       "D15504": {
         "Book On Location": "HUH",
-        "Book On Time": "03:38 PM",
-        "Book Off Time": "11:53 PM",
+        "Book On Time": "15:38",
+        "Book Off Time": "23:53",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "LG2S STOP"
       },
       "D15505": {
         "Book On Location": "HUH",
-        "Book On Time": "12:58 PM",
-        "Book Off Time": "09:43 PM",
+        "Book On Time": "12:58",
+        "Book Off Time": "21:43",
         "Book Off Location": "HTD",
         "Duration": "8:15",
         "Remarks": "EMU"
       },
       "D15506": {
         "Book On Location": "HUH",
-        "Book On Time": "10:49 AM",
-        "Book Off Time": "06:19 PM",
+        "Book On Time": "10:49",
+        "Book Off Time": "18:19",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "EMU"
       },
       "D15507": {
         "Book On Location": "SHS",
-        "Book On Time": "06:00 AM",
-        "Book Off Time": "02:30 PM",
+        "Book On Time": "06:00",
+        "Book Off Time": "14:30",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "LG1N T18/LOW BY"
       },
       "D15508": {
         "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
+        "Book On Time": "04:05",
+        "Book Off Time": "11:20",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "SHTP4 T9"
       },
       "D15509": {
         "Book On Location": "HUH",
-        "Book On Time": "05:30 PM",
-        "Book Off Time": "01:45 AM",
+        "Book On Time": "17:30",
+        "Book Off Time": "01:45",
         "Book Off Location": "HTD",
         "Duration": "7:45",
         "Remarks": "EMU"
       },
       "D15510": {
         "Book On Location": "HUH",
-        "Book On Time": "04:57 PM",
-        "Book Off Time": "01:27 AM",
+        "Book On Time": "16:57",
+        "Book Off Time": "01:27",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "SHSP2 STOP"
       },
       "D15511": {
         "Book On Location": "HUH",
-        "Book On Time": "02:24 PM",
-        "Book Off Time": "10:24 PM",
+        "Book On Time": "14:24",
+        "Book Off Time": "22:24",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "SG2S STOP"
       },
       "D15512": {
         "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:55 PM",
+        "Book On Time": "04:55",
+        "Book Off Time": "12:55",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "LG2N T19"
       },
       "D15513": {
         "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
+        "Book On Time": "04:55",
+        "Book Off Time": "12:25",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "LMC PICK T4"
       },
       "D15514": {
         "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:35 AM",
+        "Book On Time": "04:05",
+        "Book Off Time": "11:35",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "LOWP3 PICK T13/AM BY"
       },
       "D15515": {
         "Book On Location": "HUH",
-        "Book On Time": "01:09 PM",
-        "Book Off Time": "09:54 PM",
+        "Book On Time": "13:09",
+        "Book Off Time": "21:54",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "EMU"
       },
       "D15516": {
         "Book On Location": "HUH",
-        "Book On Time": "11:30 AM",
-        "Book Off Time": "07:45 PM",
+        "Book On Time": "11:30",
+        "Book Off Time": "19:45",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "LOW OFF"
       },
       "D15517": {
         "Book On Location": "HTD",
-        "Book On Time": "06:44 AM",
-        "Book Off Time": "03:29 PM",
+        "Book On Time": "06:44",
+        "Book Off Time": "15:29",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "T32"
       },
       "D15518": {
         "Book On Location": "SHTI",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "12:05 PM",
+        "Book On Time": "04:05",
+        "Book Off Time": "12:05",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "SB"
       },
       "D15519": {
         "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
+        "Book On Time": "04:55",
+        "Book Off Time": "12:10",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "LMCP2 T23"
       },
       "D15520": {
         "Book On Location": "HUH",
-        "Book On Time": "04:46 PM",
-        "Book Off Time": "01:16 AM",
+        "Book On Time": "16:46",
+        "Book Off Time": "01:16",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "LMCP1 STOP"
       },
       "D15521": {
         "Book On Location": "HUH",
-        "Book On Time": "02:40 PM",
-        "Book Off Time": "11:25 PM",
+        "Book On Time": "14:40",
+        "Book Off Time": "23:25",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "LG2N STOP"
       },
       "D15522": {
         "Book On Location": "HUH",
-        "Book On Time": "01:21 PM",
-        "Book Off Time": "09:51 PM",
+        "Book On Time": "13:21",
+        "Book Off Time": "21:51",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "LMC OFF"
       },
       "D15523": {
         "Book On Location": "HUH",
-        "Book On Time": "07:27 AM",
-        "Book Off Time": "04:12 PM",
+        "Book On Time": "07:27",
+        "Book Off Time": "16:12",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "EMU"
       },
       "D15524": {
         "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "11:40 AM",
+        "Book On Time": "04:55",
+        "Book Off Time": "11:40",
         "Book Off Location": "HUH",
         "Duration": "6:15",
         "Remarks": "LOWP3 T21"
       },
       "D15525": {
         "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
+        "Book On Time": "04:05",
+        "Book Off Time": "11:20",
         "Book Off Location": "HTD",
         "Duration": "6:45",
         "Remarks": "FOTP1 T10"
       },
       "D15526": {
         "Book On Location": "HUH",
-        "Book On Time": "05:07 PM",
-        "Book Off Time": "01:37 AM",
+        "Book On Time": "17:07",
+        "Book Off Time": "01:37",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "LOWP3 STOP"
       },
       "D15527": {
         "Book On Location": "HUH",
-        "Book On Time": "04:00 PM",
-        "Book Off Time": "12:30 AM",
+        "Book On Time": "16:00",
+        "Book Off Time": "00:30",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "SB"
       },
       "D15528": {
         "Book On Location": "HTD",
-        "Book On Time": "06:02 AM",
-        "Book Off Time": "02:32 PM",
+        "Book On Time": "06:02",
+        "Book Off Time": "14:32",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "T30"
       },
       "D15529": {
         "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
+        "Book On Time": "04:05",
+        "Book Off Time": "11:20",
         "Book Off Location": "HTD",
         "Duration": "6:45",
         "Remarks": "RACP1 T12"
       },
       "D15530": {
         "Book On Location": "HUH",
-        "Book On Time": "06:57 PM",
-        "Book Off Time": "01:42 AM",
+        "Book On Time": "18:57",
+        "Book Off Time": "01:42",
         "Book Off Location": "HTD",
         "Duration": "6:15",
         "Remarks": "EMU"
       },
       "D15531": {
         "Book On Location": "HUH",
-        "Book On Time": "04:43 PM",
-        "Book Off Time": "01:28 AM",
+        "Book On Time": "16:43",
+        "Book Off Time": "01:28",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "LG1S STOP"
       },
       "D15532": {
         "Book On Location": "HUH",
-        "Book On Time": "04:13 PM",
-        "Book Off Time": "12:58 AM",
+        "Book On Time": "16:13",
+        "Book Off Time": "00:58",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "SHS OFF"
       },
       "D15533": {
         "Book On Location": "SHS",
-        "Book On Time": "06:00 AM",
-        "Book Off Time": "01:15 PM",
+        "Book On Time": "06:00",
+        "Book Off Time": "13:15",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "SG2S T15"
       },
       "D15534": {
         "Book On Location": "HTD",
-        "Book On Time": "05:20 AM",
-        "Book Off Time": "12:20 PM",
+        "Book On Time": "05:20",
+        "Book Off Time": "12:20",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "T26"
       },
       "D15535": {
         "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
+        "Book On Time": "04:05",
+        "Book Off Time": "11:20",
         "Book Off Location": "HTD",
         "Duration": "6:45",
         "Remarks": "SHTP1 T6"
       },
       "D15536": {
         "Book On Location": "HUH",
-        "Book On Time": "05:37 PM",
-        "Book Off Time": "01:37 AM",
+        "Book On Time": "17:37",
+        "Book Off Time": "01:37",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "RACP1 STOP"
       },
       "D15537": {
         "Book On Location": "HUH",
-        "Book On Time": "04:25 PM",
-        "Book Off Time": "01:10 AM",
+        "Book On Time": "16:25",
+        "Book Off Time": "01:10",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "LMCP2 STOP"
       },
       "D15538": {
         "Book On Location": "LOW",
-        "Book On Time": "01:32 PM",
-        "Book Off Time": "09:02 PM",
+        "Book On Time": "13:32",
+        "Book Off Time": "21:02",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "LG1N T7a"
       },
       "D15539": {
         "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "11:55 AM",
+        "Book On Time": "04:55",
+        "Book Off Time": "11:55",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "LG2S T17"
       },
       "D15540": {
         "Book On Location": "HTD",
-        "Book On Time": "05:22 AM",
-        "Book Off Time": "01:37 PM",
+        "Book On Time": "05:22",
+        "Book Off Time": "13:37",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "T27"
       },
       "D15541": {
         "Book On Location": "HUH",
-        "Book On Time": "05:50 PM",
-        "Book Off Time": "01:50 AM",
+        "Book On Time": "17:50",
+        "Book Off Time": "01:50",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "FOTP4 STOP"
       },
       "D15542": {
         "Book On Location": "HUH",
-        "Book On Time": "03:41 PM",
-        "Book Off Time": "11:56 PM",
+        "Book On Time": "15:41",
+        "Book Off Time": "23:56",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "TAPP1 STOP"
       },
       "D15543": {
         "Book On Location": "HUH",
-        "Book On Time": "01:00 PM",
-        "Book Off Time": "09:00 PM",
+        "Book On Time": "13:00",
+        "Book Off Time": "21:00",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "SB"
       },
       "D15544": {
         "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
+        "Book On Time": "04:55",
+        "Book Off Time": "12:25",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "SHSP2 T14"
       },
       "D15545": {
         "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "10:35 AM",
+        "Book On Time": "04:05",
+        "Book Off Time": "10:35",
         "Book Off Location": "HUH",
         "Duration": "6:00",
         "Remarks": "TAPP1 T13"
       },
       "D15546": {
         "Book On Location": "HUH",
-        "Book On Time": "04:37 PM",
-        "Book Off Time": "01:22 AM",
+        "Book On Time": "16:37",
+        "Book Off Time": "01:22",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "LG1N STOP"
       },
       "D15547": {
         "Book On Location": "HTD",
-        "Book On Time": "04:02 PM",
-        "Book Off Time": "12:17 AM",
+        "Book On Time": "16:02",
+        "Book Off Time": "00:17",
         "Book Off Location": "HTD",
         "Duration": "7:45",
         "Remarks": "T11a"
       },
       "D15548": {
         "Book On Location": "HUH",
-        "Book On Time": "02:00 PM",
-        "Book Off Time": "10:00 PM",
+        "Book On Time": "14:00",
+        "Book Off Time": "22:00",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "EMU"
       },
       "D15549": {
         "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
+        "Book On Time": "04:55",
+        "Book Off Time": "12:10",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "LMCP1 T22"
       },
       "D15550": {
         "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "11:40 AM",
+        "Book On Time": "04:55",
+        "Book Off Time": "11:40",
         "Book Off Location": "HTD",
         "Duration": "6:15",
         "Remarks": "LG1S T16"
       },
       "D15551": {
         "Book On Location": "HUH",
-        "Book On Time": "05:15 PM",
-        "Book Off Time": "01:45 AM",
+        "Book On Time": "17:15",
+        "Book Off Time": "01:45",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "LOWP1 STOP"
       },
       "D15552": {
         "Book On Location": "HTD",
-        "Book On Time": "04:30 PM",
-        "Book Off Time": "12:45 AM",
+        "Book On Time": "16:30",
+        "Book Off Time": "00:45",
         "Book Off Location": "HTD",
         "Duration": "7:45",
         "Remarks": "HB"
       },
       "D15553": {
         "Book On Location": "HUH",
-        "Book On Time": "01:57 PM",
-        "Book Off Time": "09:57 PM",
+        "Book On Time": "13:57",
+        "Book Off Time": "21:57",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "EMU/PM BY"
       },
       "D15554": {
         "Book On Location": "HUH",
-        "Book On Time": "07:00 AM",
-        "Book Off Time": "03:45 PM",
+        "Book On Time": "07:00",
+        "Book Off Time": "15:45",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "EMU"
       },
       "D15555": {
         "Book On Location": "HUH",
-        "Book On Time": "08:10 AM",
-        "Book Off Time": "04:40 PM",
+        "Book On Time": "08:11",
+        "Book Off Time": "16:40",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "EMU"
       },
       "D15556": {
         "Book On Location": "HTD",
-        "Book On Time": "04:18 PM",
-        "Book Off Time": "02:33 PM",
+        "Book On Time": "16:18",
+        "Book Off Time": "14:33",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "T33"
       },
       "D15557": {
         "Book On Location": "HUH",
-        "Book On Time": "06:44 PM",
-        "Book Off Time": "01:29 AM",
+        "Book On Time": "18:44",
+        "Book Off Time": "01:29",
         "Book Off Location": "HTD",
         "Duration": "6:15",
         "Remarks": "EMU"
