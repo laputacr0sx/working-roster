@@ -2243,7 +2243,7 @@
         "Remarks": "EMU"
       }
     },
-    "J55-OLD": {
+    "J55-Outdated": {
         "G55101": {
             "Book On Location": "HUH",
             "Book On Time": "06:41 AM",
@@ -3349,7 +3349,7 @@
             "Remarks": "EMU"
         }
     },
-    "Z75-OLD": {
+    "Z75-Outdated": {
         "Y75101": {
             "Book On Location": "HUH",
             "Book On Time": "07:29 AM",
@@ -4447,7 +4447,7 @@
             "Remarks": "EMU"
         }
     },
-    "V65-OLD": {
+    "V65-Outdated": {
         "U65101": {
           "Book On Location": "HUH",
           "Book On Time": "06:41 AM",
@@ -5577,7 +5577,7 @@
           "Remarks": "EMU"
         }
     },
-    "A71-OLD": {
+    "A71-Outdated": {
         "Z71101": {
           "Book On Location": "HUH",
           "Book On Time": "07:29 AM",
