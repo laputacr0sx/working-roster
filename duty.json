@@ -1098,7 +1098,7 @@
       },
       "D15556": {
         "Book On Location": "HTD",
-        "Book On Time": "16:18",
+        "Book On Time": "06:18",
         "Book Off Time": "14:33",
         "Book Off Location": "HUH",
         "Duration": "7:45",
@@ -2212,7 +2212,7 @@
       },
       "J14556": {
         "Book On Location": "HTD",
-        "Book On Time": "16:18",
+        "Book On Time": "06:18",
         "Book Off Time": "14:33",
         "Book Off Location": "HUH",
         "Duration": "07:45",
@@ -3342,7 +3342,7 @@
       },
       "J55556": {
         "Book On Location": "HTD",
-        "Book On Time": "16:18",
+        "Book On Time": "06:18",
         "Book Off Time": "14:33",
         "Book Off Location": "HUH",
         "Duration": "7:45",
