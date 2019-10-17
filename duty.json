@@ -5588,7 +5588,7 @@
     "B71": {
       "B71101": {
         "Book On Location": "HUH",
-        "Book On Time": "7:29",
+        "Book On Time": "07:29",
         "Book Off Time": "16:14",
         "Book Off Location": "HUH",
         "Duration": "8:15",
@@ -5596,7 +5596,7 @@
       },
       "B71102": {
         "Book On Location": "HUH",
-        "Book On Time": "5:16",
+        "Book On Time": "05:16",
         "Book Off Time": "12:16",
         "Book Off Location": "HTD",
         "Duration": "6:30",
@@ -5604,7 +5604,7 @@
       },
       "B71103": {
         "Book On Location": "HTD",
-        "Book On Time": "5:05",
+        "Book On Time": "05:05",
         "Book Off Time": "13:05",
         "Book Off Location": "HUH",
         "Duration": "7:30",
@@ -5636,7 +5636,7 @@
       },
       "B71107": {
         "Book On Location": "HUH",
-        "Book On Time": "5:17",
+        "Book On Time": "05:17",
         "Book Off Time": "12:47",
         "Book Off Location": "HUH",
         "Duration": "7:00",
@@ -5644,7 +5644,7 @@
       },
       "B71108": {
         "Book On Location": "HUH",
-        "Book On Time": "8:05",
+        "Book On Time": "08:05",
         "Book Off Time": "16:50",
         "Book Off Location": "HUH",
         "Duration": "8:15",
@@ -5653,7 +5653,7 @@
       "B71109": {
         "Book On Location": "HUH",
         "Book On Time": "16:38",
-        "Book Off Time": "1:23",
+        "Book Off Time": "01:23",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "FOTP1  STOP"
@@ -5661,7 +5661,7 @@
       "B71110": {
         "Book On Location": "HUH",
         "Book On Time": "18:52",
-        "Book Off Time": "1:37",
+        "Book Off Time": "01:37",
         "Book Off Location": "HUH",
         "Duration": "6:15",
         "Remarks": "SHTP3 STOP"
@@ -5676,7 +5676,7 @@
       },
       "B71112": {
         "Book On Location": "HUH",
-        "Book On Time": "5:22",
+        "Book On Time": "05:22",
         "Book Off Time": "12:22",
         "Book Off Location": "HUH",
         "Duration": "6:30",
@@ -5684,7 +5684,7 @@
       },
       "B71113": {
         "Book On Location": "SHT",
-        "Book On Time": "4:05",
+        "Book On Time": "04:05",
         "Book Off Time": "10:50",
         "Book Off Location": "HTD",
         "Duration": "6:15",
@@ -5724,7 +5724,7 @@
       },
       "B71118": {
         "Book On Location": "HUH",
-        "Book On Time": "5:44",
+        "Book On Time": "05:44",
         "Book Off Time": "13:14",
         "Book Off Location": "HUH",
         "Duration": "7:00",
@@ -5732,7 +5732,7 @@
       },
       "B71119": {
         "Book On Location": "HUH",
-        "Book On Time": "4:28",
+        "Book On Time": "04:28",
         "Book Off Time": "10:58",
         "Book Off Location": "HUH",
         "Duration": "6:00",
@@ -5741,7 +5741,7 @@
       "B71120": {
         "Book On Location": "HUH",
         "Book On Time": "17:42",
-        "Book Off Time": "0:52",
+        "Book Off Time": "00:52",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "MKKP1S STOP"
@@ -5749,7 +5749,7 @@
       "B71121": {
         "Book On Location": "HUH",
         "Book On Time": "18:16",
-        "Book Off Time": "1:16",
+        "Book Off Time": "01:16",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "SHTP4  STOP"
@@ -5757,14 +5757,14 @@
       "B71122": {
         "Book On Location": "HUH",
         "Book On Time": "15:37",
-        "Book Off Time": "0:22",
+        "Book Off Time": "00:22",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "SHTP4S  STOP"
       },
       "B71123": {
         "Book On Location": "HUH",
-        "Book On Time": "7:20",
+        "Book On Time": "07:20",
         "Book Off Time": "16:05",
         "Book Off Location": "HUH",
         "Duration": "8:15",
@@ -5772,7 +5772,7 @@
       },
       "B71124": {
         "Book On Location": "HUH",
-        "Book On Time": "7:17",
+        "Book On Time": "07:17",
         "Book Off Time": "15:02",
         "Book Off Location": "HUH",
         "Duration": "7:15",
@@ -5780,7 +5780,7 @@
       },
       "B71125": {
         "Book On Location": "HTD",
-        "Book On Time": "5:11",
+        "Book On Time": "05:11",
         "Book Off Time": "12:41",
         "Book Off Location": "HUH",
         "Duration": "7:00",
@@ -5804,7 +5804,7 @@
       },
       "B71128": {
         "Book On Location": "HUH",
-        "Book On Time": "6:41",
+        "Book On Time": "06:41",
         "Book Off Time": "15:26",
         "Book Off Location": "HUH",
         "Duration": "8:15",
@@ -5812,7 +5812,7 @@
       },
       "B71129": {
         "Book On Location": "SHT",
-        "Book On Time": "4:05",
+        "Book On Time": "04:05",
         "Book Off Time": "10:35",
         "Book Off Location": "HUH",
         "Duration": "6:00",
@@ -5821,7 +5821,7 @@
       "B71130": {
         "Book On Location": "HUH",
         "Book On Time": "18:38",
-        "Book Off Time": "1:53",
+        "Book Off Time": "01:53",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "SHTP3  STOP"
@@ -5829,7 +5829,7 @@
       "B71131": {
         "Book On Location": "HUH",
         "Book On Time": "17:15",
-        "Book Off Time": "1:30",
+        "Book Off Time": "01:30",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "KB"
@@ -5852,7 +5852,7 @@
       },
       "B71134": {
         "Book On Location": "HTD",
-        "Book On Time": "5:00",
+        "Book On Time": "05:00",
         "Book Off Time": "13:30",
         "Book Off Location": "HTD",
         "Duration": "8:00",
@@ -5860,7 +5860,7 @@
       },
       "B71135": {
         "Book On Location": "HUH",
-        "Book On Time": "4:50",
+        "Book On Time": "04:50",
         "Book Off Time": "12:35",
         "Book Off Location": "HUH",
         "Duration": "7:15",
@@ -5869,7 +5869,7 @@
       "B71136": {
         "Book On Location": "HUH",
         "Book On Time": "18:20",
-        "Book Off Time": "1:20",
+        "Book Off Time": "01:20",
         "Book Off Location": "HUH",
         "Duration": "6:30",
         "Remarks": "HUHP1  STOP"
@@ -5877,7 +5877,7 @@
       "B71137": {
         "Book On Location": "HUH",
         "Book On Time": "16:10",
-        "Book Off Time": "0:55",
+        "Book Off Time": "00:55",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "EMU"
@@ -5885,14 +5885,14 @@
       "B71138": {
         "Book On Location": "HUH",
         "Book On Time": "17:13",
-        "Book Off Time": "0:58",
+        "Book Off Time": "00:58",
         "Book Off Location": "HUH",
         "Duration": "7:15",
         "Remarks": "RACP1  STOP"
       },
       "B71139": {
         "Book On Location": "HUH",
-        "Book On Time": "7:01",
+        "Book On Time": "07:01",
         "Book Off Time": "14:31",
         "Book Off Location": "HUH",
         "Duration": "7:00",
@@ -5900,7 +5900,7 @@
       },
       "B71140": {
         "Book On Location": "HUH",
-        "Book On Time": "4:28",
+        "Book On Time": "04:28",
         "Book Off Time": "12:28",
         "Book Off Location": "HUH",
         "Duration": "7:30",
@@ -5917,7 +5917,7 @@
       "B71142": {
         "Book On Location": "HUH",
         "Book On Time": "16:34",
-        "Book Off Time": "1:19",
+        "Book Off Time": "01:19",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "MKKP1  STOP"
@@ -5925,14 +5925,14 @@
       "B71143": {
         "Book On Location": "HTD",
         "Book On Time": "16:47",
-        "Book Off Time": "1:17",
+        "Book Off Time": "01:17",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "T29"
       },
       "B71144": {
         "Book On Location": "HUH",
-        "Book On Time": "7:53",
+        "Book On Time": "07:53",
         "Book Off Time": "15:23",
         "Book Off Location": "HUH",
         "Duration": "7:00",
@@ -5972,7 +5972,7 @@
       },
       "B71149": {
         "Book On Location": "HUH",
-        "Book On Time": "4:50",
+        "Book On Time": "04:50",
         "Book Off Time": "12:05",
         "Book Off Location": "HUH",
         "Duration": "6:45",
@@ -5980,7 +5980,7 @@
       },
       "B71150": {
         "Book On Location": "HUH",
-        "Book On Time": "4:28",
+        "Book On Time": "04:28",
         "Book Off Time": "10:58",
         "Book Off Location": "HUH",
         "Duration": "6:00",
@@ -5997,7 +5997,7 @@
       "B71152": {
         "Book On Location": "HUH",
         "Book On Time": "18:27",
-        "Book Off Time": "1:42",
+        "Book Off Time": "01:42",
         "Book Off Location": "HUH",
         "Duration": "6:45",
         "Remarks": "HUHP4  STOP"
@@ -6005,7 +6005,7 @@
       "B71153": {
         "Book On Location": "HUH",
         "Book On Time": "18:23",
-        "Book Off Time": "1:53",
+        "Book Off Time": "01:53",
         "Book Off Location": "HUH",
         "Duration": "7:00",
         "Remarks": "SHTP1  STOP"
@@ -6013,14 +6013,14 @@
       "B71154": {
         "Book On Location": "HUH",
         "Book On Time": "16:17",
-        "Book Off Time": "1:02",
+        "Book Off Time": "01:02",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "EMU"
       },
       "B71155": {
         "Book On Location": "HUH",
-        "Book On Time": "8:20",
+        "Book On Time": "08:20",
         "Book Off Time": "17:05",
         "Book Off Location": "HUH",
         "Duration": "8:15",
@@ -6028,7 +6028,7 @@
       },
       "B71156": {
         "Book On Location": "HTD",
-        "Book On Time": "8:04",
+        "Book On Time": "08:04",
         "Book Off Time": "16:49",
         "Book Off Location": "HUH",
         "Duration": "8:15",
@@ -6060,7 +6060,7 @@
       },
       "B71301": {
         "Book On Location": "HUH",
-        "Book On Time": "8:00",
+        "Book On Time": "08:00",
         "Book Off Time": "14:30",
         "Book Off Location": "HUH",
         "Duration": "6:00",
@@ -6068,7 +6068,7 @@
       },
       "B71302": {
         "Book On Location": "LOW",
-        "Book On Time": "7:15",
+        "Book On Time": "07:15",
         "Book Off Time": "15:15",
         "Book Off Location": "LOW",
         "Duration": "7:30",
@@ -6077,7 +6077,7 @@
       "B71303": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET12"
@@ -6085,7 +6085,7 @@
       "B71304": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET6"
@@ -6093,7 +6093,7 @@
       "B71305": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET5"
@@ -6140,7 +6140,7 @@
       },
       "B71311": {
         "Book On Location": "HUH",
-        "Book On Time": "8:00",
+        "Book On Time": "08:00",
         "Book Off Time": "15:00",
         "Book Off Location": "HUH",
         "Duration": "6:30",
@@ -6148,7 +6148,7 @@
       },
       "B71312": {
         "Book On Location": "HUH",
-        "Book On Time": "6:53",
+        "Book On Time": "06:53",
         "Book Off Time": "15:38",
         "Book Off Location": "HUH",
         "Duration": "8:15",
@@ -6157,7 +6157,7 @@
       "B71313": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET8"
@@ -6165,7 +6165,7 @@
       "B71314": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET3"
@@ -6173,14 +6173,14 @@
       "B71315": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET1"
       },
       "B71316": {
         "Book On Location": "LOW",
-        "Book On Time": "7:15",
+        "Book On Time": "07:15",
         "Book Off Time": "15:15",
         "Book Off Location": "LOW",
         "Duration": "7:30",
@@ -6189,7 +6189,7 @@
       "B71317": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET11"
@@ -6197,7 +6197,7 @@
       "B71318": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET10"
@@ -6205,7 +6205,7 @@
       "B71319": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET2"
@@ -6221,7 +6221,7 @@
       "B71321": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET9"
@@ -6229,7 +6229,7 @@
       "B71322": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET7"
@@ -6237,14 +6237,14 @@
       "B71323": {
         "Book On Location": "HUH",
         "Book On Time": "22:10",
-        "Book Off Time": "6:10",
+        "Book Off Time": "06:10",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "ET4"
       },
       "B71501": {
         "Book On Location": "HTD",
-        "Book On Time": "6:27",
+        "Book On Time": "06:27",
         "Book Off Time": "14:27",
         "Book Off Location": "HUH",
         "Duration": "7:30",
@@ -6252,7 +6252,7 @@
       },
       "B71502": {
         "Book On Location": "SHS",
-        "Book On Time": "4:55",
+        "Book On Time": "04:55",
         "Book Off Time": "11:40",
         "Book Off Location": "HUH",
         "Duration": "6:15",
@@ -6260,7 +6260,7 @@
       },
       "B71503": {
         "Book On Location": "SHT",
-        "Book On Time": "4:05",
+        "Book On Time": "04:05",
         "Book Off Time": "10:35",
         "Book Off Location": "HUH",
         "Duration": "6:00",
@@ -6269,7 +6269,7 @@
       "B71504": {
         "Book On Location": "HUH",
         "Book On Time": "15:29",
-        "Book Off Time": "0:14",
+        "Book Off Time": "00:14",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "LG2S STOP"
@@ -6292,7 +6292,7 @@
       },
       "B71507": {
         "Book On Location": "SHS",
-        "Book On Time": "4:55",
+        "Book On Time": "04:55",
         "Book Off Time": "12:40",
         "Book Off Location": "HUH",
         "Duration": "7:15",
@@ -6300,7 +6300,7 @@
       },
       "B71508": {
         "Book On Location": "SHT",
-        "Book On Time": "4:05",
+        "Book On Time": "04:05",
         "Book Off Time": "11:20",
         "Book Off Location": "HUH",
         "Duration": "6:45",
@@ -6309,7 +6309,7 @@
       "B71509": {
         "Book On Location": "HUH",
         "Book On Time": "17:54",
-        "Book Off Time": "1:54",
+        "Book Off Time": "01:54",
         "Book Off Location": "HTD",
         "Duration": "7:30",
         "Remarks": "EMU"
@@ -6317,7 +6317,7 @@
       "B71510": {
         "Book On Location": "HUH",
         "Book On Time": "17:02",
-        "Book Off Time": "1:32",
+        "Book Off Time": "01:32",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "SHSP2 STOP"
@@ -6332,7 +6332,7 @@
       },
       "B71512": {
         "Book On Location": "SHS",
-        "Book On Time": "4:55",
+        "Book On Time": "04:55",
         "Book Off Time": "12:55",
         "Book Off Location": "HUH",
         "Duration": "7:30",
@@ -6340,7 +6340,7 @@
       },
       "B71513": {
         "Book On Location": "SHS",
-        "Book On Time": "4:55",
+        "Book On Time": "04:55",
         "Book Off Time": "12:10",
         "Book Off Location": "HUH",
         "Duration": "6:45",
@@ -6348,7 +6348,7 @@
       },
       "B71514": {
         "Book On Location": "SHT",
-        "Book On Time": "4:05",
+        "Book On Time": "04:05",
         "Book Off Time": "12:05",
         "Book Off Location": "HUH",
         "Duration": "7:30",
@@ -6380,7 +6380,7 @@
       },
       "B71518": {
         "Book On Location": "SHT",
-        "Book On Time": "4:05",
+        "Book On Time": "04:05",
         "Book Off Time": "12:05",
         "Book Off Location": "HUH",
         "Duration": "7:30",
@@ -6388,7 +6388,7 @@
       },
       "B71519": {
         "Book On Location": "SHS",
-        "Book On Time": "4:55",
+        "Book On Time": "04:55",
         "Book Off Time": "11:55",
         "Book Off Location": "HUH",
         "Duration": "6:30",
@@ -6397,7 +6397,7 @@
       "B71520": {
         "Book On Location": "HUH",
         "Book On Time": "16:48",
-        "Book Off Time": "1:33",
+        "Book Off Time": "01:33",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "LMCP1 STOP"
@@ -6405,7 +6405,7 @@
       "B71521": {
         "Book On Location": "HUH",
         "Book On Time": "16:24",
-        "Book Off Time": "0:09",
+        "Book Off Time": "00:09",
         "Book Off Location": "HTD",
         "Duration": "7:15",
         "Remarks": "LG2N STOP"
@@ -6420,7 +6420,7 @@
       },
       "B71523": {
         "Book On Location": "HUH",
-        "Book On Time": "7:05",
+        "Book On Time": "07:05",
         "Book Off Time": "15:50",
         "Book Off Location": "HUH",
         "Duration": "8:15",
@@ -6428,7 +6428,7 @@
       },
       "B71524": {
         "Book On Location": "SHS",
-        "Book On Time": "4:55",
+        "Book On Time": "04:55",
         "Book Off Time": "13:25",
         "Book Off Location": "HUH",
         "Duration": "8:00",
@@ -6436,7 +6436,7 @@
       },
       "B71525": {
         "Book On Location": "SHT",
-        "Book On Time": "4:05",
+        "Book On Time": "04:05",
         "Book Off Time": "11:35",
         "Book Off Location": "HUH",
         "Duration": "7:00",
@@ -6445,7 +6445,7 @@
       "B71526": {
         "Book On Location": "HUH",
         "Book On Time": "17:17",
-        "Book Off Time": "1:32",
+        "Book Off Time": "01:32",
         "Book Off Location": "HTD",
         "Duration": "7:45",
         "Remarks": "LOWP3 STOP"
@@ -6453,14 +6453,14 @@
       "B71527": {
         "Book On Location": "HUH",
         "Book On Time": "16:00",
-        "Book Off Time": "0:30",
+        "Book Off Time": "00:30",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "SB"
       },
       "B71528": {
         "Book On Location": "HTD",
-        "Book On Time": "6:04",
+        "Book On Time": "06:04",
         "Book Off Time": "13:49",
         "Book Off Location": "HUH",
         "Duration": "7:15",
@@ -6468,7 +6468,7 @@
       },
       "B71529": {
         "Book On Location": "SHT",
-        "Book On Time": "4:05",
+        "Book On Time": "04:05",
         "Book Off Time": "10:50",
         "Book Off Location": "HUH",
         "Duration": "6:15",
@@ -6477,7 +6477,7 @@
       "B71530": {
         "Book On Location": "HUH",
         "Book On Time": "18:48",
-        "Book Off Time": "1:33",
+        "Book Off Time": "01:33",
         "Book Off Location": "HTD",
         "Duration": "6:15",
         "Remarks": "EMU"
@@ -6485,7 +6485,7 @@
       "B71531": {
         "Book On Location": "HUH",
         "Book On Time": "16:45",
-        "Book Off Time": "1:30",
+        "Book Off Time": "01:30",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "LG1S STOP"
@@ -6493,7 +6493,7 @@
       "B71532": {
         "Book On Location": "HUH",
         "Book On Time": "16:14",
-        "Book Off Time": "0:59",
+        "Book Off Time": "00:59",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "SHS OFF"
@@ -6508,7 +6508,7 @@
       },
       "B71534": {
         "Book On Location": "SHS",
-        "Book On Time": "4:55",
+        "Book On Time": "04:55",
         "Book Off Time": "12:55",
         "Book Off Location": "HUH",
         "Duration": "7:30",
@@ -6516,7 +6516,7 @@
       },
       "B71535": {
         "Book On Location": "SHT",
-        "Book On Time": "4:05",
+        "Book On Time": "04:05",
         "Book Off Time": "10:35",
         "Book Off Location": "HUH",
         "Duration": "6:00",
@@ -6525,7 +6525,7 @@
       "B71536": {
         "Book On Location": "HUH",
         "Book On Time": "17:33",
-        "Book Off Time": "1:48",
+        "Book Off Time": "01:48",
         "Book Off Location": "HTD",
         "Duration": "7:45",
         "Remarks": "EMU"
@@ -6533,7 +6533,7 @@
       "B71537": {
         "Book On Location": "HUH",
         "Book On Time": "16:31",
-        "Book Off Time": "1:16",
+        "Book Off Time": "01:16",
         "Book Off Location": "HUH",
         "Duration": "8:15",
         "Remarks": "LMCP2 STOP"
@@ -6548,7 +6548,7 @@
       },
       "B71539": {
         "Book On Location": "HTD",
-        "Book On Time": "4:55",
+        "Book On Time": "04:55",
         "Book Off Time": "12:40",
         "Book Off Location": "HUH",
         "Duration": "6:45",
@@ -6556,7 +6556,7 @@
       },
       "B71540": {
         "Book On Location": "HTD",
-        "Book On Time": "5:22",
+        "Book On Time": "05:22",
         "Book Off Time": "13:52",
         "Book Off Location": "HUH",
         "Duration": "8:00",
@@ -6565,7 +6565,7 @@
       "B71541": {
         "Book On Location": "HUH",
         "Book On Time": "17:36",
-        "Book Off Time": "1:36",
+        "Book Off Time": "01:36",
         "Book Off Location": "HUH",
         "Duration": "7:30",
         "Remarks": "FOTP4  STOP"
@@ -6573,7 +6573,7 @@
       "B71542": {
         "Book On Location": "HUH",
         "Book On Time": "15:54",
-        "Book Off Time": "0:09",
+        "Book Off Time": "00:09",
         "Book Off Location": "HUH",
         "Duration": "7:45",
         "Remarks": "TAPP1  STOP"
@@ -6588,7 +6588,7 @@
       },
       "B71544": {
         "Book On Location": "SHS",
-        "Book On Time": "4:55",
+        "Book On Time": "04:55",
         "Book Off Time": "13:10",
         "Book Off Location": "HUH",
         "Duration": "7:45",
@@ -6596,7 +6596,7 @@
       },
       "B71545": {
         "Book On Location": "SHT",
-        "Book On Time": "4:05",
+        "Book On Time": "04:05",
         "Book Off Time": "11:50",
         "Book Off Location": "HUH",
         "Duration": "7:15",
@@ -6605,7 +6605,7 @@
       "B71546": {
         "Book On Location": "HUH",
         "Book On Time": "18:34",
-        "Book Off Time": "1:19",
+        "Book Off Time": "01:19",
         "Book Off Location": "HUH",
         "Duration": "6:15",
         "Remarks": "LG1N STOP"
@@ -6613,7 +6613,7 @@
       "B71547": {
         "Book On Location": "HUH",
         "Book On Time": "17:47",
-        "Book Off Time": "1:32",
+        "Book Off Time": "01:32",
         "Book Off Location": "HTD",
         "Duration": "7:15",
         "Remarks": "EMU"
@@ -6621,14 +6621,14 @@
       "B71548": {
         "Book On Location": "HUH",
         "Book On Time": "16:52",
-        "Book Off Time": "0:52",
+        "Book Off Time": "00:52",
         "Book Off Location": "HTD",
         "Duration": "7:30",
         "Remarks": "EMU"
       },
       "B71549": {
         "Book On Location": "SHS",
-        "Book On Time": "4:55",
+        "Book On Time": "04:55",
         "Book Off Time": "13:10",
         "Book Off Location": "HUH",
         "Duration": "7:45",
@@ -6636,7 +6636,7 @@
       },
       "B71550": {
         "Book On Location": "SHS",
-        "Book On Time": "4:55",
+        "Book On Time": "04:55",
         "Book Off Time": "11:40",
         "Book Off Location": "HUH",
         "Duration": "6:15",
@@ -6645,7 +6645,7 @@
       "B71551": {
         "Book On Location": "HUH",
         "Book On Time": "17:09",
-        "Book Off Time": "1:39",
+        "Book Off Time": "01:39",
         "Book Off Location": "HUH",
         "Duration": "8:00",
         "Remarks": "LOWP1  STOP"
@@ -6653,7 +6653,7 @@
       "B71552": {
         "Book On Location": "HTD",
         "Book On Time": "16:30",
-        "Book Off Time": "0:45",
+        "Book Off Time": "00:45",
         "Book Off Location": "HTD",
         "Duration": "7:45",
         "Remarks": "HB"
@@ -6668,7 +6668,7 @@
       },
       "B71554": {
         "Book On Location": "HUH",
-        "Book On Time": "7:56",
+        "Book On Time": "07:56",
         "Book Off Time": "16:41",
         "Book Off Location": "HUH",
         "Duration": "8:15",
