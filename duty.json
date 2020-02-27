@@ -1,3370 +1,1072 @@
 {
-    "Y15": {
-      "Y15101": {
+    "X15":{
+      },
+    "J75":{
+      "J75101": {
         "Book On Location": "HUH",
-        "Book On Time": "07:33 AM",
-        "Book Off Time": "03:48 PM",
+        "Book On Time": "07:00 AM",
+        "Book Off Time": "02:00 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:45",
+        "Duration": "06:30",
+        "Remarks": "HUH BY + EMU"
+      },
+      "J75102": {
+        "Book On Location": "HUH",
+        "Book On Time": "05:51 AM",
+        "Book Off Time": "12:51 PM",
+        "Book Off Location": "HUH",
+        "Duration": "06:30",
         "Remarks": "EMU"
       },
-      "Y15102": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:16 AM",
-        "Book Off Time": "01:31 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "MKKP1S T3"
-      },
-      "Y15103": {
+      "J75103": {
         "Book On Location": "HTD",
         "Book On Time": "05:05 AM",
         "Book Off Time": "11:35 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:00",
+        "Book Off Location": "HTD",
+        "Duration": "06:00",
         "Remarks": "T24"
       },
-      "Y15104": {
+      "J75104": {
         "Book On Location": "HUH",
-        "Book On Time": "01:45 PM",
-        "Book Off Time": "09:45 PM",
+        "Book On Time": "12:12 PM",
+        "Book Off Time": "07:42 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:45",
+        "Duration": "07:00",
         "Remarks": "EMU"
       },
-      "Y15105": {
+      "J75105": {
         "Book On Location": "HUH",
         "Book On Time": "11:00 AM",
         "Book Off Time": "07:45 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
+        "Duration": "08:15",
         "Remarks": "KB"
       },
-      "Y15106": {
+      "J75106": {
         "Book On Location": "HUH",
-        "Book On Time": "10:24 AM",
-        "Book Off Time": "06:39 PM",
+        "Book On Time": "10:55 AM",
+        "Book Off Time": "05:40 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:45",
+        "Duration": "06:15",
         "Remarks": "EMU"
       },
-      "Y15107": {
+      "J75107": {
         "Book On Location": "HUH",
         "Book On Time": "05:22 AM",
-        "Book Off Time": "12:52 PM",
+        "Book Off Time": "01:07 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:00",
+        "Duration": "07:15",
         "Remarks": "EMU"
       },
-      "Y15108": {
+      "J75108": {
         "Book On Location": "HUH",
-        "Book On Time": "08:11 AM",
-        "Book Off Time": "03:11 PM",
+        "Book On Time": "08:14 AM",
+        "Book Off Time": "02:59 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "06:15",
         "Remarks": "EMU"
       },
-      "Y15109": {
+      "J75109": {
         "Book On Location": "HUH",
-        "Book On Time": "04:49 PM",
-        "Book Off Time": "01:19 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "FOTP1 停放"
-      },
-      "Y15110": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:56 PM",
-        "Book Off Time": "01:41 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "SHTP3 停放"
-      },
-      "Y15111": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:03 PM",
-        "Book Off Time": "10:18 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y15112": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:17 AM",
-        "Book Off Time": "01:02 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "Y15113": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "SHTP4S T8/HTD 換車隊"
-      },
-      "Y15114": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:38 PM",
-        "Book Off Time": "08:23 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU/充風隊"
-      },
-      "Y15115": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:30 PM",
-        "Book Off Time": "09:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y15116": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:24 PM",
-        "Book Off Time": "08:24 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU/Standby"
-      },
-      "Y15117": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:07 AM",
-        "Book Off Time": "04:22 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y15118": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:26 AM",
-        "Book Off Time": "01:11 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "Y15119": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "11:13 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:15",
-        "Remarks": "MKKP3 T5"
-      },
-      "Y15120": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:41 PM",
-        "Book Off Time": "01:26 AM",
-        "Book Off Location": "HTD",
-        "Duration": "6:15",
-        "Remarks": "EMU"
-      },
-      "Y15121": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:11 PM",
-        "Book Off Time": "01:26 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "SHTP4 停放"
-      },
-      "Y15122": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:14 PM",
-        "Book Off Time": "12:44 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "SHTP4S 停放"
-      },
-      "Y15123": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:53 AM",
-        "Book Off Time": "12:53 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "HTD on duty/EMU"
-      },
-      "Y15124": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:55 AM",
-        "Book Off Time": "02:55 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y15125": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:11 AM",
-        "Book Off Time": "11:41 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "T25/充風隊"
-      },
-      "Y15126": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:18 PM",
-        "Book Off Time": "09:33 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y15127": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:02 PM",
-        "Book Off Time": "08:02 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y15128": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:52 AM",
-        "Book Off Time": "03:07 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y15129": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:05 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "SHTP3 T7"
-      },
-      "Y15130": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:17 PM",
-        "Book Off Time": "01:47 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "MKKP3 停放"
-      },
-      "Y15131": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:15 PM",
+        "Book On Time": "04:45 PM",
         "Book Off Time": "01:30 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "KB"
+        "Duration": "08:15",
+        "Remarks": "FOTP1  STOP"
       },
-      "Y15132": {
+      "J75110": {
         "Book On Location": "HUH",
-        "Book On Time": "04:00 PM",
-        "Book Off Time": "12:00 AM",
+        "Book On Time": "07:13 PM",
+        "Book Off Time": "01:43 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:30",
+        "Duration": "06:00",
+        "Remarks": "SHTP3 STOP"
+      },
+      "J75111": {
+        "Book On Location": "HUH",
+        "Book On Time": "02:04 PM",
+        "Book Off Time": "08:34 PM",
+        "Book Off Location": "HUH",
+        "Duration": "06:00",
         "Remarks": "EMU"
       },
-      "Y15133": {
+      "J75112": {
         "Book On Location": "HUH",
-        "Book On Time": "06:41 AM",
-        "Book Off Time": "03:26 PM",
+        "Book On Time": "05:17 AM",
+        "Book Off Time": "12:17 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
+        "Duration": "06:30",
         "Remarks": "EMU"
       },
-      "Y15134": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:00 AM",
-        "Book Off Time": "01:30 PM",
-        "Book Off Location": "HTD",
-        "Duration": "8:00",
-        "Remarks": "HB/Hot Standby"
-      },
-      "Y15135": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:50 AM",
-        "Book Off Time": "11:20 AM",
+      "J75113": {
+        "Book On Location": "SHT",
+        "Book On Time": "04:05 AM",
+        "Book Off Time": "10:35 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "HUHP1 T1"
+        "Duration": "06:00",
+        "Remarks": "SHTP4S T8"
       },
-      "Y15136": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:53 PM",
-        "Book Off Time": "01:23 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "MKKP1 停放"
-      },
-      "Y15137": {
-        "Book On Location": "HTD",
-        "Book On Time": "04:28 PM",
-        "Book Off Time": "01:13 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "T8a"
-      },
-      "Y15138": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:32 PM",
-        "Book Off Time": "01:02 AM",
-        "Book Off Location": "HTD",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "Y15139": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:56 AM",
-        "Book Off Time": "01:56 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y15140": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "12:28 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "KB"
-      },
-      "Y15141": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:34 AM",
-        "Book Off Time": "02:49 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y15142": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:42 PM",
-        "Book Off Time": "01:42 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "HUHP1 停放"
-      },
-      "Y15143": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:18 PM",
-        "Book Off Time": "01:18 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y15144": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:15 AM",
-        "Book Off Time": "02:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y15145": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:04 AM",
-        "Book Off Time": "04:34 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "Y15146": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:14 PM",
-        "Book Off Time": "09:44 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "Y15147": {
+      "J75114": {
         "Book On Location": "HUH",
         "Book On Time": "12:47 PM",
-        "Book Off Time": "09:02 PM",
-        "Book Off Location": "HTD",
-        "Duration": "8:00",
+        "Book Off Time": "08:17 PM",
+        "Book Off Location": "HUH",
+        "Duration": "07:00",
+        "Remarks": "EMU + PM BY"
+      },
+      "J75115": {
+        "Book On Location": "HUH",
+        "Book On Time": "01:08 PM",
+        "Book Off Time": "07:53 PM",
+        "Book Off Location": "HUH",
+        "Duration": "06:15",
         "Remarks": "EMU"
       },
-      "Y15148": {
+      "J75116": {
         "Book On Location": "HUH",
-        "Book On Time": "11:26 AM",
-        "Book Off Time": "06:56 PM",
+        "Book On Time": "12:26 PM",
+        "Book Off Time": "07:11 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "EMU/Standby"
+        "Duration": "06:15",
+        "Remarks": "EMU"
       },
-      "Y15149": {
+      "J75117": {
+        "Book On Location": "",
+        "Book On Time": "GH",
+        "Book Off Time": "",
+        "Book Off Location": "",
+        "Duration": "",
+        "Remarks": ""
+      },
+      "J75118": {
         "Book On Location": "HUH",
-        "Book On Time": "04:50 AM",
-        "Book Off Time": "12:20 PM",
+        "Book On Time": "05:26 AM",
+        "Book Off Time": "12:11 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "HUHP4 T2/AM BY"
+        "Duration": "06:15",
+        "Remarks": "EMU"
       },
-      "Y15150": {
+      "J75119": {
         "Book On Location": "HUH",
         "Book On Time": "04:28 AM",
         "Book Off Time": "10:58 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "MKKP1 T4"
+        "Duration": "06:00",
+        "Remarks": "MKKP3 T5"
       },
-      "Y15151": {
+      "J75120": {
+        "Book On Location": "HUH",
+        "Book On Time": "03:21 PM",
+        "Book Off Time": "10:51 PM",
+        "Book Off Location": "HTD",
+        "Duration": "07:00",
+        "Remarks": "EMU"
+      },
+      "J75121": {
+        "Book On Location": "HUH",
+        "Book On Time": "04:31 PM",
+        "Book Off Time": "01:16 AM",
+        "Book Off Location": "HUH",
+        "Duration": "08:15",
+        "Remarks": "SHTP4  STOP"
+      },
+      "J75122": {
+        "Book On Location": "HUH",
+        "Book On Time": "03:07 PM",
+        "Book Off Time": "10:22 PM",
+        "Book Off Location": "HUH",
+        "Duration": "06:45",
+        "Remarks": "SHTP4S  STOP"
+      },
+      "J75123": {
         "Book On Location": "HTD",
-        "Book On Time": "05:26 AM",
-        "Book Off Time": "01:56 PM",
+        "Book On Time": "06:22 AM",
+        "Book Off Time": "01:07 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "T27"
-      },
-      "Y15152": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:53 PM",
-        "Book Off Time": "01:53 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "HUHP4 停放"
-      },
-      "Y15153": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:12 PM",
-        "Book Off Time": "01:57 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:15",
-        "Remarks": "SHTP1 停放"
-      },
-      "Y15154": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:14 PM",
-        "Book Off Time": "01:14 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
+        "Duration": "06:15",
         "Remarks": "EMU"
       },
-      "Y15155": {
+      "J75124": {
         "Book On Location": "HUH",
-        "Book On Time": "06:37 AM",
-        "Book Off Time": "02:52 PM",
+        "Book On Time": "06:51 AM",
+        "Book Off Time": "02:06 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:45",
+        "Duration": "06:45",
         "Remarks": "EMU"
       },
-      "Y15156": {
+      "J75125": {
         "Book On Location": "HTD",
-        "Book On Time": "06:36 AM",
-        "Book Off Time": "02:36 PM",
+        "Book On Time": "05:11 AM",
+        "Book Off Time": "11:41 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "T29"
+        "Duration": "06:00",
+        "Remarks": "T25"
       },
-      "Y15157": {
+      "J75126": {
         "Book On Location": "HUH",
-        "Book On Time": "03:15 PM",
-        "Book Off Time": "12:00 AM",
+        "Book On Time": "01:22 PM",
+        "Book Off Time": "08:07 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "MKKP1S 停放"
-      },
-      "Y15158": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:51 PM",
-        "Book Off Time": "08:51 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
+        "Duration": "06:15",
         "Remarks": "EMU"
       },
-      "Y15159": {
-        "Book On Location": "HTD",
-        "Book On Time": "12:00 PM",
-        "Book Off Time": "07:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "HTD BY/T9a"
-      },
-      "Y15301": {
+      "J75127": {
         "Book On Location": "HUH",
-        "Book On Time": "08:00 AM",
-        "Book Off Time": "02:30 PM",
+        "Book On Time": "12:05 PM",
+        "Book Off Time": "06:50 PM",
         "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "P702/P705/P712"
-      },
-      "Y15302": {
-        "Book On Location": "LOW",
-        "Book On Time": "07:15 AM",
-        "Book Off Time": "03:15 PM",
-        "Book Off Location": "LOW",
-        "Duration": "7:30",
-        "Remarks": "RS"
-      },
-      "Y15303": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET12"
-      },
-      "Y15304": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET6"
-      },
-      "Y15305": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET5"
-      },
-      "Y15306": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:15 AM",
-        "Book Off Time": "05:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "P708/P713"
-      },
-      "Y15307": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:36 PM",
-        "Book Off Time": "09:21 PM",
-        "Book Off Location": "HTD",
-        "Duration": "7:15",
+        "Duration": "06:15",
         "Remarks": "EMU"
       },
-      "Y15308": {
+      "J75128": {
         "Book On Location": "HUH",
-        "Book On Time": "01:30 PM",
-        "Book Off Time": "10:15 PM",
+        "Book On Time": "07:03 AM",
+        "Book Off Time": "02:03 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "P714/P717/P720"
-      },
-      "Y15309": {
-        "Book On Location": "LOW",
-        "Book On Time": "02:30 PM",
-        "Book Off Time": "10:30 PM",
-        "Book Off Location": "LOW",
-        "Duration": "7:30",
-        "Remarks": "RS/MTT"
-      },
-      "Y15310": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:30 PM",
-        "Book Off Time": "09:45 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "P711/P718/P721"
-      },
-      "Y15311": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:00 AM",
-        "Book Off Time": "03:00 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "P703/P704/P707"
-      },
-      "Y15312": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:48 AM",
-        "Book Off Time": "04:18 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "06:30",
         "Remarks": "EMU"
       },
-      "Y15313": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET8"
-      },
-      "Y15314": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET3"
-      },
-      "Y15315": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET1"
-      },
-      "Y15316": {
-        "Book On Location": "LOW",
-        "Book On Time": "07:15 AM",
-        "Book Off Time": "03:15 PM",
-        "Book Off Location": "LOW",
-        "Duration": "7:30",
-        "Remarks": "RS"
-      },
-      "Y15317": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET11"
-      },
-      "Y15318": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET10"
-      },
-      "Y15319": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET2"
-      },
-      "Y15320": {
-        "Book On Location": "LOW",
-        "Book On Time": "02:30 PM",
-        "Book Off Time": "10:30 PM",
-        "Book Off Location": "LOW",
-        "Duration": "7:30",
-        "Remarks": "RS/MTT"
-      },
-      "Y15321": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET9"
-      },
-      "Y15322": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET7"
-      },
-      "Y15323": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET2"
-      },
-      "Y15501": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "LOW Step2"
-      },
-      "Y15502": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "11:55 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "LOWP1 T20"
-      },
-      "Y15503": {
+      "J75129": {
         "Book On Location": "SHT",
         "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
+        "Book Off Time": "10:35 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "FOTP4 T11"
+        "Duration": "06:00",
+        "Remarks": "SHTP3 T7"
       },
-      "Y15504": {
+      "J75130": {
         "Book On Location": "HUH",
-        "Book On Time": "02:17 PM",
-        "Book Off Time": "09:32 PM",
+        "Book On Time": "07:09 PM",
+        "Book Off Time": "01:39 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "LG2S 停放"
+        "Duration": "06:00",
+        "Remarks": "MKKP3 STOP"
       },
-      "Y15505": {
+      "J75131": {
         "Book On Location": "HUH",
-        "Book On Time": "02:21 PM",
-        "Book Off Time": "09:36 PM",
-        "Book Off Location": "HTD",
-        "Duration": "6:45",
-        "Remarks": "EMU"
-      },
-      "Y15506": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:59 AM",
-        "Book Off Time": "07:14 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y15507": {
-        "Book On Location": "SHS",
-        "Book On Time": "06:00 AM",
-        "Book Off Time": "02:30 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "LG1N T18/HUH BY"
-      },
-      "Y15508": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "SHTP4 T9"
-      },
-      "Y15509": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:21 PM",
-        "Book Off Time": "01:36 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y15510": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:28 PM",
-        "Book Off Time": "01:28 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "SHSP2 停放"
-      },
-      "Y15511": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:48 PM",
-        "Book Off Time": "10:18 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "SG2S 停放"
-      },
-      "Y15512": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:55 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "SG2S T15"
-      },
-      "Y15513": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:40 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "LMC Step1"
-      },
-      "Y15514": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LOW Step1/HUH BY"
-      },
-      "Y15515": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:09 PM",
-        "Book Off Time": "08:54 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "Y15516": {
-        "Book On Location": "HUH",
-        "Book On Time": "11:39 AM",
-        "Book Off Time": "07:39 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y15517": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:09 AM",
-        "Book Off Time": "03:39 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "Y15518": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "12:05 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "SB"
-      },
-      "Y15519": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "01:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "LMCP2 T23"
-      },
-      "Y15520": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:24 PM",
-        "Book Off Time": "01:24 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "LMCP1 停放"
-      },
-      "Y15521": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:39 PM",
-        "Book Off Time": "12:24 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "LG2N 停放"
-      },
-      "Y15522": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:27 PM",
-        "Book Off Time": "09:57 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "Y15523": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:26 AM",
-        "Book Off Time": "03:56 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "Y15524": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "LOWP3 T21"
-      },
-      "Y15525": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:50 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "FOTP1 T10/Standby"
-      },
-      "Y15526": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:46 PM",
-        "Book Off Time": "01:31 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "LOWP3 停放"
-      },
-      "Y15527": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:00 PM",
-        "Book Off Time": "12:30 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "SB"
-      },
-      "Y15528": {
-        "Book On Location": "HTD",
-        "Book On Time": "06:05 AM",
-        "Book Off Time": "02:34 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "T28"
-      },
-      "Y15529": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:50 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:15",
-        "Remarks": "RACP1 T12"
-      },
-      "Y15530": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:32 PM",
-        "Book Off Time": "01:32 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y15531": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:46 PM",
-        "Book Off Time": "01:31 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "LG1S 停放"
-      },
-      "Y15532": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:23 PM",
-        "Book Off Time": "12:53 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "SHS 報收工"
-      },
-      "Y15533": {
-        "Book On Location": "SHS",
-        "Book On Time": "06:00 AM",
-        "Book Off Time": "01:45 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "SHS by + EMU"
-      },
-      "Y15534": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LG2N T19"
-      },
-      "Y15535": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "10:50 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:15",
-        "Remarks": "SHTP1 T6"
-      },
-      "Y15536": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:06 PM",
-        "Book Off Time": "01:36 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "RACP1 停放"
-      },
-      "Y15537": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:00 PM",
+        "Book On Time": "05:15 PM",
         "Book Off Time": "01:30 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LMCP2 停放"
+        "Duration": "07:45",
+        "Remarks": "KB"
       },
-      "Y15538": {
+      "J75132": {
         "Book On Location": "HUH",
-        "Book On Time": "03:51 PM",
-        "Book Off Time": "12:36 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "SHS 報收工"
-      },
-      "Y15539": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:40 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "LG2S T17"
-      },
-      "Y15540": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:22 AM",
-        "Book Off Time": "01:37 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "T26"
-      },
-      "Y15541": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:07 PM",
-        "Book Off Time": "01:52 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "FOTP4 停放"
-      },
-      "Y15542": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:20 PM",
-        "Book Off Time": "12:05 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "TAPP1 停放"
-      },
-      "Y15543": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:00 PM",
-        "Book Off Time": "09:00 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "SB"
-      },
-      "Y15544": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "SHSP2 T14/Standby"
-      },
-      "Y15545": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:05 AM",
+        "Book On Time": "02:38 PM",
+        "Book Off Time": "10:38 PM",
         "Book Off Location": "HTD",
-        "Duration": "6:30",
-        "Remarks": "TAPP1 T13"
+        "Duration": "07:30",
+        "Remarks": "EMU"
       },
-      "Y15546": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:13 PM",
-        "Book Off Time": "01:28 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "LG1N 停放"
+      "J75133": {
+        "Book On Location": "",
+        "Book On Time": "GH",
+        "Book Off Time": "",
+        "Book Off Location": "",
+        "Duration": "",
+        "Remarks": ""
       },
-      "Y15547": {
+      "J75134": {
         "Book On Location": "HTD",
-        "Book On Time": "04:04 PM",
-        "Book Off Time": "12:19 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "T15a/Standby"
-      },
-      "Y15548": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:35 PM",
-        "Book Off Time": "11:20 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "LMC 報收工"
-      },
-      "Y15549": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LMCP1 T22"
-      },
-      "Y15550": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
+        "Book On Time": "05:00 AM",
+        "Book Off Time": "01:30 PM",
         "Book Off Location": "HTD",
-        "Duration": "6:45",
-        "Remarks": "LG1S T16"
+        "Duration": "08:00",
+        "Remarks": "HB/Hot Standby"
       },
-      "Y15551": {
+      "J75135": {
         "Book On Location": "HUH",
-        "Book On Time": "06:34 PM",
-        "Book Off Time": "01:49 AM",
+        "Book On Time": "04:50 AM",
+        "Book Off Time": "11:20 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "LOWP1 停放"
+        "Duration": "06:00",
+        "Remarks": "HUHP1 T1"
       },
-      "Y15552": {
-        "Book On Location": "HTD",
-        "Book On Time": "04:30 PM",
-        "Book Off Time": "12:45 AM",
+      "J75136": {
+        "Book On Location": "HUH",
+        "Book On Time": "01:50 PM",
+        "Book Off Time": "09:20 PM",
+        "Book Off Location": "HUH",
+        "Duration": "07:00",
+        "Remarks": "MKKP1 STOP"
+      },
+      "J75137": {
+        "Book On Location": "HUH",
+        "Book On Time": "05:54 PM",
+        "Book Off Time": "12:54 AM",
+        "Book Off Location": "HUH",
+        "Duration": "06:30",
+        "Remarks": "EMU"
+      },
+      "J75138": {
+        "Book On Location": "HUH",
+        "Book On Time": "05:54 PM",
+        "Book Off Time": "12:54 AM",
         "Book Off Location": "HTD",
-        "Duration": "7:45",
-        "Remarks": "HB"
-      },
-      "Y15553": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:59 PM",
-        "Book Off Time": "09:59 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU/PM BY"
-      },
-      "Y15554": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:29 AM",
-        "Book Off Time": "04:44 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
+        "Duration": "06:30",
         "Remarks": "EMU"
       },
-      "Y15555": {
+      "J75139": {
         "Book On Location": "HUH",
-        "Book On Time": "08:01 AM",
-        "Book Off Time": "04:46 PM",
+        "Book On Time": "05:58 AM",
+        "Book Off Time": "01:28 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
+        "Duration": "07:00",
         "Remarks": "EMU"
       },
-      "Y15556": {
-        "Book On Location": "HTD",
-        "Book On Time": "06:13 AM",
-        "Book Off Time": "02:43 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "T30/Standby"
-      },
-      "Y15557": {
+      "J75140": {
         "Book On Location": "HUH",
-        "Book On Time": "06:59 PM",
-        "Book Off Time": "01:29 AM",
+        "Book On Time": "04:28 AM",
+        "Book Off Time": "12:28 PM",
+        "Book Off Location": "HUH",
+        "Duration": "07:30",
+        "Remarks": "KB"
+      },
+      "J75141": {
+        "Book On Location": "HUH",
+        "Book On Time": "07:46 AM",
+        "Book Off Time": "03:01 PM",
+        "Book Off Location": "HUH",
+        "Duration": "06:45",
+        "Remarks": "EMU"
+      },
+      "J75142": {
+        "Book On Location": "HUH",
+        "Book On Time": "06:43 PM",
+        "Book Off Time": "01:13 AM",
+        "Book Off Location": "HUH",
+        "Duration": "06:00",
+        "Remarks": "HUHP1 STOP"
+      },
+      "J75143": {
+        "Book On Location": "HUH",
+        "Book On Time": "06:23 PM",
+        "Book Off Time": "01:23 AM",
+        "Book Off Location": "HUH",
+        "Duration": "06:30",
+        "Remarks": "EMU"
+      },
+      "J75144": {
+        "Book On Location": "HUH",
+        "Book On Time": "06:10 AM",
+        "Book Off Time": "01:25 PM",
+        "Book Off Location": "HUH",
+        "Duration": "06:45",
+        "Remarks": "EMU"
+      },
+      "J75145": {
+        "Book On Location": "HUH",
+        "Book On Time": "07:53 AM",
+        "Book Off Time": "03:53 PM",
+        "Book Off Location": "HUH",
+        "Duration": "07:30",
+        "Remarks": "EMU"
+      },
+      "J75146": {
+        "Book On Location": "HUH",
+        "Book On Time": "01:15 PM",
+        "Book Off Time": "08:45 PM",
+        "Book Off Location": "HUH",
+        "Duration": "07:00",
+        "Remarks": "EMU"
+      },
+      "J75147": {
+        "Book On Location": "HUH",
+        "Book On Time": "02:11 PM",
+        "Book Off Time": "08:56 PM",
+        "Book Off Location": "HUH",
+        "Duration": "06:15",
+        "Remarks": "MKKP1S STOP"
+      },
+      "J75148": {
+        "Book On Location": "HUH",
+        "Book On Time": "10:00 AM",
+        "Book Off Time": "05:15 PM",
         "Book Off Location": "HTD",
-        "Duration": "6:00",
-        "Remarks": "EMU"
+        "Duration": "06:45",
+        "Remarks": "HUH BY + MKKP1S T3"
       },
-      "Y15558": {
+      "J75149": {
         "Book On Location": "HUH",
-        "Book On Time": "08:20 AM",
-        "Book Off Time": "05:05 PM",
+        "Book On Time": "04:50 AM",
+        "Book Off Time": "11:20 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
+        "Duration": "06:00",
+        "Remarks": "HUHP4 T2/AM BY"
       },
-      "Y15559": {
+      "J75150": {
         "Book On Location": "HUH",
-        "Book On Time": "02:39 PM",
-        "Book Off Time": "11:24 PM",
+        "Book On Time": "04:28 AM",
+        "Book Off Time": "10:58 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
+        "Duration": "06:00",
+        "Remarks": "MKKP1 T4"
       },
-      "Y15560": {
+      "J75151": {
         "Book On Location": "HUH",
-        "Book On Time": "02:44 PM",
-        "Book Off Time": "10:59 PM",
+        "Book On Time": "06:37 AM",
+        "Book Off Time": "02:22 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:45",
+        "Duration": "07:15",
         "Remarks": "EMU"
       },
-      "Y15561": {
+      "J75152": {
         "Book On Location": "HUH",
-        "Book On Time": "05:00 PM",
+        "Book On Time": "06:30 PM",
         "Book Off Time": "01:45 AM",
-        "Book Off Location": "HTD",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      }
-    },
-    "Y14":{
-      "Y14101": {
+        "Book Off Location": "HUH",
+        "Duration": "06:45",
+        "Remarks": "HUHP4  STOP"
+      },
+      "J75153": {
         "Book On Location": "HUH",
-        "Book On Time": "07:33 AM",
-        "Book Off Time": "03:48 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14102": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:16 AM",
-        "Book Off Time": "01:31 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "MKKP1S T3"
-      },
-      "Y14103": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "T24"
-      },
-      "Y14104": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:45 PM",
-        "Book Off Time": "09:45 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14105": {
-        "Book On Location": "HUH",
-        "Book On Time": "11:00 AM",
-        "Book Off Time": "07:45 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "KB"
-      },
-      "Y14106": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:24 AM",
-        "Book Off Time": "06:39 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14107": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:22 AM",
-        "Book Off Time": "12:52 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "EMU"
-      },
-      "Y14108": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:11 AM",
-        "Book Off Time": "03:11 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "Y14109": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:49 PM",
-        "Book Off Time": "01:19 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "FOTP1 停放"
-      },
-      "Y14110": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:56 PM",
-        "Book Off Time": "01:41 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "SHTP3 停放"
-      },
-      "Y14111": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:03 PM",
-        "Book Off Time": "10:18 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14112": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:17 AM",
-        "Book Off Time": "01:02 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "Y14113": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "SHTP4S T8/HTD 換車隊"
-      },
-      "Y14114": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:38 PM",
-        "Book Off Time": "08:23 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU/充風隊"
-      },
-      "Y14115": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:30 PM",
-        "Book Off Time": "09:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14116": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:24 PM",
-        "Book Off Time": "08:24 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU/Standby"
-      },
-      "Y14117": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:07 AM",
-        "Book Off Time": "04:22 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14118": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:26 AM",
-        "Book Off Time": "01:11 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "Y14119": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "11:13 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:15",
-        "Remarks": "MKKP3 T5"
-      },
-      "Y14120": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:41 PM",
-        "Book Off Time": "01:26 AM",
-        "Book Off Location": "HTD",
-        "Duration": "6:15",
-        "Remarks": "EMU"
-      },
-      "Y14121": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:11 PM",
-        "Book Off Time": "01:26 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "SHTP4 停放"
-      },
-      "Y14122": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:14 PM",
-        "Book Off Time": "12:44 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "SHTP4S 停放"
-      },
-      "Y14123": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:53 AM",
-        "Book Off Time": "12:53 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "HTD on duty/EMU"
-      },
-      "Y14124": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:55 AM",
-        "Book Off Time": "02:55 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y14125": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:11 AM",
-        "Book Off Time": "11:41 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "T25/充風隊"
-      },
-      "Y14126": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:18 PM",
-        "Book Off Time": "09:33 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14127": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:02 PM",
-        "Book Off Time": "08:02 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y14128": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:52 AM",
-        "Book Off Time": "03:07 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14129": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:05 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "SHTP3 T7"
-      },
-      "Y14130": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:17 PM",
+        "Book On Time": "07:17 PM",
         "Book Off Time": "01:47 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "MKKP3 停放"
+        "Duration": "06:00",
+        "Remarks": "SHTP1  STOP"
       },
-      "Y14131": {
+      "J75154": {
         "Book On Location": "HUH",
-        "Book On Time": "05:15 PM",
-        "Book Off Time": "01:30 AM",
+        "Book On Time": "06:06 PM",
+        "Book Off Time": "01:06 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "KB"
-      },
-      "Y14132": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:00 PM",
-        "Book Off Time": "12:00 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
+        "Duration": "06:30",
         "Remarks": "EMU"
       },
-      "Y14133": {
+      "J75155": {
         "Book On Location": "HUH",
-        "Book On Time": "06:41 AM",
-        "Book Off Time": "03:26 PM",
+        "Book On Time": "07:08 AM",
+        "Book Off Time": "02:23 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
+        "Duration": "06:45",
         "Remarks": "EMU"
       },
-      "Y14134": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:00 AM",
-        "Book Off Time": "01:30 PM",
+      "J75156": {
+        "Book On Location": "HUH",
+        "Book On Time": "07:18 AM",
+        "Book Off Time": "03:33 PM",
+        "Book Off Location": "HUH",
+        "Duration": "07:45",
+        "Remarks": "EMU"
+      },
+      "J75157": {
+        "Book On Location": "HUH",
+        "Book On Time": "02:32 PM",
+        "Book Off Time": "09:32 PM",
+        "Book Off Location": "HUH",
+        "Duration": "06:30",
+        "Remarks": "EMU"
+      },
+      "J75158": {
+        "Book On Location": "HUH",
+        "Book On Time": "01:57 PM",
+        "Book Off Time": "08:42 PM",
         "Book Off Location": "HTD",
-        "Duration": "8:00",
-        "Remarks": "HB/Hot Standby"
-      },
-      "Y14135": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:50 AM",
-        "Book Off Time": "11:20 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "HUHP1 T1"
-      },
-      "Y14136": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:53 PM",
-        "Book Off Time": "01:23 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "MKKP1 停放"
-      },
-      "Y14137": {
-        "Book On Location": "HTD",
-        "Book On Time": "04:28 PM",
-        "Book Off Time": "01:13 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "T8a"
-      },
-      "Y14138": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:32 PM",
-        "Book Off Time": "01:02 AM",
-        "Book Off Location": "HTD",
-        "Duration": "8:00",
+        "Duration": "06:15",
         "Remarks": "EMU"
       },
-      "Y14139": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:56 AM",
-        "Book Off Time": "01:56 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y14140": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "12:28 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "KB"
-      },
-      "Y14141": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:34 AM",
-        "Book Off Time": "02:49 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14142": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:42 PM",
-        "Book Off Time": "01:42 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "HUHP1 停放"
-      },
-      "Y14143": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:18 PM",
-        "Book Off Time": "01:18 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y14144": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:15 AM",
-        "Book Off Time": "02:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y14145": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:04 AM",
-        "Book Off Time": "04:34 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "Y14146": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:14 PM",
-        "Book Off Time": "09:44 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "Y14147": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:47 PM",
-        "Book Off Time": "09:02 PM",
-        "Book Off Location": "HTD",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "Y14148": {
-        "Book On Location": "HUH",
-        "Book On Time": "11:26 AM",
-        "Book Off Time": "06:56 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "EMU/Standby"
-      },
-      "Y14149": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:50 AM",
-        "Book Off Time": "12:20 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "HUHP4 T2/AM BY"
-      },
-      "Y14150": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "10:58 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "MKKP1 T4"
-      },
-      "Y14151": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:26 AM",
-        "Book Off Time": "01:56 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "T27"
-      },
-      "Y14152": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:53 PM",
-        "Book Off Time": "01:53 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "HUHP4 停放"
-      },
-      "Y14153": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:12 PM",
-        "Book Off Time": "01:57 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:15",
-        "Remarks": "SHTP1 停放"
-      },
-      "Y14154": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:14 PM",
-        "Book Off Time": "01:14 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y14155": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:37 AM",
-        "Book Off Time": "02:52 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14156": {
-        "Book On Location": "HTD",
-        "Book On Time": "06:36 AM",
-        "Book Off Time": "02:36 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "T29"
-      },
-      "Y14157": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:38 PM",
-        "Book Off Time": "12:08 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "MKKP1S 停放"
-      },
-      "Y14158": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:51 PM",
-        "Book Off Time": "08:51 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "Y14159": {
+      "J75159": {
         "Book On Location": "HTD",
         "Book On Time": "12:00 PM",
-        "Book Off Time": "07:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "HTD BY/T9a"
+        "Book Off Time": "07:30 PM",
+        "Book Off Location": "HTD",
+        "Duration": "07:00",
+        "Remarks": "HB"
       },
-      "Y14301": {
+      "J75301": {
         "Book On Location": "HUH",
         "Book On Time": "08:00 AM",
         "Book Off Time": "02:30 PM",
         "Book Off Location": "HUH",
-        "Duration": "6:00",
+        "Duration": "06:00",
         "Remarks": "P702/P705/P712"
       },
-      "Y14302": {
+      "J75302": {
         "Book On Location": "LOW",
         "Book On Time": "07:15 AM",
         "Book Off Time": "03:15 PM",
         "Book Off Location": "LOW",
-        "Duration": "7:30",
+        "Duration": "07:30",
         "Remarks": "RS"
       },
-      "Y14303": {
+      "J75303": {
         "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
+        "Book On Time": "11:30 PM",
+        "Book Off Time": "06:30 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "06:30",
         "Remarks": "ET12"
       },
-      "Y14304": {
+      "J75304": {
         "Book On Location": "HUH",
         "Book On Time": "10:10 PM",
         "Book Off Time": "06:10 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:30",
         "Remarks": "ET6"
       },
-      "Y14305": {
+      "J75305": {
         "Book On Location": "HUH",
         "Book On Time": "10:10 PM",
         "Book Off Time": "06:10 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:30",
         "Remarks": "ET5"
       },
-      "Y14306": {
+      "J75306": {
         "Book On Location": "HUH",
         "Book On Time": "10:15 AM",
         "Book Off Time": "05:15 PM",
         "Book Off Location": "HUH",
-        "Duration": "6:30",
+        "Duration": "06:30",
         "Remarks": "P708/P713"
       },
-      "Y14307": {
+      "J75307": {
         "Book On Location": "HUH",
-        "Book On Time": "01:36 PM",
-        "Book Off Time": "09:21 PM",
-        "Book Off Location": "HTD",
-        "Duration": "7:15",
+        "Book On Time": "01:43 PM",
+        "Book Off Time": "09:58 PM",
+        "Book Off Location": "HUH",
+        "Duration": "07:45",
         "Remarks": "EMU"
       },
-      "Y14308": {
+      "J75308": {
         "Book On Location": "HUH",
         "Book On Time": "01:30 PM",
         "Book Off Time": "10:15 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
+        "Duration": "08:15",
         "Remarks": "P714/P717/P720"
       },
-      "Y14309": {
+      "J75309": {
         "Book On Location": "LOW",
         "Book On Time": "02:30 PM",
         "Book Off Time": "10:30 PM",
         "Book Off Location": "LOW",
-        "Duration": "7:30",
+        "Duration": "07:30",
         "Remarks": "RS/MTT"
       },
-      "Y14310": {
+      "J75310": {
         "Book On Location": "HUH",
         "Book On Time": "01:30 PM",
         "Book Off Time": "09:45 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:45",
+        "Duration": "07:45",
         "Remarks": "P711/P718/P721"
       },
-      "Y14311": {
+      "J75311": {
         "Book On Location": "HUH",
         "Book On Time": "08:00 AM",
         "Book Off Time": "03:00 PM",
         "Book Off Location": "HUH",
-        "Duration": "6:30",
+        "Duration": "06:30",
         "Remarks": "P703/P704/P707"
       },
-      "Y14312": {
+      "J75312": {
         "Book On Location": "HUH",
-        "Book On Time": "07:48 AM",
-        "Book Off Time": "04:18 PM",
+        "Book On Time": "07:41 AM",
+        "Book Off Time": "04:26 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU"
+        "Duration": "08:15",
+        "Remarks": "EMU OT"
       },
-      "Y14313": {
+      "J75313": {
         "Book On Location": "HUH",
         "Book On Time": "10:10 PM",
         "Book Off Time": "06:10 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:30",
         "Remarks": "ET8"
       },
-      "Y14314": {
+      "J75314": {
         "Book On Location": "HUH",
         "Book On Time": "10:10 PM",
         "Book Off Time": "06:10 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:30",
         "Remarks": "ET3"
       },
-      "Y14315": {
+      "J75315": {
         "Book On Location": "HUH",
         "Book On Time": "10:10 PM",
         "Book Off Time": "06:10 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:30",
         "Remarks": "ET1"
       },
-      "Y14316": {
+      "J75316": {
         "Book On Location": "LOW",
         "Book On Time": "07:15 AM",
         "Book Off Time": "03:15 PM",
         "Book Off Location": "LOW",
-        "Duration": "7:30",
+        "Duration": "07:30",
         "Remarks": "RS"
       },
-      "Y14317": {
+      "J75317": {
         "Book On Location": "HUH",
         "Book On Time": "10:10 PM",
         "Book Off Time": "06:10 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:30",
         "Remarks": "ET11"
       },
-      "Y14318": {
+      "J75318": {
         "Book On Location": "HUH",
         "Book On Time": "10:10 PM",
         "Book Off Time": "06:10 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:30",
         "Remarks": "ET10"
       },
-      "Y14319": {
+      "J75319": {
         "Book On Location": "HUH",
         "Book On Time": "10:10 PM",
         "Book Off Time": "06:10 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:30",
         "Remarks": "ET2"
       },
-      "Y14320": {
+      "J75320": {
         "Book On Location": "LOW",
         "Book On Time": "02:30 PM",
         "Book Off Time": "10:30 PM",
-        "Book Off Location": "LOW",
-        "Duration": "7:30",
+        "Book Off Location": "HUH",
+        "Duration": "07:30",
         "Remarks": "RS/MTT"
       },
-      "Y14321": {
+      "J75321": {
         "Book On Location": "HUH",
         "Book On Time": "10:10 PM",
         "Book Off Time": "06:10 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:30",
         "Remarks": "ET9"
       },
-      "Y14322": {
+      "J75322": {
         "Book On Location": "HUH",
         "Book On Time": "10:10 PM",
         "Book Off Time": "06:10 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:30",
         "Remarks": "ET7"
       },
-      "Y14323": {
+      "J75323": {
         "Book On Location": "HUH",
         "Book On Time": "10:10 PM",
         "Book Off Time": "06:10 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET2"
+        "Duration": "07:30",
+        "Remarks": "ET4"
       },
-      "Y14501": {
+      "J75501": {
         "Book On Location": "SHS",
         "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
+        "Book Off Time": "11:25 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:45",
+        "Duration": "06:00",
         "Remarks": "LOW Step2"
       },
-      "Y14502": {
+      "J75502": {
         "Book On Location": "SHS",
         "Book On Time": "04:55 AM",
-        "Book Off Time": "11:55 AM",
+        "Book Off Time": "11:25 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:30",
+        "Duration": "06:00",
         "Remarks": "LOWP1 T20"
       },
-      "Y14503": {
+      "J75503": {
         "Book On Location": "SHT",
         "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
+        "Book Off Time": "10:35 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:45",
+        "Duration": "06:00",
         "Remarks": "FOTP4 T11"
       },
-      "Y14504": {
+      "J75504": {
         "Book On Location": "HUH",
-        "Book On Time": "02:17 PM",
-        "Book Off Time": "09:32 PM",
+        "Book On Time": "05:20 PM",
+        "Book Off Time": "12:20 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "LG2S 停放"
+        "Duration": "06:30",
+        "Remarks": "EMU"
       },
-      "Y14505": {
+      "J75505": {
         "Book On Location": "HUH",
-        "Book On Time": "02:21 PM",
-        "Book Off Time": "09:36 PM",
+        "Book On Time": "02:25 PM",
+        "Book Off Time": "09:25 PM",
         "Book Off Location": "HTD",
-        "Duration": "6:45",
+        "Duration": "06:30",
         "Remarks": "EMU"
       },
-      "Y14506": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:59 AM",
-        "Book Off Time": "07:14 PM",
+      "J75506": {
+        "Book On Location": "LOW",
+        "Book On Time": "11:00 AM",
+        "Book Off Time": "06:30 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
+        "Duration": "07:00",
+        "Remarks": "LWM BY"
       },
-      "Y14507": {
-        "Book On Location": "SHS",
-        "Book On Time": "06:00 AM",
-        "Book Off Time": "02:30 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "LG1N T18/HUH BY"
-      },
-      "Y14508": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "SHTP4 T9"
-      },
-      "Y14509": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:21 PM",
-        "Book Off Time": "01:36 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14510": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:28 PM",
-        "Book Off Time": "01:28 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "SHSP2 停放"
-      },
-      "Y14511": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:48 PM",
-        "Book Off Time": "10:18 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "SG2S 停放"
-      },
-      "Y14512": {
+      "J75507": {
         "Book On Location": "SHS",
         "Book On Time": "04:55 AM",
         "Book Off Time": "12:55 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "SG2S T15"
+        "Duration": "07:30",
+        "Remarks": "LG2N T18"
       },
-      "Y14513": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:40 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "LMC Step1"
-      },
-      "Y14514": {
+      "J75508": {
         "Book On Location": "SHT",
         "Book On Time": "04:05 AM",
-        "Book Off Time": "11:35 AM",
+        "Book Off Time": "11:50 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LOW Step1/HUH BY"
+        "Duration": "07:15",
+        "Remarks": "SHTP4 T9"
       },
-      "Y14515": {
+      "J75509": {
         "Book On Location": "HUH",
-        "Book On Time": "01:09 PM",
-        "Book Off Time": "08:54 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
+        "Book On Time": "04:52 PM",
+        "Book Off Time": "01:37 AM",
+        "Book Off Location": "HTD",
+        "Duration": "08:15",
         "Remarks": "EMU"
       },
-      "Y14516": {
+      "J75510": {
         "Book On Location": "HUH",
-        "Book On Time": "11:39 AM",
-        "Book Off Time": "07:39 PM",
+        "Book On Time": "07:06 PM",
+        "Book Off Time": "01:36 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:30",
+        "Duration": "06:00",
+        "Remarks": "SHSP2 STOP"
+      },
+      "J75511": {
+        "Book On Location": "HUH",
+        "Book On Time": "02:46 PM",
+        "Book Off Time": "09:46 PM",
+        "Book Off Location": "HUH",
+        "Duration": "06:30",
         "Remarks": "EMU"
       },
-      "Y14517": {
+      "J75512": {
         "Book On Location": "HUH",
-        "Book On Time": "07:09 AM",
-        "Book Off Time": "03:39 PM",
+        "Book On Time": "07:11 AM",
+        "Book Off Time": "01:41 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "06:00",
         "Remarks": "EMU"
       },
-      "Y14518": {
+      "J75513": {
+        "Book On Location": "SHS",
+        "Book On Time": "04:55 AM",
+        "Book Off Time": "12:25 PM",
+        "Book Off Location": "HUH",
+        "Duration": "07:00",
+        "Remarks": "LMC Step1"
+      },
+      "J75514": {
+        "Book On Location": "SHT",
+        "Book On Time": "04:05 AM",
+        "Book Off Time": "10:35 AM",
+        "Book Off Location": "HUH",
+        "Duration": "06:00",
+        "Remarks": "LOW Step1 + AM BY"
+      },
+      "J75515": {
+        "Book On Location": "HUH",
+        "Book On Time": "01:29 PM",
+        "Book Off Time": "08:14 PM",
+        "Book Off Location": "HTD",
+        "Duration": "06:15",
+        "Remarks": "EMU"
+      },
+      "J75516": {
+        "Book On Location": "HUH",
+        "Book On Time": "11:30 AM",
+        "Book Off Time": "07:00 PM",
+        "Book Off Location": "HUH",
+        "Duration": "07:00",
+        "Remarks": "EMU"
+      },
+      "J75517": {
+        "Book On Location": "",
+        "Book On Time": "GH",
+        "Book Off Time": "",
+        "Book Off Location": "",
+        "Duration": "",
+        "Remarks": ""
+      },
+      "J75518": {
         "Book On Location": "SHT",
         "Book On Time": "04:05 AM",
         "Book Off Time": "12:05 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:30",
+        "Duration": "07:30",
         "Remarks": "SB"
       },
-      "Y14519": {
+      "J75519": {
         "Book On Location": "SHS",
         "Book On Time": "04:55 AM",
-        "Book Off Time": "01:25 PM",
+        "Book Off Time": "12:25 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:00",
         "Remarks": "LMCP2 T23"
       },
-      "Y14520": {
+      "J75520": {
         "Book On Location": "HUH",
-        "Book On Time": "06:24 PM",
-        "Book Off Time": "01:24 AM",
+        "Book On Time": "06:52 PM",
+        "Book Off Time": "01:22 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "LMCP1 停放"
+        "Duration": "06:00",
+        "Remarks": "LMCP1 STOP"
       },
-      "Y14521": {
+      "J75521": {
         "Book On Location": "HUH",
-        "Book On Time": "04:39 PM",
-        "Book Off Time": "12:24 AM",
+        "Book On Time": "03:14 PM",
+        "Book Off Time": "10:44 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "LG2N 停放"
-      },
-      "Y14522": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:27 PM",
-        "Book Off Time": "09:57 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "07:00",
         "Remarks": "EMU"
       },
-      "Y14523": {
+      "J75522": {
         "Book On Location": "HUH",
-        "Book On Time": "07:26 AM",
-        "Book Off Time": "03:56 PM",
+        "Book On Time": "01:43 PM",
+        "Book Off Time": "08:13 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "06:00",
+        "Remarks": "LG1N STOP"
+      },
+      "J75523": {
+        "Book On Location": "HUH",
+        "Book On Time": "07:32 AM",
+        "Book Off Time": "02:32 PM",
+        "Book Off Location": "HUH",
+        "Duration": "06:30",
         "Remarks": "EMU"
       },
-      "Y14524": {
+      "J75524": {
         "Book On Location": "SHS",
         "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
+        "Book Off Time": "11:25 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:45",
+        "Duration": "06:00",
         "Remarks": "LOWP3 T21"
       },
-      "Y14525": {
+      "J75525": {
         "Book On Location": "SHT",
         "Book On Time": "04:05 AM",
-        "Book Off Time": "11:50 AM",
+        "Book Off Time": "12:05 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "FOTP1 T10/Standby"
+        "Duration": "07:30",
+        "Remarks": "FOTP1 T10"
       },
-      "Y14526": {
+      "J75526": {
         "Book On Location": "HUH",
-        "Book On Time": "04:46 PM",
-        "Book Off Time": "01:31 AM",
+        "Book On Time": "07:02 PM",
+        "Book Off Time": "01:32 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "LOWP3 停放"
+        "Duration": "06:00",
+        "Remarks": "LOWP3 STOP"
       },
-      "Y14527": {
+      "J75527": {
         "Book On Location": "HUH",
         "Book On Time": "04:00 PM",
         "Book Off Time": "12:30 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
+        "Duration": "08:00",
         "Remarks": "SB"
       },
-      "Y14528": {
-        "Book On Location": "HTD",
-        "Book On Time": "06:05 AM",
-        "Book Off Time": "02:34 PM",
+      "J75528": {
+        "Book On Location": "HUH",
+        "Book On Time": "06:58 AM",
+        "Book Off Time": "02:43 PM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "T28"
+        "Duration": "07:15",
+        "Remarks": "EMU"
       },
-      "Y14529": {
+      "J75529": {
         "Book On Location": "SHT",
         "Book On Time": "04:05 AM",
         "Book Off Time": "11:50 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:15",
+        "Book Off Location": "HUH",
+        "Duration": "07:15",
         "Remarks": "RACP1 T12"
       },
-      "Y14530": {
+      "J75530": {
         "Book On Location": "HUH",
-        "Book On Time": "05:32 PM",
-        "Book Off Time": "01:32 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:30",
+        "Book On Time": "06:02 PM",
+        "Book Off Time": "12:32 AM",
+        "Book Off Location": "HUH",
+        "Duration": "06:00",
         "Remarks": "EMU"
       },
-      "Y14531": {
+      "J75531": {
         "Book On Location": "HUH",
-        "Book On Time": "05:46 PM",
-        "Book Off Time": "01:31 AM",
+        "Book On Time": "06:16 PM",
+        "Book Off Time": "12:46 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "LG1S 停放"
+        "Duration": "06:00",
+        "Remarks": "EMU"
       },
-      "Y14532": {
+      "J75532": {
         "Book On Location": "HUH",
-        "Book On Time": "04:23 PM",
-        "Book Off Time": "12:53 AM",
+        "Book On Time": "04:10 PM",
+        "Book Off Time": "12:55 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "SHS 報收工"
+        "Duration": "08:15",
+        "Remarks": "SHS OFF"
       },
-      "Y14533": {
-        "Book On Location": "SHS",
-        "Book On Time": "06:00 AM",
-        "Book Off Time": "01:45 PM",
+      "J75533": {
+        "Book On Location": "",
+        "Book On Time": "GH",
+        "Book Off Time": "",
+        "Book Off Location": "",
+        "Duration": "",
+        "Remarks": ""
+      },
+      "J75534": {
+        "Book On Location": "LOW",
+        "Book On Time": "07:00 AM",
+        "Book Off Time": "01:30 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "SHS by + EMU"
+        "Duration": "06:00",
+        "Remarks": "LWM BY"
       },
-      "Y14534": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LG2N T19"
-      },
-      "Y14535": {
+      "J75535": {
         "Book On Location": "SHT",
         "Book On Time": "04:05 AM",
-        "Book Off Time": "10:50 AM",
+        "Book Off Time": "10:35 AM",
         "Book Off Location": "HUH",
-        "Duration": "6:15",
+        "Duration": "06:00",
         "Remarks": "SHTP1 T6"
       },
-      "Y14536": {
+      "J75536": {
         "Book On Location": "HUH",
-        "Book On Time": "06:06 PM",
-        "Book Off Time": "01:36 AM",
+        "Book On Time": "03:28 PM",
+        "Book Off Time": "09:58 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "RACP1 停放"
+        "Duration": "06:00",
+        "Remarks": "EMU"
       },
-      "Y14537": {
+      "J75537": {
         "Book On Location": "HUH",
-        "Book On Time": "06:00 PM",
-        "Book Off Time": "01:30 AM",
+        "Book On Time": "04:38 PM",
+        "Book Off Time": "01:23 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LMCP2 停放"
+        "Duration": "08:15",
+        "Remarks": "LMCP2 STOP"
       },
-      "Y14538": {
+      "J75538": {
         "Book On Location": "HUH",
-        "Book On Time": "03:51 PM",
-        "Book Off Time": "12:36 AM",
+        "Book On Time": "04:03 PM",
+        "Book Off Time": "12:48 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "SHS 報收工"
+        "Duration": "08:15",
+        "Remarks": "SHS OFF"
       },
-      "Y14539": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:40 PM",
+      "J75539": {
+        "Book On Location": "HUH",
+        "Book On Time": "06:30 AM",
+        "Book Off Time": "01:45 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "LG2S T17"
+        "Duration": "06:45",
+        "Remarks": "EMU"
       },
-      "Y14540": {
+      "J75540": {
         "Book On Location": "HTD",
-        "Book On Time": "05:22 AM",
-        "Book Off Time": "01:37 PM",
+        "Book On Time": "05:24 AM",
+        "Book Off Time": "11:54 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:45",
+        "Duration": "06:00",
         "Remarks": "T26"
       },
-      "Y14541": {
+      "J75541": {
         "Book On Location": "HUH",
-        "Book On Time": "05:07 PM",
-        "Book Off Time": "01:52 AM",
+        "Book On Time": "06:09 PM",
+        "Book Off Time": "01:54 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "FOTP4 停放"
+        "Duration": "07:15",
+        "Remarks": "FOTP4  STOP"
       },
-      "Y14542": {
+      "J75542": {
         "Book On Location": "HUH",
-        "Book On Time": "03:15 PM",
-        "Book Off Time": "12:00 AM",
+        "Book On Time": "03:35 PM",
+        "Book Off Time": "12:20 AM",
         "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "TAPP1 停放"
+        "Duration": "08:15",
+        "Remarks": "TAPP1  STOP"
       },
-      "Y14543": {
+      "J75543": {
         "Book On Location": "HUH",
         "Book On Time": "01:00 PM",
         "Book Off Time": "09:00 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:30",
+        "Duration": "07:30",
         "Remarks": "SB"
       },
-      "Y14544": {
+      "J75544": {
         "Book On Location": "SHS",
         "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
+        "Book Off Time": "11:25 AM",
         "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "SHSP2 T14/Standby"
+        "Duration": "06:00",
+        "Remarks": "SHSP2 T14"
       },
-      "Y14545": {
+      "J75545": {
         "Book On Location": "SHT",
         "Book On Time": "04:05 AM",
-        "Book Off Time": "11:05 AM",
-        "Book Off Location": "HTD",
-        "Duration": "6:30",
+        "Book Off Time": "11:20 AM",
+        "Book Off Location": "HUH",
+        "Duration": "06:45",
         "Remarks": "TAPP1 T13"
       },
-      "Y14546": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:13 PM",
-        "Book Off Time": "01:28 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "LG1N 停放"
-      },
-      "Y14547": {
+      "J75546": {
         "Book On Location": "HTD",
-        "Book On Time": "04:04 PM",
-        "Book Off Time": "12:19 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "T15a"
+        "Book On Time": "04:02 PM",
+        "Book Off Time": "10:32 PM",
+        "Book Off Location": "LOW",
+        "Duration": "06:00",
+        "Remarks": "LG1S STOP + LWM BY"
       },
-      "Y14548": {
+      "J75547": {
         "Book On Location": "HUH",
-        "Book On Time": "02:35 PM",
-        "Book Off Time": "11:20 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "LMC 報收工"
+        "Book On Time": "03:56 PM",
+        "Book Off Time": "12:41 AM",
+        "Book Off Location": "HTD",
+        "Duration": "08:15",
+        "Remarks": "EMU"
       },
-      "Y14549": {
+      "J75548": {
+        "Book On Location": "HUH",
+        "Book On Time": "03:00 PM",
+        "Book Off Time": "11:30 PM",
+        "Book Off Location": "HUH",
+        "Duration": "08:00",
+        "Remarks": "LMC OFF"
+      },
+      "J75549": {
         "Book On Location": "SHS",
         "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
+        "Book Off Time": "12:40 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:00",
+        "Duration": "07:15",
         "Remarks": "LMCP1 T22"
       },
-      "Y14550": {
+      "J75550": {
         "Book On Location": "SHS",
         "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
+        "Book Off Time": "01:10 PM",
         "Book Off Location": "HTD",
-        "Duration": "6:45",
+        "Duration": "07:45",
         "Remarks": "LG1S T16"
       },
-      "Y14551": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:55 PM",
-        "Book Off Time": "01:40 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:15",
-        "Remarks": "LOWP1 停放"
-      },
-      "Y14552": {
-        "Book On Location": "HTD",
-        "Book On Time": "04:30 PM",
-        "Book Off Time": "12:45 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:45",
-        "Remarks": "HB"
-      },
-      "Y14553": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:59 PM",
-        "Book Off Time": "09:59 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU/PM BY"
-      },
-      "Y14554": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:29 AM",
-        "Book Off Time": "04:44 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14555": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:01 AM",
-        "Book Off Time": "04:46 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "Y14556": {
-        "Book On Location": "HTD",
-        "Book On Time": "06:13 AM",
-        "Book Off Time": "02:43 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "T30/Standby"
-      },
-      "Y14557": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:59 PM",
-        "Book Off Time": "01:29 AM",
-        "Book Off Location": "HTD",
-        "Duration": "6:00",
-        "Remarks": "EMU"
-      },
-      "Y14558": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:20 AM",
-        "Book Off Time": "05:05 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "Y14559": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:39 PM",
-        "Book Off Time": "11:24 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "Y14560": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:44 PM",
-        "Book Off Time": "10:59 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "Y14561": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:00 PM",
-        "Book Off Time": "12:45 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "Y14562": {
+      "J75551": {
         "Book On Location": "HUH",
         "Book On Time": "05:35 PM",
         "Book Off Time": "01:35 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      }
-    },
-    "G75":{
-      "G75101": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:29 AM",
-        "Book Off Time": "03:14 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "EMU"
-      },
-      "G75102": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:16 AM",
-        "Book Off Time": "07:31 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "MKKP1S T3"
-      },
-      "G75103": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HTD",
-        "Duration": "06:00",
-        "Remarks": "T24"
-      },
-      "G75104": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:13 PM",
-        "Book Off Time": "08:13 PM",
         "Book Off Location": "HUH",
         "Duration": "07:30",
-        "Remarks": "EMU"
-      },
-      "G75105": {
-        "Book On Location": "HUH",
-        "Book On Time": "11:00 AM",
-        "Book Off Time": "07:45 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "KB"
-      },
-      "G75106": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:50 AM",
-        "Book Off Time": "06:50 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "EMU"
-      },
-      "G75107": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:22 AM",
-        "Book Off Time": "12:52 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
-        "Remarks": "EMU"
-      },
-      "G75108": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:07 AM",
-        "Book Off Time": "04:07 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "EMU"
-      },
-      "G75109": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:35 PM",
-        "Book Off Time": "01:20 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "FOTP1  STOP"
-      },
-      "G75110": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:29 PM",
-        "Book Off Time": "01:44 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:45",
-        "Remarks": "SHTP3 STOP"
-      },
-      "G75111": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:02 PM",
-        "Book Off Time": "10:17 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "EMU"
-      },
-      "G75112": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:17 AM",
-        "Book Off Time": "01:02 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "EMU"
-      },
-      "G75113": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
-        "Book Off Location": "HTD",
-        "Duration": "06:45",
-        "Remarks": "SHTP4S T8/HTD BY"
-      },
-      "G75114": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:44 PM",
-        "Book Off Time": "08:29 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "EMU/PM BY"
-      },
-      "G75115": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:04 PM",
-        "Book Off Time": "09:49 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75116": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:24 PM",
-        "Book Off Time": "08:24 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "EMU"
-      },
-      "G75117": {
-        "Book On Location": "",
-        "Book On Time": "GH",
-        "Book Off Time": "",
-        "Book Off Location": "",
-        "Duration": "",
-        "Remarks": ""
-      },
-      "G75118": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:26 AM",
-        "Book Off Time": "01:11 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "EMU"
-      },
-      "G75119": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "10:58 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:00",
-        "Remarks": "MKKP3 T5"
-      },
-      "G75120": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:56 PM",
-        "Book Off Time": "01:26 AM",
-        "Book Off Location": "HTD",
-        "Duration": "06:00",
-        "Remarks": "EMU"
-      },
-      "G75121": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:47 PM",
-        "Book Off Time": "01:17 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "SHTP4  STOP"
-      },
-      "G75122": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:15 PM",
-        "Book Off Time": "12:45 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "SHTP4S  STOP"
-      },
-      "G75123": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:52 AM",
-        "Book Off Time": "02:07 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "T27"
-      },
-      "G75124": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:53 AM",
-        "Book Off Time": "02:38 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "EMU"
-      },
-      "G75125": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:11 AM",
-        "Book Off Time": "01:41 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "T25"
-      },
-      "G75126": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:19 PM",
-        "Book Off Time": "09:34 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "EMU"
-      },
-      "G75127": {
-        "Book On Location": "HUH",
-        "Book On Time": "11:20 AM",
-        "Book Off Time": "07:05 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "EMU"
-      },
-      "G75128": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:01 AM",
-        "Book Off Time": "03:46 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75129": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:45",
-        "Remarks": "SHTP3 T7"
-      },
-      "G75130": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:46 PM",
-        "Book Off Time": "01:46 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "SHTP3  STOP"
-      },
-      "G75131": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:15 PM",
-        "Book Off Time": "01:30 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "KB"
-      },
-      "G75132": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:38 PM",
-        "Book Off Time": "10:38 PM",
-        "Book Off Location": "HTD",
-        "Duration": "07:30",
-        "Remarks": "EMU"
-      },
-      "G75133": {
-        "Book On Location": "",
-        "Book On Time": "GH",
-        "Book Off Time": "",
-        "Book Off Location": "",
-        "Duration": "",
-        "Remarks": ""
-      },
-      "G75134": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:00 AM",
-        "Book Off Time": "01:30 PM",
-        "Book Off Location": "HTD",
-        "Duration": "08:00",
-        "Remarks": "HB/Hot Standby"
-      },
-      "G75135": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:50 AM",
-        "Book Off Time": "11:20 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:00",
-        "Remarks": "HUHP1 T1"
-      },
-      "G75136": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:31 PM",
-        "Book Off Time": "01:16 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "MKKP1 STOP"
-      },
-      "G75137": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:02 PM",
-        "Book Off Time": "01:02 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "EMU"
-      },
-      "G75138": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:06 PM",
-        "Book Off Time": "01:21 AM",
-        "Book Off Location": "HTD",
-        "Duration": "07:45",
-        "Remarks": "EMU"
-      },
-      "G75139": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:56 AM",
-        "Book Off Time": "02:41 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75140": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "12:28 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "KB"
-      },
-      "G75141": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:45 AM",
-        "Book Off Time": "04:00 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "EMU"
-      },
-      "G75142": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:14 PM",
-        "Book Off Time": "01:44 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "HUHP1 STOP"
-      },
-      "G75143": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:51 PM",
-        "Book Off Time": "01:21 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "EMU"
-      },
-      "G75144": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:14 AM",
-        "Book Off Time": "01:59 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "EMU"
-      },
-      "G75145": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:49 AM",
-        "Book Off Time": "04:34 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75146": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:07 PM",
-        "Book Off Time": "09:52 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75147": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:14 PM",
-        "Book Off Time": "09:44 PM",
-        "Book Off Location": "HTD",
-        "Duration": "07:00",
-        "Remarks": "EMU"
-      },
-      "G75148": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:23 AM",
-        "Book Off Time": "06:08 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "EMU"
-      },
-      "G75149": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:50 AM",
-        "Book Off Time": "12:20 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
-        "Remarks": "HUHP4 T2/AM BY"
-      },
-      "G75150": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "10:58 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:00",
-        "Remarks": "MKKP1 T4"
-      },
-      "G75151": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:34 AM",
-        "Book Off Time": "02:49 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "EMU"
-      },
-      "G75152": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:42 PM",
-        "Book Off Time": "01:42 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "HUHP4  STOP"
-      },
-      "G75153": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:08 PM",
-        "Book Off Time": "01:53 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:15",
-        "Remarks": "SHTP1  STOP"
-      },
-      "G75154": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:59 PM",
-        "Book Off Time": "01:14 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "EMU"
-      },
-      "G75155": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:09 AM",
-        "Book Off Time": "03:09 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "EMU"
-      },
-      "G75156": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:13 AM",
-        "Book Off Time": "03:58 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75157": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:32 PM",
-        "Book Off Time": "12:02 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "MKKP1S STOP"
-      },
-      "G75158": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:54 PM",
-        "Book Off Time": "10:39 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75159": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:05 PM",
-        "Book Off Time": "07:50 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "EMU"
-      },
-      "G75301": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:00 AM",
-        "Book Off Time": "02:30 PM",
-        "Book Off Location": "HUH",
-        "Duration": "06:00",
-        "Remarks": "P702/P705/P712"
-      },
-      "G75302": {
-        "Book On Location": "LOW",
-        "Book On Time": "07:15 AM",
-        "Book Off Time": "03:15 PM",
-        "Book Off Location": "LOW",
-        "Duration": "07:30",
-        "Remarks": "RS"
-      },
-      "G75303": {
-        "Book On Location": "HUH",
-        "Book On Time": "11:30 PM",
-        "Book Off Time": "06:30 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
-        "Remarks": "ET12"
-      },
-      "G75304": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "ET6"
-      },
-      "G75305": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "ET5"
-      },
-      "G75306": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:15 AM",
-        "Book Off Time": "05:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "06:30",
-        "Remarks": "P708/P713"
-      },
-      "G75307": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:43 PM",
-        "Book Off Time": "09:58 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "EMU"
-      },
-      "G75308": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:30 PM",
-        "Book Off Time": "10:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "P714/P717/P720"
-      },
-      "G75309": {
-        "Book On Location": "LOW",
-        "Book On Time": "02:30 PM",
-        "Book Off Time": "10:30 PM",
-        "Book Off Location": "LOW",
-        "Duration": "07:30",
-        "Remarks": "RS/MTT"
-      },
-      "G75310": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:30 PM",
-        "Book Off Time": "09:45 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "P711/P718/P721"
-      },
-      "G75311": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:00 AM",
-        "Book Off Time": "03:00 PM",
-        "Book Off Location": "HUH",
-        "Duration": "06:30",
-        "Remarks": "P703/P704/P707"
-      },
-      "G75312": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:41 AM",
-        "Book Off Time": "04:26 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU OT"
-      },
-      "G75313": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "ET8"
-      },
-      "G75314": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "ET3"
-      },
-      "G75315": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "ET1"
-      },
-      "G75316": {
-        "Book On Location": "LOW",
-        "Book On Time": "07:15 AM",
-        "Book Off Time": "03:15 PM",
-        "Book Off Location": "LOW",
-        "Duration": "07:30",
-        "Remarks": "RS"
-      },
-      "G75317": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "ET11"
-      },
-      "G75318": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "ET10"
-      },
-      "G75319": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "ET2"
-      },
-      "G75320": {
-        "Book On Location": "LOW",
-        "Book On Time": "02:30 PM",
-        "Book Off Time": "10:30 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "RS/MTT"
-      },
-      "G75321": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "ET9"
-      },
-      "G75322": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "ET7"
-      },
-      "G75323": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "ET4"
-      },
-      "G75501": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
-        "Remarks": "LOW Step2"
-      },
-      "G75502": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "11:55 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:30",
-        "Remarks": "LOWP1 T20"
-      },
-      "G75503": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
-        "Remarks": "FOTP4 T11"
-      },
-      "G75504": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:22 PM",
-        "Book Off Time": "01:22 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "LG2N STOP"
-      },
-      "G75505": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:26 PM",
-        "Book Off Time": "09:41 PM",
-        "Book Off Location": "HTD",
-        "Duration": "06:45",
-        "Remarks": "EMU"
-      },
-      "G75506": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:19 AM",
-        "Book Off Time": "07:04 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75507": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "01:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "LG2N T18"
-      },
-      "G75508": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:50 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "SHTP4 T9"
-      },
-      "G75509": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:18 PM",
-        "Book Off Time": "01:48 AM",
-        "Book Off Location": "HTD",
-        "Duration": "08:00",
-        "Remarks": "EMU"
-      },
-      "G75510": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:39 PM",
-        "Book Off Time": "01:24 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "SHSP2 STOP"
-      },
-      "G75511": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:41 PM",
-        "Book Off Time": "10:26 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "SG3S STOP"
-      },
-      "G75512": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
-        "Remarks": "SG2S T15"
-      },
-      "G75513": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
-        "Remarks": "LMC Step1"
-      },
-      "G75514": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
-        "Remarks": "LOW Step1/AM BY"
-      },
-      "G75515": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:23 PM",
-        "Book Off Time": "10:08 PM",
-        "Book Off Location": "HTD",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75516": {
-        "Book On Location": "HUH",
-        "Book On Time": "11:30 AM",
-        "Book Off Time": "07:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "EMU"
-      },
-      "G75517": {
-        "Book On Location": "",
-        "Book On Time": "GH",
-        "Book Off Time": "",
-        "Book Off Location": "",
-        "Duration": "",
-        "Remarks": ""
-      },
-      "G75518": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "12:05 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "SB"
-      },
-      "G75519": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:40 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "LMCP2 T23"
-      },
-      "G75520": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:21 PM",
-        "Book Off Time": "01:21 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:30",
-        "Remarks": "LMCP1 STOP"
-      },
-      "G75521": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:48 PM",
-        "Book Off Time": "12:18 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "LG2S STOP"
-      },
-      "G75522": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:27 PM",
-        "Book Off Time": "10:12 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75523": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:25 AM",
-        "Book Off Time": "03:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "EMU"
-      },
-      "G75524": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
-        "Book Off Location": "HUH",
-        "Duration": "06:45",
-        "Remarks": "LOWP3 T21"
-      },
-      "G75525": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:50 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "FOTP1 T10 / BY"
-      },
-      "G75526": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:40 PM",
-        "Book Off Time": "01:40 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:30",
-        "Remarks": "LOWP3 STOP"
-      },
-      "G75527": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:00 PM",
-        "Book Off Time": "12:30 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "SB"
-      },
-      "G75528": {
-        "Book On Location": "HTD",
-        "Book On Time": "06:05 AM",
-        "Book Off Time": "02:20 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "HTD BY/EMU"
-      },
-      "G75529": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
-        "Remarks": "RACP1 T12"
-      },
-      "G75530": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:01 PM",
-        "Book Off Time": "01:46 AM",
-        "Book Off Location": "HTD",
-        "Duration": "07:15",
-        "Remarks": "EMU"
-      },
-      "G75531": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:17 PM",
-        "Book Off Time": "01:32 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:45",
-        "Remarks": "LG1S STOP"
-      },
-      "G75532": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:26 PM",
-        "Book Off Time": "12:56 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
-        "Remarks": "SHS OFF"
-      },
-      "G75533": {
-        "Book On Location": "",
-        "Book On Time": "GH",
-        "Book Off Time": "",
-        "Book Off Location": "",
-        "Duration": "",
-        "Remarks": ""
-      },
-      "G75534": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "01:10 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "LG2N T19"
-      },
-      "G75535": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "10:50 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:15",
-        "Remarks": "SHTP1 T6"
-      },
-      "G75536": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:16 PM",
-        "Book Off Time": "01:46 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:00",
-        "Remarks": "RACP1 STOP"
-      },
-      "G75537": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:05 PM",
-        "Book Off Time": "01:20 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:45",
-        "Remarks": "LMCP2 STOP"
-      },
-      "G75538": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:23 PM",
-        "Book Off Time": "12:53 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "SHS OFF"
-      },
-      "G75539": {
-        "Book On Location": "HTD",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:40 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "LG2S T17"
-      },
-      "G75540": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:22 AM",
-        "Book Off Time": "01:52 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "T26"
-      },
-      "G75541": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:57 PM",
-        "Book Off Time": "01:42 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "BY/FOTP4  STOP"
-      },
-      "G75542": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:20 PM",
-        "Book Off Time": "12:05 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "TAPP1  STOP"
-      },
-      "G75543": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:00 PM",
-        "Book Off Time": "09:00 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "SB"
-      },
-      "G75544": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
-        "Book Off Location": "HUH",
-        "Duration": "06:45",
-        "Remarks": "SHSP2 T14/BY"
-      },
-      "G75545": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:05 AM",
-        "Book Off Location": "HTD",
-        "Duration": "06:30",
-        "Remarks": "TAPP1 T13"
-      },
-      "G75546": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:33 PM",
-        "Book Off Time": "01:33 AM",
-        "Book Off Location": "HUH",
-        "Duration": "06:30",
-        "Remarks": "LG1N STOP"
-      },
-      "G75547": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:52 PM",
-        "Book Off Time": "12:02 AM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "EMU/BY"
-      },
-      "G75548": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:40 PM",
-        "Book Off Time": "11:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:15",
-        "Remarks": "LMC OFF"
-      },
-      "G75549": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
-        "Remarks": "LMCP1 T22"
-      },
-      "G75550": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
-        "Book Off Location": "HTD",
-        "Duration": "06:45",
-        "Remarks": "LG1S T16"
-      },
-      "G75551": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:13 PM",
-        "Book Off Time": "01:43 AM",
-        "Book Off Location": "HUH",
-        "Duration": "07:00",
         "Remarks": "LOWP1  STOP"
       },
-      "G75552": {
+      "J75552": {
         "Book On Location": "HTD",
         "Book On Time": "04:30 PM",
         "Book Off Time": "12:45 AM",
@@ -3372,1258 +1074,29 @@
         "Duration": "07:45",
         "Remarks": "HB"
       },
-      "G75553": {
+      "J75553": {
         "Book On Location": "HUH",
-        "Book On Time": "01:59 PM",
-        "Book Off Time": "09:59 PM",
+        "Book On Time": "02:18 PM",
+        "Book Off Time": "09:48 PM",
         "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "EMU/PM BY"
+        "Duration": "07:00",
+        "Remarks": "EMU + PM BY"
       },
-      "G75554": {
+      "J75554": {
         "Book On Location": "HUH",
-        "Book On Time": "08:30 AM",
-        "Book Off Time": "04:45 PM",
+        "Book On Time": "08:35 AM",
+        "Book Off Time": "03:50 PM",
         "Book Off Location": "HUH",
-        "Duration": "07:45",
+        "Duration": "06:45",
         "Remarks": "EMU"
       },
-      "G75555": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:03 AM",
-        "Book Off Time": "04:03 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:30",
-        "Remarks": "EMU"
-      },
-      "G75556": {
-        "Book On Location": "HTD",
-        "Book On Time": "06:27 AM",
-        "Book Off Time": "02:42 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "T28"
-      },
-      "G75557": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:36 PM",
-        "Book Off Time": "01:21 AM",
-        "Book Off Location": "HTD",
-        "Duration": "06:15",
-        "Remarks": "EMU"
-      },
-      "G75558": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:20 AM",
-        "Book Off Time": "05:05 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75559": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:15 PM",
-        "Book Off Time": "09:45 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:00",
-        "Remarks": "EMU/BY"
-      },
-      "G75560": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:45 PM",
-        "Book Off Time": "11:00 PM",
-        "Book Off Location": "HUH",
-        "Duration": "07:45",
-        "Remarks": "EMU"
-      },
-      "G75561": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:20 PM",
-        "Book Off Time": "09:05 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75562": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:32 PM",
-        "Book Off Time": "09:17 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      },
-      "G75563": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:48 PM",
-        "Book Off Time": "09:33 PM",
-        "Book Off Location": "HUH",
-        "Duration": "08:15",
-        "Remarks": "EMU"
-      }
-    },
-    "J71":{
-      "J71101": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:29 AM",
-        "Book Off Time": "03:14 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "J71102": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:16 AM",
-        "Book Off Time": "07:31 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "MKKP1S T3"
-      },
-      "J71103": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HTD",
-        "Duration": "6:00",
-        "Remarks": "T24"
-      },
-      "J71104": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:13 PM",
-        "Book Off Time": "08:13 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "J71105": {
-        "Book On Location": "HUH",
-        "Book On Time": "11:00 AM",
-        "Book Off Time": "07:45 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "KB"
-      },
-      "J71106": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:50 AM",
-        "Book Off Time": "06:50 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "J71107": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:22 AM",
-        "Book Off Time": "12:52 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "EMU"
-      },
-      "J71108": {
+      "J75555": {
         "Book On Location": "HUH",
         "Book On Time": "08:07 AM",
-        "Book Off Time": "04:07 PM",
+        "Book Off Time": "03:07 PM",
         "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "J71109": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:35 PM",
-        "Book Off Time": "01:20 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "FOTP1  STOP"
-      },
-      "J71110": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:29 PM",
-        "Book Off Time": "01:44 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "SHTP3 STOP"
-      },
-      "J71111": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:02 PM",
-        "Book Off Time": "10:17 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "J71112": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:17 AM",
-        "Book Off Time": "01:02 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "J71113": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
-        "Book Off Location": "HTD",
-        "Duration": "6:45",
-        "Remarks": "SHTP4S T8/HTD BY"
-      },
-      "J71114": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:44 PM",
-        "Book Off Time": "08:29 PM",
-        "Book Off Location": "HTD",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "J71115": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:04 PM",
-        "Book Off Time": "09:49 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71116": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:24 PM",
-        "Book Off Time": "08:24 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "J71117": {
-        "Book On Location": "",
-        "Book On Time": "GH",
-        "Book Off Time": "",
-        "Book Off Location": "",
-        "Duration": "",
-        "Remarks": ""
-      },
-      "J71118": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:26 AM",
-        "Book Off Time": "01:11 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "J71119": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "10:58 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "MKKP3 T5"
-      },
-      "J71120": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:56 PM",
-        "Book Off Time": "01:26 AM",
-        "Book Off Location": "HTD",
-        "Duration": "6:00",
-        "Remarks": "EMU"
-      },
-      "J71121": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:47 PM",
-        "Book Off Time": "01:17 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "SHTP4  STOP"
-      },
-      "J71122": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:15 PM",
-        "Book Off Time": "12:45 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "SHTP4S  STOP"
-      },
-      "J71123": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:52 AM",
-        "Book Off Time": "02:07 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "T27"
-      },
-      "J71124": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:53 AM",
-        "Book Off Time": "02:38 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "J71125": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:11 AM",
-        "Book Off Time": "01:41 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "T25"
-      },
-      "J71126": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:19 PM",
-        "Book Off Time": "09:34 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "J71127": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:01 PM",
-        "Book Off Time": "07:46 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "J71128": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:01 AM",
-        "Book Off Time": "03:46 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71129": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:20 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "SHTP3 T7"
-      },
-      "J71130": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:46 PM",
-        "Book Off Time": "01:46 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "SHTP3  STOP"
-      },
-      "J71131": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:15 PM",
-        "Book Off Time": "01:30 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "KB"
-      },
-      "J71132": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:38 PM",
-        "Book Off Time": "10:38 PM",
-        "Book Off Location": "HTD",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "J71133": {
-        "Book On Location": "",
-        "Book On Time": "GH",
-        "Book Off Time": "",
-        "Book Off Location": "",
-        "Duration": "",
-        "Remarks": ""
-      },
-      "J71134": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:00 AM",
-        "Book Off Time": "01:30 PM",
-        "Book Off Location": "HTD",
-        "Duration": "8:00",
-        "Remarks": "HB/Hot Standby"
-      },
-      "J71135": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:50 AM",
-        "Book Off Time": "11:20 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "HUHP1 T1"
-      },
-      "J71136": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:31 PM",
-        "Book Off Time": "01:16 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "MKKP1 STOP"
-      },
-      "J71137": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:02 PM",
-        "Book Off Time": "01:02 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "J71138": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:06 PM",
-        "Book Off Time": "01:21 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "J71139": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:56 AM",
-        "Book Off Time": "02:41 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71140": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "12:28 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "KB"
-      },
-      "J71141": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:45 AM",
-        "Book Off Time": "04:00 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "J71142": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:14 PM",
-        "Book Off Time": "01:44 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "HUHP1 STOP"
-      },
-      "J71143": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:51 PM",
-        "Book Off Time": "01:21 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "J71144": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:14 AM",
-        "Book Off Time": "01:59 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "J71145": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:49 AM",
-        "Book Off Time": "04:34 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71146": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:07 PM",
-        "Book Off Time": "09:52 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71147": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:14 PM",
-        "Book Off Time": "09:44 PM",
-        "Book Off Location": "HTD",
-        "Duration": "7:00",
-        "Remarks": "EMU"
-      },
-      "J71148": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:23 AM",
-        "Book Off Time": "06:08 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "J71149": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:50 AM",
-        "Book Off Time": "12:20 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "HUHP4 T2/AM BY"
-      },
-      "J71150": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:28 AM",
-        "Book Off Time": "10:58 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "MKKP1 T4"
-      },
-      "J71151": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:34 AM",
-        "Book Off Time": "02:49 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "J71152": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:42 PM",
-        "Book Off Time": "01:42 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "HUHP4  STOP"
-      },
-      "J71153": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:08 PM",
-        "Book Off Time": "01:53 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:15",
-        "Remarks": "SHTP1  STOP"
-      },
-      "J71154": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:59 PM",
-        "Book Off Time": "01:14 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "J71155": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:09 AM",
-        "Book Off Time": "03:09 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "J71156": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:13 AM",
-        "Book Off Time": "03:58 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71157": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:32 PM",
-        "Book Off Time": "12:02 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "MKKP1S STOP"
-      },
-      "J71158": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:54 PM",
-        "Book Off Time": "10:39 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71159": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:05 PM",
-        "Book Off Time": "07:50 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "J71301": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:00 AM",
-        "Book Off Time": "02:30 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "P702/P705/P712"
-      },
-      "J71302": {
-        "Book On Location": "LOW",
-        "Book On Time": "07:15 AM",
-        "Book Off Time": "03:15 PM",
-        "Book Off Location": "LOW",
-        "Duration": "7:30",
-        "Remarks": "RS"
-      },
-      "J71303": {
-        "Book On Location": "HUH",
-        "Book On Time": "11:30 PM",
-        "Book Off Time": "06:30 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "ET12"
-      },
-      "J71304": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET6"
-      },
-      "J71305": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET5"
-      },
-      "J71306": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:15 AM",
-        "Book Off Time": "05:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "P708/P713"
-      },
-      "J71307": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:43 PM",
-        "Book Off Time": "09:58 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "J71308": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:30 PM",
-        "Book Off Time": "10:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "P714/P717/P720"
-      },
-      "J71309": {
-        "Book On Location": "LOW",
-        "Book On Time": "02:30 PM",
-        "Book Off Time": "10:30 PM",
-        "Book Off Location": "LOW",
-        "Duration": "7:30",
-        "Remarks": "RS/MTT"
-      },
-      "J71310": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:30 PM",
-        "Book Off Time": "09:45 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "P711/P718/P721"
-      },
-      "J71311": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:00 AM",
-        "Book Off Time": "03:00 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "P703/P704/P707"
-      },
-      "J71312": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:41 AM",
-        "Book Off Time": "04:26 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU OT"
-      },
-      "J71313": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET8"
-      },
-      "J71314": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET3"
-      },
-      "J71315": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET1"
-      },
-      "J71316": {
-        "Book On Location": "LOW",
-        "Book On Time": "07:15 AM",
-        "Book Off Time": "03:15 PM",
-        "Book Off Location": "LOW",
-        "Duration": "7:30",
-        "Remarks": "RS"
-      },
-      "J71317": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET11"
-      },
-      "J71318": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET10"
-      },
-      "J71319": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET2"
-      },
-      "J71320": {
-        "Book On Location": "LOW",
-        "Book On Time": "02:30 PM",
-        "Book Off Time": "10:30 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "RS/MTT"
-      },
-      "J71321": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET9"
-      },
-      "J71322": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET7"
-      },
-      "J71323": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:10 PM",
-        "Book Off Time": "06:10 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "ET4"
-      },
-      "J71501": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LOW Step2"
-      },
-      "J71502": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "11:55 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "LOWP1 T20"
-      },
-      "J71503": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "FOTP4 T11"
-      },
-      "J71504": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:22 PM",
-        "Book Off Time": "01:22 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "LG2N STOP"
-      },
-      "J71505": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:26 PM",
-        "Book Off Time": "09:41 PM",
-        "Book Off Location": "HTD",
-        "Duration": "6:45",
-        "Remarks": "EMU"
-      },
-      "J71506": {
-        "Book On Location": "HUH",
-        "Book On Time": "10:19 AM",
-        "Book Off Time": "07:04 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71507": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "01:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "LG2N T18"
-      },
-      "J71508": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:50 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "SHTP4 T9"
-      },
-      "J71509": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:18 PM",
-        "Book Off Time": "01:48 AM",
-        "Book Off Location": "HTD",
-        "Duration": "8:00",
-        "Remarks": "EMU"
-      },
-      "J71510": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:39 PM",
-        "Book Off Time": "01:24 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "SHSP2 STOP"
-      },
-      "J71511": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:41 PM",
-        "Book Off Time": "10:26 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "SG3S STOP"
-      },
-      "J71512": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "SG2S T15"
-      },
-      "J71513": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LMC Step1"
-      },
-      "J71514": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LOW Step1/AM BY"
-      },
-      "J71515": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:23 PM",
-        "Book Off Time": "10:08 PM",
-        "Book Off Location": "HTD",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71516": {
-        "Book On Location": "HUH",
-        "Book On Time": "11:30 AM",
-        "Book Off Time": "07:15 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "J71517": {
-        "Book On Location": "",
-        "Book On Time": "GH",
-        "Book Off Time": "",
-        "Book Off Location": "",
-        "Duration": "",
-        "Remarks": ""
-      },
-      "J71518": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "12:05 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "SB"
-      },
-      "J71519": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:40 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "LMCP2 T23"
-      },
-      "J71520": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:21 PM",
-        "Book Off Time": "01:21 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "LMCP1 STOP"
-      },
-      "J71521": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:48 PM",
-        "Book Off Time": "12:18 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "LG2S STOP"
-      },
-      "J71522": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:27 PM",
-        "Book Off Time": "10:12 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71523": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:25 AM",
-        "Book Off Time": "03:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "J71524": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "LOWP3 T21"
-      },
-      "J71525": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:50 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "FOTP1 T10 / BY"
-      },
-      "J71526": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:40 PM",
-        "Book Off Time": "01:40 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "LOWP3 STOP"
-      },
-      "J71527": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:00 PM",
-        "Book Off Time": "12:30 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "SB"
-      },
-      "J71528": {
-        "Book On Location": "HTD",
-        "Book On Time": "06:05 AM",
-        "Book Off Time": "02:20 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "HTD BY/EMU"
-      },
-      "J71529": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:35 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "RACP1 T12"
-      },
-      "J71530": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:01 PM",
-        "Book Off Time": "01:46 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:15",
-        "Remarks": "EMU"
-      },
-      "J71531": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:17 PM",
-        "Book Off Time": "01:32 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "LG1S STOP"
-      },
-      "J71532": {
-        "Book On Location": "HUH",
-        "Book On Time": "05:26 PM",
-        "Book Off Time": "12:56 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "SHS OFF"
-      },
-      "J71533": {
-        "Book On Location": "",
-        "Book On Time": "GH",
-        "Book Off Time": "",
-        "Book Off Location": "",
-        "Duration": "",
-        "Remarks": ""
-      },
-      "J71534": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "01:10 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "LG2N T19"
-      },
-      "J71535": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "10:50 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:15",
-        "Remarks": "SHTP1 T6"
-      },
-      "J71536": {
-        "Book On Location": "HUH",
-        "Book On Time": "07:16 PM",
-        "Book Off Time": "01:46 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:00",
-        "Remarks": "RACP1 STOP"
-      },
-      "J71537": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:05 PM",
-        "Book Off Time": "01:20 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "LMCP2 STOP"
-      },
-      "J71538": {
-        "Book On Location": "HUH",
-        "Book On Time": "04:23 PM",
-        "Book Off Time": "12:53 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "SHS OFF"
-      },
-      "J71539": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:40 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "LG2S T17"
-      },
-      "J71540": {
-        "Book On Location": "HTD",
-        "Book On Time": "05:22 AM",
-        "Book Off Time": "01:52 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "T26"
-      },
-      "J71541": {
-        "Book On Location": "HTD",
-        "Book On Time": "04:56 PM",
-        "Book Off Time": "01:42 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "T29/FOTP4  STOP"
-      },
-      "J71542": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:20 PM",
-        "Book Off Time": "12:05 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "TAPP1  STOP"
-      },
-      "J71543": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:00 PM",
-        "Book Off Time": "09:00 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "SB"
-      },
-      "J71544": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
-        "Book Off Location": "HUH",
-        "Duration": "6:45",
-        "Remarks": "SHSP2 T14/BY"
-      },
-      "J71545": {
-        "Book On Location": "SHT",
-        "Book On Time": "04:05 AM",
-        "Book Off Time": "11:05 AM",
-        "Book Off Location": "HTD",
-        "Duration": "6:30",
-        "Remarks": "TAPP1 T13"
-      },
-      "J71546": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:33 PM",
-        "Book Off Time": "01:33 AM",
-        "Book Off Location": "HUH",
-        "Duration": "6:30",
-        "Remarks": "LG1N STOP"
-      },
-      "J71547": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:52 PM",
-        "Book Off Time": "12:02 AM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU/BY"
-      },
-      "J71548": {
-        "Book On Location": "HUH",
-        "Book On Time": "03:40 PM",
-        "Book Off Time": "11:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:15",
-        "Remarks": "LMC OFF"
-      },
-      "J71549": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:25 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LMCP1 T22"
-      },
-      "J71550": {
-        "Book On Location": "SHS",
-        "Book On Time": "04:55 AM",
-        "Book Off Time": "12:10 PM",
-        "Book Off Location": "HTD",
-        "Duration": "6:45",
-        "Remarks": "LG1S T16"
-      },
-      "J71551": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:13 PM",
-        "Book Off Time": "01:43 AM",
-        "Book Off Location": "HUH",
-        "Duration": "7:00",
-        "Remarks": "LOWP1  STOP"
-      },
-      "J71552": {
-        "Book On Location": "HTD",
-        "Book On Time": "04:30 PM",
-        "Book Off Time": "12:45 AM",
-        "Book Off Location": "HTD",
-        "Duration": "7:45",
-        "Remarks": "HB"
-      },
-      "J71553": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:59 PM",
-        "Book Off Time": "09:59 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU/PM BY"
-      },
-      "J71554": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:30 AM",
-        "Book Off Time": "04:45 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "J71555": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:03 AM",
-        "Book Off Time": "04:03 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:30",
-        "Remarks": "EMU"
-      },
-      "J71556": {
-        "Book On Location": "HTD",
-        "Book On Time": "06:27 AM",
-        "Book Off Time": "02:42 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "T28"
-      },
-      "J71557": {
-        "Book On Location": "HUH",
-        "Book On Time": "06:36 PM",
-        "Book Off Time": "01:21 AM",
-        "Book Off Location": "HTD",
-        "Duration": "6:15",
-        "Remarks": "EMU"
-      },
-      "J71558": {
-        "Book On Location": "HUH",
-        "Book On Time": "08:20 AM",
-        "Book Off Time": "05:05 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71559": {
-        "Book On Location": "HUH",
-        "Book On Time": "01:15 PM",
-        "Book Off Time": "09:45 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:00",
-        "Remarks": "EMU/BY"
-      },
-      "J71560": {
-        "Book On Location": "HUH",
-        "Book On Time": "02:45 PM",
-        "Book Off Time": "11:00 PM",
-        "Book Off Location": "HUH",
-        "Duration": "7:45",
-        "Remarks": "EMU"
-      },
-      "J71561": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:20 PM",
-        "Book Off Time": "09:05 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71562": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:32 PM",
-        "Book Off Time": "09:17 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
-        "Remarks": "EMU"
-      },
-      "J71563": {
-        "Book On Location": "HUH",
-        "Book On Time": "12:48 PM",
-        "Book Off Time": "09:33 PM",
-        "Book Off Location": "HUH",
-        "Duration": "8:15",
+        "Duration": "06:30",
         "Remarks": "EMU"
       }
-    },
-    "X61(Not Completed)":{
-
     }
 }
