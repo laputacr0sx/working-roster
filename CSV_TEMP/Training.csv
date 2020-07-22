@@ -1,11 +1,12 @@
 ﻿番號,上班地點,上班時間,下班時間,下班地點,工時,備註
+881101,,08:45 ,16:45 ,,07:30,Local Training Day
 881103,,08:45 ,16:45 ,,07:30,EAL EMU Refresher Course
 881111,,08:45 ,16:45 ,,07:30,EAL E-Train Refresher Course
-881101,,08:45 ,16:45 ,,07:30,Local Training Day
-881144A,,08:45 ,16:45 ,,07:30,Conversion Training of EAL-R-Train
-881135A,HUH,22:10 ,06:10 ,HUH,08:00,Dalian E-Train OJT
 881004A,TWD,08:45 ,17:00 ,TWD,07:15,Mandatory Basic Safety Training
-881133B,HUH,22:30 ,06:00 ,HUH,07:30,1141B/1152B OJT
 881133A,HUH,22:30 ,06:00 ,HUH,07:30,1152B OJT
+881133B,HUH,22:30 ,06:00 ,HUH,07:30,1141B/1152B OJT
+881135A,HUH,22:10 ,06:10 ,HUH,08:00,Dalian E-Train OJT
+881144A,,08:45 ,16:45 ,,07:30,Conversion Training of EAL-R-Train
 881149A,,08:45 ,16:45 ,,07:00,1141B Additional Local Training
 881150A,,08:45 ,16:45 ,,07:30,Qualification Day for 1141B(Defect Handling)
+881153A,,08:45 ,16:45 ,,07:30,Local Training Day for MFO
