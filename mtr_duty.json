@@ -3241,6 +3241,38 @@
         "duration": "07:30",
         "remarks": "Additional Spare Duty"
       },
+      "992022D": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "12:00",
+        "bookOffTime": "20:00",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "Additional Spare Duty"
+      },
+      "992022E": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "7:00",
+        "bookOffTime": "16:00",
+        "bookOffLocation": "HUH",
+        "duration": "08:30",
+        "remarks": "Additional Spare Duty"
+      },
+      "992022F": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "11:00",
+        "bookOffTime": "20:00",
+        "bookOffLocation": "HUH",
+        "duration": "08:30",
+        "remarks": "Additional Spare Duty"
+      },
+      "992022G": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "16:00",
+        "bookOffTime": "01:00",
+        "bookOffLocation": "HUH",
+        "duration": "08:30",
+        "remarks": "Additional Spare Duty"
+      },
       "992104A": {
         "bookOnLocation": "HUH",
         "bookOnTime": "23:00",
@@ -3255,7 +3287,7 @@
         "bookOffTime": "01:30",
         "bookOffLocation": "HTD",
         "duration": "07:30",
-        "remarks": "Saloon Noise Measurement"
+        "remarks": "Noise Measurement (TOC 083/2021)"
       },
       "992322A": {
         "bookOnLocation": "HTD",
@@ -3273,6 +3305,14 @@
         "duration": "08:30",
         "remarks": "1152B SL Daytime Test"
       },
+      "992324B": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "08:30",
+        "bookOffTime": "17:00",
+        "bookOffLocation": "HTD",
+        "duration": "08:00",
+        "remarks": "1152B Daytime E-Train"
+      },
       "992335A": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:30",
@@ -3280,6 +3320,62 @@
         "bookOffLocation": "HUH",
         "duration": "07:30",
         "remarks": "1152B EMU Test Run"
+      },
+      "992328A": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "09:00",
+        "bookOffTime": "17:30",
+        "bookOffLocation": "HTD",
+        "duration": "08:00",
+        "remarks": "1141B EMU Test Run (Daytime)"
+      },
+      "992328C": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "09:30",
+        "bookOffTime": "17:00",
+        "bookOffLocation": "HTD",
+        "duration": "07:00",
+        "remarks": "1141B Rotem Test Run"
+      },
+      "992329A": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:30",
+        "bookOffTime": "06:00",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "1141B EMU Test Run"
+      },
+      "992322B": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "09:00",
+        "bookOffTime": "17:30",
+        "bookOffLocation": "HTD",
+        "duration": "08:00",
+        "remarks": "1152B EMU Test Run (Daytime)"
+      },
+      "992357B": {
+        "bookOnLocation": "MKK",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "HUH Bifurcation Work (Rotem)"
+      },
+      "992358A": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:00",
+        "bookOffTime": "15:00",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "HUH Bifurcation Work (E-Train)"
+      },
+      "992358B": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "15:00",
+        "bookOffTime": "23:00",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "HUH Bifurcation Work (E-Train)"
       },
       "992343A": {
         "bookOnLocation": "HUH",
