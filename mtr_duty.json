@@ -1,2206 +1,4274 @@
 {
   "duty": {
-    "C15": {
-      "C15101": {
+    "F15": {
+      "F15101": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:16 AM",
+        "bookOffTime": "01:16 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "MKKP1S Run3 PU"
+      },
+      "F15103": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:19 AM",
+        "bookOffTime": "05:04 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "EMU"
+      },
+      "F15104": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "01:02 PM",
+        "bookOffTime": "09:02 PM",
+        "bookOffLocation": "HTD",
+        "duration": "07:30",
+        "remarks": "HTD Run5 PD"
+      },
+      "F15105": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "11:00 AM",
+        "bookOffTime": "07:45 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "KB/M"
+      },
+      "F15107": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:19 AM",
+        "bookOffTime": "12:49 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "EMU"
+      },
+      "F15108": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:22 AM",
+        "bookOffTime": "04:22 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F15109": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:59 PM",
+        "bookOffTime": "01:29 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "FOTP4 Run23 PD"
+      },
+      "F15110": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "06:14 PM",
+        "bookOffTime": "01:44 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "SHTP3 Run27 PD"
+      },
+      "F15111": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "03:45 PM",
+        "bookOffTime": "12:30 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "SHTP4 Run14 PD"
+      },
+      "F15112": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:29 AM",
+        "bookOffTime": "01:44 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F15113": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:28 AM",
+        "bookOffTime": "10:58 AM",
+        "bookOffLocation": "HTD",
+        "duration": "06:00",
+        "remarks": "MKKP3N Run6 PU"
+      },
+      "F15114": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "12:51 PM",
+        "bookOffTime": "08:51 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F15115": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "03:56 PM",
+        "bookOffTime": "12:41 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "EMU"
+      },
+      "F15116": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "02:17 PM",
+        "bookOffTime": "10:17 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F15117": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:12 AM",
+        "bookOffTime": "03:42 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F15118": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:23 AM",
+        "bookOffTime": "01:08 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "EMU"
+      },
+      "F15119": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:28 AM",
+        "bookOffTime": "11:28 AM",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "MKKP3S Run5 PU"
+      },
+      "F15120": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "06:27 PM",
+        "bookOffTime": "01:42 AM",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "MKKP3S Run18 PD"
+      },
+      "F15121": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:21 PM",
+        "bookOffTime": "12:51 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F15122": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "02:23 PM",
+        "bookOffTime": "10:08 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "EMU"
+      },
+      "F15123": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:05 AM",
+        "bookOffTime": "03:20 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "EMU"
+      },
+      "F15124": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:06 AM",
+        "bookOffTime": "03:51 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "EMU"
+      },
+      "F15126": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "01:14 PM",
+        "bookOffTime": "09:44 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F15127": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "01:32 PM",
+        "bookOffTime": "09:17 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "EMU"
+      },
+      "F15128": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:00 AM",
+        "bookOffTime": "02:45 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "EMU"
+      },
+      "F15130": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "06:05 PM",
+        "bookOffTime": "01:50 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "MKKP3N Run1 PD"
+      },
+      "F15131": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:15 PM",
+        "bookOffTime": "01:30 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "KB/L"
+      },
+      "F15133": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:11 AM",
+        "bookOffTime": "03:26 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "EMU"
+      },
+      "F15135": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:50 AM",
+        "bookOffTime": "12:20 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "HUHP4 Run2 PU"
+      },
+      "F15137": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:51 PM",
+        "bookOffTime": "01:06 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F15138": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "03:17 PM",
+        "bookOffTime": "10:47 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "MKKP1 Run5 PD"
+      },
+      "F15139": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:18 AM",
+        "bookOffTime": "03:33 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F15140": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:28 AM",
+        "bookOffTime": "12:28 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "KB/E"
+      },
+      "F15141": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:22 AM",
+        "bookOffTime": "03:52 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F15142": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:31 PM",
+        "bookOffTime": "01:46 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "HUHP4 Run24 PD"
+      },
+      "F15143": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:47 PM",
+        "bookOffTime": "01:17 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F15144": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:59 AM",
+        "bookOffTime": "04:14 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F15145": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:28 AM",
+        "bookOffTime": "05:13 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "EMU"
+      },
+      "F15147": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "02:59 PM",
+        "bookOffTime": "11:44 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "SHTP4S Run6 PD"
+      },
+      "F15148": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "02:47 PM",
+        "bookOffTime": "09:32 PM",
+        "bookOffLocation": "HTD",
+        "duration": "06:15",
+        "remarks": "HTD Run25 PD"
+      },
+      "F15149": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:50 AM",
+        "bookOffTime": "12:20 PM",
+        "bookOffLocation": "HTD",
+        "duration": "07:00",
+        "remarks": "HUHP1 Run1 PU"
+      },
+      "F15150": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:28 AM",
+        "bookOffTime": "10:58 AM",
+        "bookOffLocation": "HTD",
+        "duration": "06:00",
+        "remarks": "MKKP1 Run4 PU"
+      },
+      "F15152": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:15 PM",
+        "bookOffTime": "01:45 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "HUHP1 Run13 PD"
+      },
+      "F15153": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "06:43 PM",
+        "bookOffTime": "01:58 AM",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "SHTP1 Run11 PD"
+      },
+      "F15154": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:09 PM",
+        "bookOffTime": "12:09 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F15155": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "06:19 AM",
+        "bookOffTime": "02:19 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F15157": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "01:46 PM",
+        "bookOffTime": "10:16 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "MKKP1S Run3 PD"
+      },
+      "F15158": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "03:23 PM",
+        "bookOffTime": "11:08 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "EMU"
+      },
+      "F15159": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "01:59 PM",
+        "bookOffTime": "10:14 PM",
+        "bookOffLocation": "HTD",
+        "duration": "07:45",
+        "remarks": "HTD Run14 PD"
+      },
+      "F15301": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:00 AM",
+        "bookOffTime": "02:30 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:00",
+        "remarks": "P702/P705/P712"
+      },
+      "F15303": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET12"
+      },
+      "F15304": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET6"
+      },
+      "F15305": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET5"
+      },
+      "F15306": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:15 AM",
+        "bookOffTime": "05:15 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "P708/P713"
+      },
+      "F15308": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "01:30 PM",
+        "bookOffTime": "10:15 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "P714/P717/P720"
+      },
+      "F15310": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "01:30 PM",
+        "bookOffTime": "09:45 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "P711/P718/P721"
+      },
+      "F15311": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:00 AM",
+        "bookOffTime": "03:00 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "P703/P704/P707"
+      },
+      "F15312": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:38 AM",
+        "bookOffTime": "04:23 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "EMU"
+      },
+      "F15313": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET8"
+      },
+      "F15314": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET3"
+      },
+      "F15315": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET1"
+      },
+      "F15317": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET11"
+      },
+      "F15318": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET10"
+      },
+      "F15319": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET2"
+      },
+      "F15321": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET9"
+      },
+      "F15322": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET7"
+      },
+      "F15323": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:10 PM",
+        "bookOffTime": "06:10 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET4"
+      },
+      "F15504": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "11:58 AM",
+        "bookOffTime": "07:13 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "EMU+SG3N PU"
+      },
+      "F15509": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:57 AM",
+        "bookOffTime": "05:42 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "EMU"
+      },
+      "F15510": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:36 PM",
+        "bookOffTime": "01:36 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "SHSP2 Run29 PD"
+      },
+      "F15515": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "01:51 PM",
+        "bookOffTime": "09:21 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "SG3N Run16 PD"
+      },
+      "F15516": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "01:20 PM",
+        "bookOffTime": "08:50 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "SG3S Run31 PD"
+      },
+      "F15519": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "06:38 AM",
+        "bookOffTime": "03:08 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F15521": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "02:29 PM",
+        "bookOffTime": "10:59 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "SG2S Run8 PD"
+      },
+      "F15522": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "01:08 PM",
+        "bookOffTime": "09:08 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "LG1N Run28 PD"
+      },
+      "F15523": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:09 AM",
+        "bookOffTime": "03:09 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F15526": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:09 PM",
+        "bookOffTime": "01:39 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "LOWP3 Run22 PD"
+      },
+      "F15527": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:00 PM",
+        "bookOffTime": "12:30 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "SB/L"
+      },
+      "F15530": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "06:24 PM",
+        "bookOffTime": "01:39 AM",
+        "bookOffLocation": "HTD",
+        "duration": "06:45",
+        "remarks": "HTD Run7 PD"
+      },
+      "F15531": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:39 PM",
+        "bookOffTime": "01:39 AM",
+        "bookOffLocation": "HTD",
+        "duration": "07:30",
+        "remarks": "HTD Run10 PD"
+      },
+      "F15532": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:15 PM",
+        "bookOffTime": "01:00 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "LOW Step End"
+      },
+      "F15538": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "03:35 PM",
+        "bookOffTime": "11:35 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "LMC Step End"
+      },
+      "F15541": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "06:02 PM",
+        "bookOffTime": "01:32 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "FOTP1 Run4 PD"
+      },
+      "F15543": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "01:00 PM",
+        "bookOffTime": "09:00 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "SB/M"
+      },
+      "F15546": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "03:29 PM",
+        "bookOffTime": "11:59 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F15547": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "02:11 PM",
+        "bookOffTime": "10:11 PM",
+        "bookOffLocation": "HTD",
+        "duration": "07:30",
+        "remarks": "HTD Run18 PD"
+      },
+      "F15548": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "12:40 PM",
+        "bookOffTime": "07:55 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "LG1S Run2 PD"
+      },
+      "F15554": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:56 AM",
+        "bookOffTime": "04:11 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F15555": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:02 AM",
+        "bookOffTime": "04:32 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F15102": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "05:05 AM",
+        "bookOffTime": "12:05 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "HTD Run26 PU"
+      },
+      "F15125": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "05:14 AM",
+        "bookOffTime": "12:29 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "HTD Run27 PU"
+      },
+      "F15129": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05 AM",
+        "bookOffTime": "11:35 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "SHTP4 Run10 PU"
+      },
+      "F15132": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "04:30 PM",
+        "bookOffTime": "12:00 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "HTD Run11 PU"
+      },
+      "F15134": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "05:00 AM",
+        "bookOffTime": "01:30 PM",
+        "bookOffLocation": "HTD",
+        "duration": "08:00",
+        "remarks": "HB/E"
+      },
+      "F15136": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "04:12 PM",
+        "bookOffTime": "12:42 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "HTD Run27 PU"
+      },
+      "F15146": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "12:00 PM",
+        "bookOffTime": "07:30 PM",
+        "bookOffLocation": "HTD",
+        "duration": "07:00",
+        "remarks": "HB/M"
+      },
+      "F15151": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "05:27 AM",
+        "bookOffTime": "12:57 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "HTD Run29 PU"
+      },
+      "F15156": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "05:47 AM",
+        "bookOffTime": "12:47 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "HTD Run30 PU"
+      },
+      "F15302": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "07:15 AM",
+        "bookOffTime": "03:15 PM",
+        "bookOffLocation": "LOW",
+        "duration": "07:30",
+        "remarks": "RS"
+      },
+      "F15309": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "02:30 PM",
+        "bookOffTime": "10:30 PM",
+        "bookOffLocation": "LOW",
+        "duration": "07:30",
+        "remarks": "RS"
+      },
+      "F15316": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "07:15 AM",
+        "bookOffTime": "03:15 PM",
+        "bookOffLocation": "LOW",
+        "duration": "07:30",
+        "remarks": "RS"
+      },
+      "F15320": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "02:30 PM",
+        "bookOffTime": "10:30 PM",
+        "bookOffLocation": "LOW",
+        "duration": "07:30",
+        "remarks": "RS"
+      },
+      "F15501": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55 AM",
+        "bookOffTime": "12:40 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "LOW Step2"
+      },
+      "F15502": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55 AM",
+        "bookOffTime": "12:10 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "LOWP3 Run23 PU"
+      },
+      "F15503": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05 AM",
+        "bookOffTime": "11:05 AM",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "SHTP3 Run8 PU"
+      },
+      "F15505": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "04:33 PM",
+        "bookOffTime": "12:18 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "LG1N Run2 PU"
+      },
+      "F15506": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "04:00 PM",
+        "bookOffTime": "12:15 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "SG2S Run13 PU/LG2N Run30 PD"
+      },
+      "F15507": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "06:00 AM",
+        "bookOffTime": "02:45 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "SG3N Run17 PU"
+      },
+      "F15508": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05 AM",
+        "bookOffTime": "10:35 AM",
+        "bookOffLocation": "HUH",
+        "duration": "06:00",
+        "remarks": "FOTP1 Run11 PU/SG3N PD"
+      },
+      "F15511": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "04:00 PM",
+        "bookOffTime": "12:15 AM",
+        "bookOffLocation": "HTD",
+        "duration": "07:45",
+        "remarks": "SG3S Run29 PU/HTD Run12 PD"
+      },
+      "F15512": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55 AM",
+        "bookOffTime": "11:40 AM",
+        "bookOffLocation": "HUH",
+        "duration": "06:15",
+        "remarks": "SG2S Run15 PU/SG2S PD"
+      },
+      "F15513": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "06:00 AM",
+        "bookOffTime": "01:45 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "LMC Step1"
+      },
+      "F15514": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05 AM",
+        "bookOffTime": "11:35 AM",
+        "bookOffLocation": "HTD",
+        "duration": "07:00",
+        "remarks": "LOW Step1"
+      },
+      "F15517": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55 AM",
+        "bookOffTime": "12:10 PM",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "LG1N Run20 PU"
+      },
+      "F15518": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05 AM",
+        "bookOffTime": "12:05 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "SB/E"
+      },
+      "F15520": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "04:37 PM",
+        "bookOffTime": "01:22 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "HTD Run17 PU/LMCP1 Run19 PD"
+      },
+      "F15524": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55 AM",
+        "bookOffTime": "12:25 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "LOWP1 Run22 PU"
+      },
+      "F15525": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05 AM",
+        "bookOffTime": "11:05 AM",
+        "bookOffLocation": "HTD",
+        "duration": "06:30",
+        "remarks": "SHTP4S Run9 PU"
+      },
+      "F15528": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55 AM",
+        "bookOffTime": "12:25 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "LMCP2 Run25 PU"
+      },
+      "F15529": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05 AM",
+        "bookOffTime": "11:05 AM",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "FOTP4 Run12 PU/SG3S PD"
+      },
+      "F15533": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "06:00 AM",
+        "bookOffTime": "01:30 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "SG3S Run16 PU"
+      },
+      "F15534": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55 AM",
+        "bookOffTime": "11:55 AM",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "LG1S Run18 PU"
+      },
+      "F15535": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05 AM",
+        "bookOffTime": "10:35 AM",
+        "bookOffLocation": "HUH",
+        "duration": "06:00",
+        "remarks": "SHTP1 Run7 PU/LG1N PD"
+      },
+      "F15536": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "04:56 PM",
+        "bookOffTime": "01:41 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "HTD Run28 PU/LG2S Run26 PD"
+      },
+      "F15537": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "04:36 PM",
+        "bookOffTime": "01:21 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "HTD Run7 PU/LMCP2 Run21 PD"
+      },
+      "F15539": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55 AM",
+        "bookOffTime": "12:55 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "LG2N Run21 PU"
+      },
+      "F15540": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "05:17 AM",
+        "bookOffTime": "01:32 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "HTD Run28 PU+HUH By"
+      },
+      "F15542": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "04:24 PM",
+        "bookOffTime": "12:09 AM",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "HTD Run5 PU/TAPP1 Run25 PD"
+      },
+      "F15544": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55 AM",
+        "bookOffTime": "11:55 AM",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "SHSP2 Run14 PU"
+      },
+      "F15545": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05 AM",
+        "bookOffTime": "10:35 AM",
+        "bookOffLocation": "HUH",
+        "duration": "06:00",
+        "remarks": "TAPP1 Run13 PU/LG1S PD"
+      },
+      "F15549": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55 AM",
+        "bookOffTime": "12:40 PM",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "LMCP1 Run24 PU"
+      },
+      "F15550": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55 AM",
+        "bookOffTime": "01:25 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "LG2S Run19 PU"
+      },
+      "F15551": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "05:16 PM",
+        "bookOffTime": "01:46 AM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "LG1S Run8 PU/LOWP1 Run15 PD"
+      },
+      "F15552": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "04:30 PM",
+        "bookOffTime": "12:45 AM",
+        "bookOffLocation": "HTD",
+        "duration": "07:45",
+        "remarks": "HB/L"
+      },
+      "F15556": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "07:35 AM",
+        "bookOffTime": "04:05 PM",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "HTD Run31 PU"
+      }
+    },
+    "C14": {
+      "C14101": {
         "bookOnLocation": "HUH",
         "bookOnTime": "05:16",
         "bookOffTime": "13:16",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "MKKP1S Run3 PU"
       },
-      "C15103": {
+      "C14103": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:19",
         "bookOffTime": "17:04",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "EMU"
       },
-      "C15104": {
+      "C14104": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:02",
         "bookOffTime": "21:02",
         "bookOffLocation": "HTD",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "HTD Run5 PD"
       },
-      "C15105": {
+      "C14105": {
         "bookOnLocation": "HUH",
         "bookOnTime": "11:00",
         "bookOffTime": "19:45",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "KB/M"
       },
-      "C15107": {
+      "C14107": {
         "bookOnLocation": "HUH",
         "bookOnTime": "05:19",
         "bookOffTime": "12:49",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "EMU"
       },
-      "C15108": {
+      "C14108": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:22",
         "bookOffTime": "16:22",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "C15109": {
+      "C14109": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:59",
         "bookOffTime": "01:29",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "FOTP4 Run23 PD"
       },
-      "C15110": {
+      "C14110": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:14",
         "bookOffTime": "01:44",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "SHTP3 Run27 PD"
       },
-      "C15111": {
+      "C14111": {
         "bookOnLocation": "HUH",
-        "bookOnTime": "15:45",
-        "bookOffTime": "00:30",
+        "bookOnTime": "18:30",
+        "bookOffTime": "01:15",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
-        "remarks": "SHTP4 Run14 PD"
+        "duration": "06:15",
+        "remarks": "SHTP4 Run29 PD"
       },
-      "C15112": {
+      "C14112": {
         "bookOnLocation": "HUH",
         "bookOnTime": "05:29",
         "bookOffTime": "13:44",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "C15113": {
+      "C14113": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:28",
         "bookOffTime": "10:58",
         "bookOffLocation": "HTD",
-        "duration": "6:00",
+        "duration": "06:00",
         "remarks": "MKKP3N Run6 PU"
       },
-      "C15114": {
+      "C14114": {
         "bookOnLocation": "HUH",
         "bookOnTime": "12:51",
         "bookOffTime": "20:51",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "C15115": {
+      "C14115": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:56",
         "bookOffTime": "00:41",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "EMU"
       },
-      "C15116": {
+      "C14116": {
         "bookOnLocation": "HUH",
         "bookOnTime": "14:17",
         "bookOffTime": "22:17",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "C15117": {
+      "C14117": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:12",
         "bookOffTime": "15:42",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "C15118": {
+      "C14118": {
         "bookOnLocation": "HUH",
         "bookOnTime": "05:23",
         "bookOffTime": "13:08",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "EMU"
       },
-      "C15119": {
+      "C14119": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:28",
         "bookOffTime": "11:28",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "MKKP3S Run5 PU"
       },
-      "C15120": {
+      "C14120": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:27",
         "bookOffTime": "01:42",
         "bookOffLocation": "HUH",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "MKKP3S Run18 PD"
       },
-      "C15121": {
+      "C14121": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:21",
         "bookOffTime": "00:51",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "C15122": {
+      "C14122": {
         "bookOnLocation": "HUH",
         "bookOnTime": "14:23",
         "bookOffTime": "22:08",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "EMU"
       },
-      "C15123": {
+      "C14123": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:05",
         "bookOffTime": "15:20",
         "bookOffLocation": "HUH",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "EMU"
       },
-      "C15124": {
+      "C14124": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:06",
         "bookOffTime": "15:51",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "EMU"
       },
-      "C15126": {
+      "C14126": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:14",
         "bookOffTime": "21:44",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "C15127": {
+      "C14127": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:32",
         "bookOffTime": "21:17",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "EMU"
       },
-      "C15128": {
+      "C14128": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:00",
         "bookOffTime": "14:45",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "EMU"
       },
-      "C15130": {
+      "C14130": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:05",
         "bookOffTime": "01:50",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "MKKP3N Run1 PD"
       },
-      "C15131": {
+      "C14131": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:15",
         "bookOffTime": "01:30",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "KB/L"
       },
-      "C15133": {
+      "C14133": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:11",
         "bookOffTime": "15:26",
         "bookOffLocation": "HUH",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "EMU"
       },
-      "C15135": {
+      "C14135": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:50",
         "bookOffTime": "12:20",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "HUHP4 Run2 PU"
       },
-      "C15137": {
+      "C14137": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:51",
         "bookOffTime": "01:06",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "C15138": {
+      "C14138": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:17",
-        "bookOffTime": "22:47",
+        "bookOffTime": "23:02",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
-        "remarks": "MKKP1 Run5 PD"
+        "duration": "07:15",
+        "remarks": "MKKP1 Run8 PD"
       },
-      "C15139": {
+      "C14139": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:18",
         "bookOffTime": "15:33",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "C15140": {
+      "C14140": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:28",
         "bookOffTime": "12:28",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "KB/E"
       },
-      "C15141": {
+      "C14141": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:22",
         "bookOffTime": "15:52",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "C15142": {
+      "C14142": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:31",
         "bookOffTime": "01:46",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
-        "remarks": "HUHP4 Run24 PD"
+        "duration": "07:45",
+        "remarks": "HUHP1 Run6 PD"
       },
-      "C15143": {
+      "C14143": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:47",
         "bookOffTime": "01:17",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "C15144": {
+      "C14144": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:59",
         "bookOffTime": "16:14",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "C15145": {
+      "C14145": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:28",
         "bookOffTime": "17:13",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "EMU"
       },
-      "C15147": {
+      "C14147": {
         "bookOnLocation": "HUH",
-        "bookOnTime": "14:59",
-        "bookOffTime": "23:44",
+        "bookOnTime": "17:18",
+        "bookOffTime": "01:03",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
-        "remarks": "SHTP4S Run6 PD"
+        "duration": "07:15",
+        "remarks": "SHTP4S Run10 PD"
       },
-      "C15148": {
+      "C14148": {
         "bookOnLocation": "HUH",
         "bookOnTime": "14:47",
-        "bookOffTime": "21:32",
-        "bookOffLocation": "HTD",
-        "duration": "6:15",
-        "remarks": "HTD Run25 PD"
+        "bookOffTime": "22:32",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "EMU"
       },
-      "C15149": {
+      "C14149": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:50",
         "bookOffTime": "12:20",
         "bookOffLocation": "HTD",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "HUHP1 Run1 PU"
       },
-      "C15150": {
+      "C14150": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:28",
         "bookOffTime": "10:58",
         "bookOffLocation": "HTD",
-        "duration": "6:00",
+        "duration": "06:00",
         "remarks": "MKKP1 Run4 PU"
       },
-      "C15152": {
+      "C14152": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:15",
         "bookOffTime": "01:45",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "HUHP1 Run13 PD"
+        "duration": "08:00",
+        "remarks": "HUHP4 Run26 PD"
       },
-      "C15153": {
+      "C14153": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:43",
         "bookOffTime": "01:58",
         "bookOffLocation": "HUH",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "SHTP1 Run11 PD"
       },
-      "C15154": {
+      "C14154": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:09",
         "bookOffTime": "00:09",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "C15155": {
+      "C14155": {
         "bookOnLocation": "HUH",
         "bookOnTime": "06:19",
         "bookOffTime": "14:19",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "C15157": {
+      "C14157": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:46",
-        "bookOffTime": "22:16",
+        "bookOffTime": "22:31",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:15",
         "remarks": "MKKP1S Run3 PD"
       },
-      "C15158": {
+      "C14158": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:23",
         "bookOffTime": "23:08",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "EMU"
       },
-      "C15159": {
+      "C14159": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:59",
         "bookOffTime": "22:14",
         "bookOffLocation": "HTD",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "HTD Run14 PD"
       },
-      "C15301": {
+      "C14301": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:00",
         "bookOffTime": "14:30",
         "bookOffLocation": "HUH",
-        "duration": "6:00",
+        "duration": "06:00",
         "remarks": "P702/P705/P712"
       },
-      "C15303": {
+      "C14303": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET12"
       },
-      "C15304": {
+      "C14304": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET6"
       },
-      "C15305": {
+      "C14305": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET5"
       },
-      "C15306": {
+      "C14306": {
         "bookOnLocation": "HUH",
         "bookOnTime": "10:15",
         "bookOffTime": "17:15",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "P708/P713"
       },
-      "C15308": {
+      "C14308": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:30",
         "bookOffTime": "22:15",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "P714/P717/P720"
       },
-      "C15310": {
+      "C14310": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:30",
         "bookOffTime": "21:45",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "P711/P718/P721"
       },
-      "C15311": {
+      "C14311": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:00",
         "bookOffTime": "15:00",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "P703/P704/P707"
       },
-      "C15312": {
+      "C14312": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:38",
         "bookOffTime": "16:23",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "EMU"
       },
-      "C15313": {
+      "C14313": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET8"
       },
-      "C15314": {
+      "C14314": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET3"
       },
-      "C15315": {
+      "C14315": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET1"
       },
-      "C15317": {
+      "C14317": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET11"
       },
-      "C15318": {
+      "C14318": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET10"
       },
-      "C15319": {
+      "C14319": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET2"
       },
-      "C15321": {
+      "C14321": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET9"
       },
-      "C15322": {
+      "C14322": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET7"
       },
-      "C15323": {
+      "C14323": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET4"
       },
-      "C15504": {
+      "C14504": {
         "bookOnLocation": "HUH",
         "bookOnTime": "11:58",
         "bookOffTime": "19:13",
         "bookOffLocation": "HUH",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "EMU+SG3N PU"
       },
-      "C15509": {
+      "C14509": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:57",
         "bookOffTime": "17:42",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "EMU"
       },
-      "C15510": {
+      "C14510": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:36",
         "bookOffTime": "01:36",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
-        "remarks": "SHSP2 Run29 PD"
+        "duration": "07:30",
+        "remarks": "SHSP2 Run7 PD"
       },
-      "C15515": {
+      "C14515": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:51",
         "bookOffTime": "21:21",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "SG3N Run16 PD"
       },
-      "C15516": {
+      "C14516": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:20",
         "bookOffTime": "20:50",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "SG3S Run31 PD"
       },
-      "C15519": {
+      "C14519": {
         "bookOnLocation": "HUH",
         "bookOnTime": "06:38",
         "bookOffTime": "15:08",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "C15521": {
+      "C14521": {
         "bookOnLocation": "HUH",
         "bookOnTime": "14:29",
         "bookOffTime": "22:59",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "SG2S Run8 PD"
+        "duration": "08:00",
+        "remarks": "SG2S Run5 PD"
       },
-      "C15522": {
+      "C14522": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:08",
         "bookOffTime": "21:08",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "LG1N Run28 PD"
       },
-      "C15523": {
+      "C14523": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:09",
         "bookOffTime": "15:09",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "C15526": {
+      "C14526": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:09",
         "bookOffTime": "01:39",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "LOWP3 Run22 PD"
       },
-      "C15527": {
+      "C14527": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:00",
         "bookOffTime": "00:30",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "SB/L"
       },
-      "C15530": {
+      "C14530": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:24",
         "bookOffTime": "01:39",
         "bookOffLocation": "HTD",
-        "duration": "6:45",
-        "remarks": "HTD Run7 PD"
+        "duration": "06:45",
+        "remarks": "HTD Run19 PD"
       },
-      "C15531": {
+      "C14531": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:39",
         "bookOffTime": "01:39",
         "bookOffLocation": "HTD",
-        "duration": "7:30",
-        "remarks": "HTD Run10 PD"
+        "duration": "07:30",
+        "remarks": "HTD Run9 PD"
       },
-      "C15532": {
+      "C14532": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:15",
         "bookOffTime": "01:00",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "LOW Step End"
       },
-      "C15538": {
+      "C14538": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:35",
         "bookOffTime": "23:35",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "LMC Step End"
       },
-      "C15541": {
+      "C14541": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:02",
         "bookOffTime": "01:32",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "FOTP1 Run4 PD"
       },
-      "C15543": {
+      "C14543": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:00",
         "bookOffTime": "21:00",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "SB/M"
       },
-      "C15546": {
+      "C14546": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:29",
         "bookOffTime": "23:59",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "C15547": {
+      "C14547": {
         "bookOnLocation": "HUH",
         "bookOnTime": "14:11",
         "bookOffTime": "22:11",
         "bookOffLocation": "HTD",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "HTD Run18 PD"
       },
-      "C15548": {
+      "C14548": {
         "bookOnLocation": "HUH",
         "bookOnTime": "12:40",
         "bookOffTime": "19:55",
         "bookOffLocation": "HUH",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "LG1S Run2 PD"
       },
-      "C15554": {
+      "C14554": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:56",
         "bookOffTime": "16:11",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "C15555": {
+      "C14555": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:02",
         "bookOffTime": "16:32",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "C15102": {
+      "C14557": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "15:45",
+        "bookOffTime": "00:30",
+        "bookOffLocation": "HTD",
+        "duration": "08:15",
+        "remarks": "HTD Run13 PD"
+      },
+      "C14558": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "14:59",
+        "bookOffTime": "22:44",
+        "bookOffLocation": "HTD",
+        "duration": "07:15",
+        "remarks": "HTD Run27 PD"
+      },
+      "C14102": {
         "bookOnLocation": "HTD",
         "bookOnTime": "05:05",
         "bookOffTime": "12:05",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "HTD Run26 PU"
       },
-      "C15106": {
-        "bookOnLocation": "",
-        "bookOnTime": "Duty",
-        "bookOffTime": "Cover",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "Duty Cover"
-      },
-      "C15125": {
+      "C14125": {
         "bookOnLocation": "HTD",
         "bookOnTime": "05:14",
         "bookOffTime": "12:29",
         "bookOffLocation": "HUH",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "HTD Run27 PU"
       },
-      "C15129": {
+      "C14129": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "11:35",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "SHTP4 Run10 PU"
       },
-      "C15132": {
+      "C14132": {
         "bookOnLocation": "HTD",
         "bookOnTime": "16:30",
         "bookOffTime": "00:00",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "HTD Run11 PU"
       },
-      "C15134": {
+      "C14134": {
         "bookOnLocation": "HTD",
         "bookOnTime": "05:00",
         "bookOffTime": "13:30",
         "bookOffLocation": "HTD",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "HB/E"
       },
-      "C15136": {
+      "C14136": {
         "bookOnLocation": "HTD",
         "bookOnTime": "16:12",
         "bookOffTime": "00:42",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "HTD Run27 PU"
       },
-      "C15146": {
+      "C14146": {
         "bookOnLocation": "HTD",
         "bookOnTime": "12:00",
         "bookOffTime": "19:30",
         "bookOffLocation": "HTD",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "HB/M"
       },
-      "C15151": {
+      "C14151": {
         "bookOnLocation": "HTD",
         "bookOnTime": "05:27",
         "bookOffTime": "12:57",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "HTD Run29 PU"
       },
-      "C15156": {
+      "C14156": {
         "bookOnLocation": "HTD",
         "bookOnTime": "05:47",
         "bookOffTime": "12:47",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "HTD Run30 PU"
       },
-      "C15302": {
+      "C14302": {
         "bookOnLocation": "LOW",
         "bookOnTime": "07:15",
         "bookOffTime": "15:15",
         "bookOffLocation": "LOW",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "RS"
       },
-      "C15307": {
-        "bookOnLocation": "",
-        "bookOnTime": "Duty",
-        "bookOffTime": "Cover",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "Duty Cover"
-      },
-      "C15309": {
+      "C14309": {
         "bookOnLocation": "LOW",
         "bookOnTime": "14:30",
         "bookOffTime": "22:30",
         "bookOffLocation": "LOW",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "RS"
       },
-      "C15316": {
+      "C14316": {
         "bookOnLocation": "LOW",
         "bookOnTime": "07:15",
         "bookOffTime": "15:15",
         "bookOffLocation": "LOW",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "RS"
       },
-      "C15320": {
+      "C14320": {
         "bookOnLocation": "LOW",
         "bookOnTime": "14:30",
         "bookOffTime": "22:30",
         "bookOffLocation": "LOW",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "RS"
       },
-      "C15501": {
+      "C14501": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:40",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "LOW Step2"
       },
-      "C15502": {
+      "C14502": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:10",
         "bookOffLocation": "HUH",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "LOWP3 Run23 PU"
       },
-      "C15503": {
+      "C14503": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "11:05",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "SHTP3 Run8 PU"
       },
-      "C15505": {
+      "C14505": {
         "bookOnLocation": "LOW",
         "bookOnTime": "16:33",
         "bookOffTime": "00:18",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "LG1N Run2 PU"
       },
-      "C15506": {
+      "C14506": {
         "bookOnLocation": "LOW",
         "bookOnTime": "16:00",
         "bookOffTime": "00:15",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "SG2S Run13 PU/LG2N Run30 PD"
       },
-      "C15507": {
+      "C14507": {
         "bookOnLocation": "SHS",
         "bookOnTime": "06:00",
         "bookOffTime": "14:45",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "SG3N Run17 PU"
       },
-      "C15508": {
+      "C14508": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "10:35",
         "bookOffLocation": "HUH",
-        "duration": "6:00",
+        "duration": "06:00",
         "remarks": "FOTP1 Run11 PU/SG3N PD"
       },
-      "C15511": {
+      "C14511": {
         "bookOnLocation": "LOW",
         "bookOnTime": "16:00",
         "bookOffTime": "00:15",
-        "bookOffLocation": "HTD",
-        "duration": "7:45",
-        "remarks": "SG3S Run29 PU/HTD Run12 PD"
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "SG3S Run29 PU"
       },
-      "C15512": {
+      "C14512": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "11:40",
         "bookOffLocation": "HUH",
-        "duration": "6:15",
+        "duration": "06:15",
         "remarks": "SG2S Run15 PU/SG2S PD"
       },
-      "C15513": {
+      "C14513": {
         "bookOnLocation": "SHS",
         "bookOnTime": "06:00",
         "bookOffTime": "13:45",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "LMC Step1"
       },
-      "C15514": {
+      "C14514": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "11:35",
         "bookOffLocation": "HTD",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "LOW Step1"
       },
-      "C15517": {
+      "C14517": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:10",
         "bookOffLocation": "HUH",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "LG1N Run20 PU"
       },
-      "C15518": {
+      "C14518": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "12:05",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "SB/E"
       },
-      "C15520": {
+      "C14520": {
         "bookOnLocation": "HTD",
         "bookOnTime": "16:37",
         "bookOffTime": "01:22",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
-        "remarks": "HTD Run17 PU/LMCP1 Run19 PD"
+        "duration": "08:15",
+        "remarks": "HTD Run17 PU/LMCP1 Run14 PD"
       },
-      "C15524": {
+      "C14524": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:25",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "LOWP1 Run22 PU"
       },
-      "C15525": {
+      "C14525": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "11:05",
         "bookOffLocation": "HTD",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "SHTP4S Run9 PU"
       },
-      "C15528": {
+      "C14528": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:25",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "LMCP2 Run25 PU"
       },
-      "C15529": {
+      "C14529": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "11:05",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "FOTP4 Run12 PU/SG3S PD"
       },
-      "C15533": {
+      "C14533": {
         "bookOnLocation": "SHS",
         "bookOnTime": "06:00",
         "bookOffTime": "13:30",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "SG3S Run16 PU"
       },
-      "C15534": {
+      "C14534": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "11:55",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "LG1S Run18 PU"
       },
-      "C15535": {
+      "C14535": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "10:35",
         "bookOffLocation": "HUH",
-        "duration": "6:00",
+        "duration": "06:00",
         "remarks": "SHTP1 Run7 PU/LG1N PD"
       },
-      "C15536": {
+      "C14536": {
         "bookOnLocation": "HTD",
         "bookOnTime": "16:56",
         "bookOffTime": "01:41",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
-        "remarks": "HTD Run28 PU/LG2S Run26 PD"
+        "duration": "08:15",
+        "remarks": "HTD Run28 PU/LG2S Run24 PD"
       },
-      "C15537": {
+      "C14537": {
         "bookOnLocation": "HTD",
         "bookOnTime": "16:36",
         "bookOffTime": "01:21",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "HTD Run7 PU/LMCP2 Run21 PD"
       },
-      "C15539": {
+      "C14539": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:55",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "LG2N Run21 PU"
       },
-      "C15540": {
+      "C14540": {
         "bookOnLocation": "HTD",
         "bookOnTime": "05:17",
         "bookOffTime": "13:32",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "HTD Run28 PU+HUH By"
       },
-      "C15542": {
+      "C14542": {
         "bookOnLocation": "HTD",
         "bookOnTime": "16:24",
         "bookOffTime": "00:09",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "HTD Run5 PU/TAPP1 Run25 PD"
       },
-      "C15544": {
+      "C14544": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "11:55",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "SHSP2 Run14 PU"
       },
-      "C15545": {
+      "C14545": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "10:35",
         "bookOffLocation": "HUH",
-        "duration": "6:00",
+        "duration": "06:00",
         "remarks": "TAPP1 Run13 PU/LG1S PD"
       },
-      "C15549": {
+      "C14549": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:40",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "LMCP1 Run24 PU"
       },
-      "C15550": {
+      "C14550": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "13:25",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "LG2S Run19 PU"
       },
-      "C15551": {
+      "C14551": {
         "bookOnLocation": "LOW",
         "bookOnTime": "17:16",
         "bookOffTime": "01:46",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "LG1S Run8 PU/LOWP1 Run15 PD"
       },
-      "C15552": {
+      "C14552": {
         "bookOnLocation": "HTD",
         "bookOnTime": "16:30",
         "bookOffTime": "00:45",
         "bookOffLocation": "HTD",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "HB/L"
       },
-      "C15553": {
-        "bookOnLocation": "",
-        "bookOnTime": "Duty",
-        "bookOffTime": "Cover",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "Duty Cover"
-      },
-      "C15556": {
+      "C14556": {
         "bookOnLocation": "HTD",
         "bookOnTime": "07:35",
         "bookOffTime": "16:05",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "HTD Run31 PU"
       }
     },
-    "V75": {
-      "V75101": {
+    "X75": {
+      "X75101": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:00",
         "bookOffTime": "15:00",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "MKKP1S BATT.CHRG.-AM"
       },
-      "V75102": {
+      "X75102": {
         "bookOnLocation": "HTD",
         "bookOnTime": "05:05",
         "bookOffTime": "12:20",
         "bookOffLocation": "HUH",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "HTD RUN26 PU"
       },
-      "V75103": {
+      "X75103": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:39",
         "bookOffTime": "16:24",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "EMU"
       },
-      "V75104": {
+      "X75104": {
         "bookOnLocation": "HUH",
         "bookOnTime": "12:12",
         "bookOffTime": "20:12",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75105": {
+      "X75105": {
         "bookOnLocation": "HUH",
         "bookOnTime": "11:00",
         "bookOffTime": "19:45",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "KB/M"
       },
-      "V75106": {
-        "bookOnLocation": "",
-        "bookOnTime": "DUTY",
-        "bookOffTime": "COVER",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "DUTY COVER"
-      },
-      "V75107": {
+      "X75107": {
         "bookOnLocation": "HUH",
         "bookOnTime": "05:19",
         "bookOffTime": "13:19",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75108": {
+      "X75108": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:51",
         "bookOffTime": "16:06",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "V75109": {
+      "X75109": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:25",
         "bookOffTime": "01:25",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "FOTP4 Run9 PD"
       },
-      "V75110": {
+      "X75110": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:08",
         "bookOffTime": "01:38",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "SHTP3 Run6 PD"
       },
-      "V75111": {
+      "X75111": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:09",
         "bookOffTime": "00:39",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "SHTP4 Run29 PD"
       },
-      "V75112": {
+      "X75112": {
         "bookOnLocation": "HUH",
         "bookOnTime": "05:29",
         "bookOffTime": "13:44",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "V75113": {
+      "X75113": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:28",
         "bookOffTime": "11:58",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "MKKP3N Run6 PU"
       },
-      "V75114": {
+      "X75114": {
         "bookOnLocation": "HUH",
         "bookOnTime": "12:40",
         "bookOffTime": "19:40",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "EMU"
       },
-      "V75115": {
+      "X75115": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:15",
         "bookOffTime": "23:45",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "V75116": {
+      "X75116": {
         "bookOnLocation": "HUH",
         "bookOnTime": "14:45",
         "bookOffTime": "22:45",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75117": {
-        "bookOnLocation": "",
-        "bookOnTime": "GH",
-        "bookOffTime": "",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "GH"
-      },
-      "V75118": {
+      "X75118": {
         "bookOnLocation": "HUH",
         "bookOnTime": "05:23",
         "bookOffTime": "13:23",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75119": {
+      "X75119": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:28",
         "bookOffTime": "11:28",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "MKKP3S Run5 PU"
       },
-      "V75120": {
+      "X75120": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:31",
         "bookOffTime": "01:46",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "MKKP3S Run17 PD"
       },
-      "V75121": {
+      "X75121": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:57",
         "bookOffTime": "01:12",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "V75122": {
+      "X75122": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:03",
         "bookOffTime": "23:18",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "V75123": {
+      "X75123": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:24",
         "bookOffTime": "14:54",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "EMU"
       },
-      "V75124": {
+      "X75124": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:04",
         "bookOffTime": "15:34",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "V75125": {
+      "X75125": {
         "bookOnLocation": "HTD",
         "bookOnTime": "05:18",
         "bookOffTime": "12:33",
         "bookOffLocation": "HUH",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "HTD Run27 PU"
       },
-      "V75126": {
+      "X75126": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:50",
         "bookOffTime": "21:50",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75127": {
+      "X75127": {
         "bookOnLocation": "HUH",
         "bookOnTime": "12:44",
         "bookOffTime": "20:59",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "V75128": {
+      "X75128": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:12",
         "bookOffTime": "15:12",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75129": {
+      "X75129": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "11:35",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "SHTP4 Run10 PU"
       },
-      "V75130": {
+      "X75130": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:16",
         "bookOffTime": "01:46",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "MKKP3N Run21 PD"
       },
-      "V75131": {
+      "X75131": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:15",
         "bookOffTime": "01:30",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "KB/L"
       },
-      "V75132": {
+      "X75132": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:51",
         "bookOffTime": "01:06",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "V75133": {
-        "bookOnLocation": "",
-        "bookOnTime": "GH",
-        "bookOffTime": "",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "GH"
-      },
-      "V75134": {
+      "X75134": {
         "bookOnLocation": "HTD",
         "bookOnTime": "05:00",
         "bookOffTime": "13:30",
         "bookOffLocation": "HTD",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "HB/E"
       },
-      "V75135": {
+      "X75135": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:50",
         "bookOffTime": "12:20",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "HUHP4 Run2 PU"
       },
-      "V75136": {
+      "X75136": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:57",
         "bookOffTime": "01:12",
         "bookOffLocation": "HTD",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "HTD Run2 PD"
       },
-      "V75137": {
+      "X75137": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:09",
         "bookOffTime": "00:54",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "EMU"
       },
-      "V75138": {
+      "X75138": {
         "bookOnLocation": "HUH",
         "bookOnTime": "14:33",
         "bookOffTime": "23:03",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "MKKP1 Run14 PD"
       },
-      "V75139": {
+      "X75139": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:12",
         "bookOffTime": "15:12",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75140": {
+      "X75140": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:28",
         "bookOffTime": "12:28",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "KB/E"
       },
-      "V75141": {
+      "X75141": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:24",
         "bookOffTime": "16:24",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75142": {
+      "X75142": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:43",
         "bookOffTime": "01:43",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "HUHP4 Run22 PD"
       },
-      "V75143": {
+      "X75143": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:09",
         "bookOffTime": "01:09",
         "bookOffLocation": "HTD",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "HTD Run23 PD"
       },
-      "V75144": {
+      "X75144": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:27",
         "bookOffTime": "16:57",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "V75145": {
+      "X75145": {
         "bookOnLocation": "HUH",
         "bookOnTime": "09:12",
         "bookOffTime": "17:12",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75146": {
+      "X75146": {
         "bookOnLocation": "HTD",
         "bookOnTime": "12:00",
         "bookOffTime": "19:30",
         "bookOffLocation": "HTD",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "HB/M"
       },
-      "V75147": {
+      "X75147": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:03",
         "bookOffTime": "23:48",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "SHTP4S Run16 PD"
       },
-      "V75148": {
+      "X75148": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:00",
         "bookOffTime": "23:00",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "MKKP1S BATT.CHRG.-PM"
       },
-      "V75149": {
+      "X75149": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:50",
         "bookOffTime": "12:20",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "HUHP1 Run1 PU"
       },
-      "V75150": {
+      "X75150": {
         "bookOnLocation": "HUH",
         "bookOnTime": "04:28",
         "bookOffTime": "10:58",
         "bookOffLocation": "HUH",
-        "duration": "6:00",
+        "duration": "06:00",
         "remarks": "MKKP1 Run4 PU"
       },
-      "V75151": {
+      "X75151": {
         "bookOnLocation": "HTD",
         "bookOnTime": "05:15",
         "bookOffTime": "12:15",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "EMU"
       },
-      "V75152": {
+      "X75152": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:07",
         "bookOffTime": "01:52",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "HUHP1 Run25 PD"
       },
-      "V75153": {
+      "X75153": {
         "bookOnLocation": "HUH",
         "bookOnTime": "19:01",
         "bookOffTime": "01:46",
         "bookOffLocation": "HUH",
-        "duration": "6:15",
+        "duration": "06:15",
         "remarks": "SHTP1 Run19 PD"
       },
-      "V75154": {
+      "X75154": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:33",
         "bookOffTime": "00:48",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "V75155": {
+      "X75155": {
         "bookOnLocation": "HUH",
         "bookOnTime": "06:30",
         "bookOffTime": "14:00",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "EMU"
       },
-      "V75156": {
+      "X75156": {
         "bookOnLocation": "HUH",
         "bookOnTime": "05:35",
         "bookOffTime": "13:35",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75157": {
+      "X75157": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:21",
         "bookOffTime": "21:36",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "V75158": {
+      "X75158": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:09",
         "bookOffTime": "23:54",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "EMU"
       },
-      "V75159": {
+      "X75159": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:03",
         "bookOffTime": "21:48",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "EMU"
       },
-      "V75301": {
+      "X75301": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:00",
         "bookOffTime": "14:30",
         "bookOffLocation": "HUH",
-        "duration": "6:00",
+        "duration": "06:00",
         "remarks": "P702/P705/P712"
       },
-      "V75302": {
+      "X75302": {
         "bookOnLocation": "LOW",
         "bookOnTime": "07:15",
         "bookOffTime": "15:15",
         "bookOffLocation": "LOW",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "RS"
       },
-      "V75303": {
+      "X75303": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET12"
       },
-      "V75304": {
+      "X75304": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET6"
       },
-      "V75305": {
+      "X75305": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET5"
       },
-      "V75306": {
+      "X75306": {
         "bookOnLocation": "HUH",
         "bookOnTime": "10:15",
         "bookOffTime": "17:15",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "P708/P713"
       },
-      "V75307": {
-        "bookOnLocation": "",
-        "bookOnTime": "DUTY",
-        "bookOffTime": "COVER",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "Duty Cover"
-      },
-      "V75308": {
+      "X75308": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:30",
         "bookOffTime": "22:15",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "P714/P717/P720"
       },
-      "V75309": {
+      "X75309": {
         "bookOnLocation": "LOW",
         "bookOnTime": "14:30",
         "bookOffTime": "22:30",
         "bookOffLocation": "LOW",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "RS"
       },
-      "V75310": {
+      "X75310": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:30",
         "bookOffTime": "21:45",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "P711/P718/P721"
       },
-      "V75311": {
+      "X75311": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:00",
         "bookOffTime": "15:00",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "P703/P704/P707"
       },
-      "V75312": {
+      "X75312": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:21",
         "bookOffTime": "15:51",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "V75313": {
+      "X75313": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET8"
       },
-      "V75314": {
+      "X75314": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET3"
       },
-      "V75315": {
+      "X75315": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET1"
       },
-      "V75316": {
+      "X75316": {
         "bookOnLocation": "LOW",
         "bookOnTime": "07:15",
         "bookOffTime": "15:15",
         "bookOffLocation": "LOW",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "RS"
       },
-      "V75317": {
+      "X75317": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET11"
       },
-      "V75318": {
+      "X75318": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET10"
       },
-      "V75319": {
+      "X75319": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET2"
       },
-      "V75320": {
+      "X75320": {
         "bookOnLocation": "LOW",
         "bookOnTime": "14:30",
         "bookOffTime": "22:30",
         "bookOffLocation": "LOW",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "RS"
       },
-      "V75321": {
+      "X75321": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET9"
       },
-      "V75322": {
+      "X75322": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET7"
       },
-      "V75323": {
+      "X75323": {
         "bookOnLocation": "HUH",
         "bookOnTime": "22:10",
         "bookOffTime": "06:10",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "ET4"
       },
-      "V75501": {
+      "X75501": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:40",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "SSG BATT.CHRG.-AM"
       },
-      "V75502": {
+      "X75502": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:40",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "LOWP3 Run23 PU"
       },
-      "V75503": {
+      "X75503": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "11:50",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "SHTP3 Run8 PU"
       },
-      "V75504": {
+      "X75504": {
         "bookOnLocation": "HUH",
         "bookOnTime": "12:06",
         "bookOffTime": "19:51",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "EMU"
       },
-      "V75505": {
+      "X75505": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:39",
         "bookOffTime": "01:24",
         "bookOffLocation": "HUH",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "LG2N Run24 PD"
       },
-      "V75506": {
+      "X75506": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:33",
         "bookOffTime": "00:03",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "V75507": {
+      "X75507": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "13:10",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "SG3N Run17 PU"
       },
-      "V75508": {
+      "X75508": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "11:05",
         "bookOffLocation": "HUH",
-        "duration": "6:30",
+        "duration": "06:30",
         "remarks": "FOTP1 Run11 PU"
       },
-      "V75509": {
+      "X75509": {
         "bookOnLocation": "HUH",
         "bookOnTime": "09:08",
         "bookOffTime": "17:23",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "V75510": {
+      "X75510": {
         "bookOnLocation": "HTD",
         "bookOnTime": "18:03",
         "bookOffTime": "01:33",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "HTD Run19 PU/SHSP2 Run5 PD"
       },
-      "V75511": {
+      "X75511": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:39",
         "bookOffTime": "00:24",
         "bookOffLocation": "HTD",
-        "duration": "8:15",
+        "duration": "08:15",
         "remarks": "HTD Run17 PD"
       },
-      "V75512": {
+      "X75512": {
         "bookOnLocation": "SHS",
         "bookOnTime": "06:00",
         "bookOffTime": "13:45",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "LG2N Run21 PU/LG2N PD"
       },
-      "V75513": {
+      "X75513": {
         "bookOnLocation": "SHS",
         "bookOnTime": "06:00",
         "bookOffTime": "13:45",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "LMC Step1"
       },
-      "V75514": {
+      "X75514": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "11:35",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "LOW Step1"
       },
-      "V75515": {
+      "X75515": {
         "bookOnLocation": "HUH",
         "bookOnTime": "14:15",
         "bookOffTime": "22:45",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "SG3S Run13 PD"
       },
-      "V75516": {
+      "X75516": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:15",
         "bookOffTime": "21:00",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "EMU"
       },
-      "V75517": {
-        "bookOnLocation": "",
-        "bookOnTime": "GH",
-        "bookOffTime": "",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "GH"
-      },
-      "V75518": {
+      "X75518": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "12:05",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "SB/E"
       },
-      "V75519": {
+      "X75519": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:27",
         "bookOffTime": "15:27",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75520": {
+      "X75520": {
         "bookOnLocation": "HTD",
         "bookOnTime": "18:02",
         "bookOffTime": "01:32",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "LMCP1 Run8 PD"
       },
-      "V75521": {
+      "X75521": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:09",
         "bookOffTime": "22:39",
         "bookOffLocation": "HTD",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "EMU+SG3S 2nd man"
       },
-      "V75522": {
+      "X75522": {
         "bookOnLocation": "LOW",
         "bookOnTime": "15:00",
         "bookOffTime": "23:00",
         "bookOffLocation": "LOW",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "LWM BATT. CHRG.-PM"
       },
-      "V75523": {
+      "X75523": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:25",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "LMCP2 Run25 PU"
       },
-      "V75524": {
+      "X75524": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:25",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "LOWP1 Run22 PU"
       },
-      "V75525": {
+      "X75525": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "11:35",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "SHTP4S Run9 PU"
       },
-      "V75526": {
+      "X75526": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:25",
         "bookOffTime": "01:40",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "LOWP3 Run26 PD"
       },
-      "V75527": {
+      "X75527": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:00",
         "bookOffTime": "00:30",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "SB/L"
       },
-      "V75528": {
+      "X75528": {
         "bookOnLocation": "HUH",
         "bookOnTime": "06:30",
         "bookOffTime": "14:00",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "EMU"
       },
-      "V75529": {
+      "X75529": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "11:35",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "FOTP4 Run12 PU"
       },
-      "V75530": {
+      "X75530": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:31",
         "bookOffTime": "01:46",
         "bookOffLocation": "HTD",
-        "duration": "6:45",
+        "duration": "06:45",
         "remarks": "HTD Run7 PD"
       },
-      "V75531": {
+      "X75531": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:19",
         "bookOffTime": "01:49",
         "bookOffLocation": "HTD",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "HTD Run27 PD"
       },
-      "V75532": {
+      "X75532": {
         "bookOnLocation": "HUH",
         "bookOnTime": "16:45",
         "bookOffTime": "01:00",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "LOW Step End"
       },
-      "V75533": {
-        "bookOnLocation": "",
-        "bookOnTime": "GH",
-        "bookOffTime": "",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "GH"
-      },
-      "V75534": {
+      "X75534": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:00",
         "bookOffTime": "15:00",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75535": {
+      "X75535": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "10:50",
         "bookOffLocation": "HUH",
-        "duration": "6:15",
+        "duration": "06:15",
         "remarks": "SHTP1 Run7 PU"
       },
-      "V75536": {
+      "X75536": {
         "bookOnLocation": "LOW",
         "bookOnTime": "15:57",
         "bookOffTime": "00:12",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "LG2N Run21 PU"
       },
-      "V75537": {
+      "X75537": {
         "bookOnLocation": "HUH",
         "bookOnTime": "17:15",
         "bookOffTime": "01:30",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "LMCP2 Run1 PD"
       },
-      "V75538": {
+      "X75538": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:27",
         "bookOffTime": "23:27",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "LMC Step End"
       },
-      "V75539": {
+      "X75539": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:30",
         "bookOffTime": "15:45",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "V75540": {
+      "X75540": {
         "bookOnLocation": "LOW",
         "bookOnTime": "07:00",
         "bookOffTime": "15:00",
         "bookOffLocation": "LOW",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "LWM BATT. CHRG.-AM/LG2S Run19 PU+LG2S PD"
       },
-      "V75541": {
+      "X75541": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:13",
         "bookOffTime": "01:43",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "FOTP1 Run12 PD"
       },
-      "V75542": {
+      "X75542": {
         "bookOnLocation": "LOW",
         "bookOnTime": "16:00",
         "bookOffTime": "00:15",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "SSG BATT. CHRG.-PM/SG3S Run16 PU+TAPP1 Run28 PD"
       },
-      "V75543": {
+      "X75543": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:00",
         "bookOffTime": "21:00",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "SB/M"
       },
-      "V75544": {
+      "X75544": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:40",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "SHSP2 Run14 PU"
       },
-      "V75545": {
+      "X75545": {
         "bookOnLocation": "SHT",
         "bookOnTime": "04:05",
         "bookOffTime": "10:35",
         "bookOffLocation": "HUH",
-        "duration": "6:00",
+        "duration": "06:00",
         "remarks": "TAPP1 Run13 PU"
       },
-      "V75546": {
+      "X75546": {
         "bookOnLocation": "HUH",
         "bookOnTime": "15:21",
         "bookOffTime": "23:51",
         "bookOffLocation": "HUH",
-        "duration": "8:00",
+        "duration": "08:00",
         "remarks": "EMU"
       },
-      "V75547": {
+      "X75547": {
         "bookOnLocation": "HUH",
         "bookOnTime": "13:57",
         "bookOffTime": "22:12",
         "bookOffLocation": "HUH",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "EMU"
       },
-      "V75548": {
+      "X75548": {
         "bookOnLocation": "HUH",
         "bookOnTime": "11:48",
         "bookOffTime": "19:33",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "EMU"
       },
-      "V75549": {
+      "X75549": {
         "bookOnLocation": "SHS",
         "bookOnTime": "04:55",
         "bookOffTime": "12:55",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "LMCP1 Run24 PU"
       },
-      "V75550": {
+      "X75550": {
         "bookOnLocation": "HUH",
         "bookOnTime": "08:00",
         "bookOffTime": "16:00",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
         "remarks": "EMU"
       },
-      "V75551": {
+      "X75551": {
         "bookOnLocation": "HUH",
         "bookOnTime": "18:01",
         "bookOffTime": "01:46",
         "bookOffLocation": "HUH",
-        "duration": "7:15",
+        "duration": "07:15",
         "remarks": "LOWP1 Run4 PD"
       },
-      "V75552": {
+      "X75552": {
         "bookOnLocation": "HTD",
         "bookOnTime": "16:30",
         "bookOffTime": "00:45",
         "bookOffLocation": "HTD",
-        "duration": "7:45",
+        "duration": "07:45",
         "remarks": "HB/L"
       },
-      "V75553": {
-        "bookOnLocation": "",
-        "bookOnTime": "DUTY",
-        "bookOffTime": "COVER",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "Duty Cover"
-      },
-      "V75554": {
+      "X75554": {
         "bookOnLocation": "HUH",
         "bookOnTime": "10:34",
         "bookOffTime": "18:04",
         "bookOffLocation": "HUH",
-        "duration": "7:00",
+        "duration": "07:00",
         "remarks": "EMU"
       },
-      "V75555": {
+      "X75555": {
         "bookOnLocation": "HUH",
         "bookOnTime": "07:00",
         "bookOffTime": "15:00",
         "bookOffLocation": "HUH",
-        "duration": "7:30",
+        "duration": "07:30",
+        "remarks": "EMU"
+      }
+    },
+    "F71": {
+      "F71101": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:00",
+        "bookOffTime": "15:00",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "MKKP1S Run3 PU"
+      },
+      "F71102": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "05:05",
+        "bookOffTime": "12:20",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "HTD RUN26 PU"
+      },
+      "F71103": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:39",
+        "bookOffTime": "16:24",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "EMU"
+      },
+      "F71104": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "12:13",
+        "bookOffTime": "20:13",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71105": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "11:00",
+        "bookOffTime": "19:45",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "KB/M"
+      },
+      "F71107": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:19",
+        "bookOffTime": "13:19",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71108": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:51",
+        "bookOffTime": "16:06",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F71109": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "18:25",
+        "bookOffTime": "01:25",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "FOTP4 Run11 PD"
+      },
+      "F71110": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "18:07",
+        "bookOffTime": "01:52",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "SHTP3 Run7 PD"
+      },
+      "F71111": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "17:09",
+        "bookOffTime": "00:39",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "SHTP4 Run29 PD"
+      },
+      "F71112": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:29",
+        "bookOffTime": "13:44",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F71113": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:28",
+        "bookOffTime": "11:58",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "MKKP3N Run6 PU"
+      },
+      "F71114": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "12:40",
+        "bookOffTime": "19:40",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "EMU"
+      },
+      "F71115": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "15:15",
+        "bookOffTime": "23:45",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F71116": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "14:45",
+        "bookOffTime": "22:45",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71118": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:23",
+        "bookOffTime": "13:23",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71119": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:28",
+        "bookOffTime": "11:28",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "MKKP3S Run5 PU"
+      },
+      "F71120": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "17:33",
+        "bookOffTime": "01:48",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "MKKP3S Run8 PD"
+      },
+      "F71121": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "16:57",
+        "bookOffTime": "01:12",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F71122": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "15:06",
+        "bookOffTime": "23:06",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71123": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:24",
+        "bookOffTime": "14:54",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "EMU"
+      },
+      "F71124": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:04",
+        "bookOffTime": "15:34",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F71125": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "05:18",
+        "bookOffTime": "12:33",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "HTD Run27 PU"
+      },
+      "F71126": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "13:55",
+        "bookOffTime": "21:55",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71127": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "12:44",
+        "bookOffTime": "20:44",
+        "bookOffLocation": "HTD",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71128": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:12",
+        "bookOffTime": "14:42",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "EMU"
+      },
+      "F71129": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05",
+        "bookOffTime": "11:35",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "SHTP4 Run10 PU"
+      },
+      "F71130": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "18:16",
+        "bookOffTime": "01:46",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "MKKP3N Run22 PD"
+      },
+      "F71131": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "17:15",
+        "bookOffTime": "01:30",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "KB/L"
+      },
+      "F71132": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "16:51",
+        "bookOffTime": "01:06",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F71134": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "05:00",
+        "bookOffTime": "13:30",
+        "bookOffLocation": "HTD",
+        "duration": "08:00",
+        "remarks": "HB/E"
+      },
+      "F71135": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:50",
+        "bookOffTime": "12:20",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "HUHP4 Run2 PU"
+      },
+      "F71136": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "16:45",
+        "bookOffTime": "01:00",
+        "bookOffLocation": "HTD",
+        "duration": "07:45",
+        "remarks": "HTD Run23 PD"
+      },
+      "F71137": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "16:21",
+        "bookOffTime": "00:51",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F71138": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "14:36",
+        "bookOffTime": "22:51",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "MKKP1 Run1 PD"
+      },
+      "F71139": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:12",
+        "bookOffTime": "15:12",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71140": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:28",
+        "bookOffTime": "12:28",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "KB/E"
+      },
+      "F71141": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:12",
+        "bookOffTime": "16:12",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71142": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "17:43",
+        "bookOffTime": "01:43",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "HUHP4 Run13 PD"
+      },
+      "F71143": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "17:09",
+        "bookOffTime": "01:09",
+        "bookOffLocation": "HTD",
+        "duration": "07:30",
+        "remarks": "HTD Run15 PD"
+      },
+      "F71144": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:27",
+        "bookOffTime": "16:57",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F71145": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "09:12",
+        "bookOffTime": "17:12",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71146": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "12:00",
+        "bookOffTime": "19:30",
+        "bookOffLocation": "HTD",
+        "duration": "07:00",
+        "remarks": "HB/M"
+      },
+      "F71147": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "16:03",
+        "bookOffTime": "23:48",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "SHTP4S Run9 PD"
+      },
+      "F71148": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "14:03",
+        "bookOffTime": "22:18",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "MKKP1S Run2 PD"
+      },
+      "F71149": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:50",
+        "bookOffTime": "12:20",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "HUHP1 Run1 PU"
+      },
+      "F71150": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "04:28",
+        "bookOffTime": "10:58",
+        "bookOffLocation": "HUH",
+        "duration": "06:00",
+        "remarks": "MKKP1 Run4 PU"
+      },
+      "F71151": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "05:15",
+        "bookOffTime": "12:15",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "EMU"
+      },
+      "F71152": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "18:12",
+        "bookOffTime": "01:57",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "HUHP1 Run14 PD"
+      },
+      "F71153": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "19:03",
+        "bookOffTime": "01:48",
+        "bookOffLocation": "HUH",
+        "duration": "06:15",
+        "remarks": "SHTP1 Run25 PD"
+      },
+      "F71154": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "16:33",
+        "bookOffTime": "00:48",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F71155": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:39",
+        "bookOffTime": "16:09",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F71156": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "05:35",
+        "bookOffTime": "13:05",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "EMU"
+      },
+      "F71157": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "13:24",
+        "bookOffTime": "21:39",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F71158": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "16:09",
+        "bookOffTime": "23:54",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "EMU"
+      },
+      "F71159": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "13:04",
+        "bookOffTime": "21:49",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "EMU"
+      },
+      "F71301": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:00",
+        "bookOffTime": "14:30",
+        "bookOffLocation": "HUH",
+        "duration": "06:00",
+        "remarks": "P702/P705/P712"
+      },
+      "F71302": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "07:15",
+        "bookOffTime": "15:15",
+        "bookOffLocation": "LOW",
+        "duration": "07:30",
+        "remarks": "RS"
+      },
+      "F71303": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET12"
+      },
+      "F71304": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET6"
+      },
+      "F71305": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET5"
+      },
+      "F71306": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:15",
+        "bookOffTime": "17:15",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "P708/P713"
+      },
+      "F71308": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "13:30",
+        "bookOffTime": "22:15",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "P714/P717/P720"
+      },
+      "F71309": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "14:30",
+        "bookOffTime": "22:30",
+        "bookOffLocation": "LOW",
+        "duration": "07:30",
+        "remarks": "RS"
+      },
+      "F71310": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "13:30",
+        "bookOffTime": "21:45",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "P711/P718/P721"
+      },
+      "F71311": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:00",
+        "bookOffTime": "15:00",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "P703/P704/P707"
+      },
+      "F71312": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:21",
+        "bookOffTime": "15:51",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F71313": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET8"
+      },
+      "F71314": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET3"
+      },
+      "F71315": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET1"
+      },
+      "F71316": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "07:15",
+        "bookOffTime": "15:15",
+        "bookOffLocation": "LOW",
+        "duration": "07:30",
+        "remarks": "RS"
+      },
+      "F71317": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET11"
+      },
+      "F71318": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET10"
+      },
+      "F71319": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET2"
+      },
+      "F71320": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "14:30",
+        "bookOffTime": "22:30",
+        "bookOffLocation": "LOW",
+        "duration": "07:30",
+        "remarks": "RS"
+      },
+      "F71321": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET9"
+      },
+      "F71322": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET7"
+      },
+      "F71323": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "22:10",
+        "bookOffTime": "06:10",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "ET4"
+      },
+      "F71501": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "07:45",
+        "bookOffTime": "15:45",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "SG2S Run15 PU+SSG Batt. Chrg.-AM"
+      },
+      "F71502": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55",
+        "bookOffTime": "12:40",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "LOWP3 Run23 PU"
+      },
+      "F71503": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05",
+        "bookOffTime": "11:50",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "SHTP3 Run8 PU"
+      },
+      "F71504": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "12:06",
+        "bookOffTime": "19:36",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "EMU"
+      },
+      "F71505": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "16:39",
+        "bookOffTime": "01:24",
+        "bookOffLocation": "HUH",
+        "duration": "08:15",
+        "remarks": "LG2N Run6 PD"
+      },
+      "F71506": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "15:33",
+        "bookOffTime": "00:03",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F71507": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55",
+        "bookOffTime": "13:10",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "SG3N Run17 PU"
+      },
+      "F71508": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05",
+        "bookOffTime": "11:05",
+        "bookOffLocation": "HUH",
+        "duration": "06:30",
+        "remarks": "FOTP1 Run11 PU"
+      },
+      "F71509": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "09:08",
+        "bookOffTime": "17:23",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F71510": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "18:03",
+        "bookOffTime": "01:33",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "HTD Run4 PU/SHSP2 Run5 PD"
+      },
+      "F71511": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "15:42",
+        "bookOffTime": "00:27",
+        "bookOffLocation": "HTD",
+        "duration": "08:15",
+        "remarks": "HTD Run8 PD"
+      },
+      "F71512": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "06:00",
+        "bookOffTime": "13:45",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "LG2N Run21 PU/LG2N PD"
+      },
+      "F71513": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "06:00",
+        "bookOffTime": "13:45",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "LMC Step1"
+      },
+      "F71514": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05",
+        "bookOffTime": "11:50",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "LOW Step1"
+      },
+      "F71515": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "14:15",
+        "bookOffTime": "22:45",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "SG2S Run5 PD"
+      },
+      "F71516": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "13:15",
+        "bookOffTime": "20:15",
+        "bookOffLocation": "HTD",
+        "duration": "06:30",
+        "remarks": "EMU"
+      },
+      "F71518": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05",
+        "bookOffTime": "12:05",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "SB/E"
+      },
+      "F71519": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:27",
+        "bookOffTime": "15:12",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "EMU"
+      },
+      "F71520": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "18:02",
+        "bookOffTime": "01:32",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "LMCP1 Run12 PD"
+      },
+      "F71521": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "15:09",
+        "bookOffTime": "22:39",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "SG3N Run10 PD+SSG Batt. Chrg.-PM"
+      },
+      "F71522": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "15:00",
+        "bookOffTime": "23:00",
+        "bookOffLocation": "LOW",
+        "duration": "07:30",
+        "remarks": "LG2N Run22 PU+LWM Batt. Chrg.-PM"
+      },
+      "F71523": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55",
+        "bookOffTime": "12:25",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "LMCP2 Run25 PU"
+      },
+      "F71524": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55",
+        "bookOffTime": "12:25",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "LOWP1 Run22 PU"
+      },
+      "F71525": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05",
+        "bookOffTime": "10:50",
+        "bookOffLocation": "HUH",
+        "duration": "06:15",
+        "remarks": "SHTP4S Run9 PU+HTD Run11 PU"
+      },
+      "F71526": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "17:29",
+        "bookOffTime": "01:44",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "LOWP3 Run26 PD"
+      },
+      "F71527": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "16:00",
+        "bookOffTime": "00:30",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "SB/L"
+      },
+      "F71528": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:00",
+        "bookOffTime": "15:00",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71529": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05",
+        "bookOffTime": "11:35",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "FOTP4 Run12 PU"
+      },
+      "F71530": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "18:43",
+        "bookOffTime": "01:43",
+        "bookOffLocation": "HTD",
+        "duration": "06:30",
+        "remarks": "HTD Run24 PD"
+      },
+      "F71531": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "18:19",
+        "bookOffTime": "01:49",
+        "bookOffLocation": "HTD",
+        "duration": "07:00",
+        "remarks": "HTD Run17 PD"
+      },
+      "F71532": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "16:48",
+        "bookOffTime": "01:03",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "LOW Step End"
+      },
+      "F71534": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:00",
+        "bookOffTime": "14:45",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "EMU"
+      },
+      "F71535": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05",
+        "bookOffTime": "10:50",
+        "bookOffLocation": "HUH",
+        "duration": "06:15",
+        "remarks": "SHTP1 Run7 PU"
+      },
+      "F71536": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "15:43",
+        "bookOffTime": "00:13",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F71537": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "17:15",
+        "bookOffTime": "01:30",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "LMCP2 Run27 PD"
+      },
+      "F71538": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "15:27",
+        "bookOffTime": "23:27",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "LMC Step End"
+      },
+      "F71539": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:30",
+        "bookOffTime": "15:45",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F71540": {
+        "bookOnLocation": "LOW",
+        "bookOnTime": "07:00",
+        "bookOffTime": "15:00",
+        "bookOffLocation": "LOW",
+        "duration": "07:30",
+        "remarks": "LWM BATT. CHRG.-AM/LG2S Run19 PU+LG2S PD"
+      },
+      "F71541": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "18:15",
+        "bookOffTime": "01:30",
+        "bookOffLocation": "HUH",
+        "duration": "06:45",
+        "remarks": "FOTP1 Run21 PD"
+      },
+      "F71542": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "15:39",
+        "bookOffTime": "00:09",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "TAPP1 Run28 PD"
+      },
+      "F71543": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "13:00",
+        "bookOffTime": "21:00",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "SB/M"
+      },
+      "F71544": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55",
+        "bookOffTime": "12:40",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "SHSP2 Run14 PU"
+      },
+      "F71545": {
+        "bookOnLocation": "SHT",
+        "bookOnTime": "04:05",
+        "bookOffTime": "10:35",
+        "bookOffLocation": "HUH",
+        "duration": "06:00",
+        "remarks": "TAPP1 Run13 PU"
+      },
+      "F71546": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "15:21",
+        "bookOffTime": "23:51",
+        "bookOffLocation": "HUH",
+        "duration": "08:00",
+        "remarks": "EMU"
+      },
+      "F71547": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "13:58",
+        "bookOffTime": "22:13",
+        "bookOffLocation": "HUH",
+        "duration": "07:45",
+        "remarks": "EMU"
+      },
+      "F71548": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "11:48",
+        "bookOffTime": "19:18",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "EMU"
+      },
+      "F71549": {
+        "bookOnLocation": "SHS",
+        "bookOnTime": "04:55",
+        "bookOffTime": "12:55",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "LMCP1 Run24 PU"
+      },
+      "F71550": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "08:00",
+        "bookOffTime": "16:00",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71551": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "18:01",
+        "bookOffTime": "01:46",
+        "bookOffLocation": "HUH",
+        "duration": "07:15",
+        "remarks": "LOWP1 Run11 PD"
+      },
+      "F71552": {
+        "bookOnLocation": "HTD",
+        "bookOnTime": "16:30",
+        "bookOffTime": "00:45",
+        "bookOffLocation": "HTD",
+        "duration": "07:45",
+        "remarks": "HB/L"
+      },
+      "F71554": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "10:39",
+        "bookOffTime": "18:09",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
+        "remarks": "EMU"
+      },
+      "F71555": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "07:39",
+        "bookOffTime": "15:39",
+        "bookOffLocation": "HUH",
+        "duration": "07:30",
+        "remarks": "EMU"
+      },
+      "F71556": {
+        "bookOnLocation": "HUH",
+        "bookOnTime": "12:10",
+        "bookOffTime": "19:40",
+        "bookOffLocation": "HUH",
+        "duration": "07:00",
         "remarks": "EMU"
       }
     },
@@ -2607,525 +4675,444 @@
         "duration": "08:00",
         "remarks": "Daytime E-Train"
       },
-      "992501K": {
-        "bookOnLocation": "SHS",
-        "bookOnTime": "04:55",
-        "bookOffTime": "13:25",
-        "bookOffLocation": "HTD",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992502K": {
-        "bookOnLocation": "SHS",
-        "bookOnTime": "06:00",
-        "bookOffTime": "14:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992503K": {
-        "bookOnLocation": "SHS",
-        "bookOnTime": "06:00",
-        "bookOffTime": "14:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992504K": {
-        "bookOnLocation": "HTD",
-        "bookOnTime": "05:05",
-        "bookOffTime": "13:35",
-        "bookOffLocation": "HTD",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992505K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "09:15",
-        "bookOffTime": "18:00",
-        "bookOffLocation": "HUH",
-        "duration": "8:15",
-        "remarks": "Secondman"
-      },
-      "992506K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "09:30",
-        "bookOffTime": "18:15",
-        "bookOffLocation": "HUH",
-        "duration": "8:15",
-        "remarks": "Secondman"
-      },
-      "992507K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "14:30",
-        "bookOffTime": "23:00",
-        "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992508K": {
-        "bookOnLocation": "HTD",
-        "bookOnTime": "15:36",
-        "bookOffTime": "00:06",
-        "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992509K": {
-        "bookOnLocation": "HTD",
-        "bookOnTime": "16:12",
-        "bookOffTime": "00:42",
-        "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992510K": {
-        "bookOnLocation": "HTD",
-        "bookOnTime": "16:24",
-        "bookOffTime": "00:54",
-        "bookOffLocation": "HTD",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-
-      "992501L": {
-        "bookOnLocation": "SHS",
-        "bookOnTime": "04:55",
-        "bookOffTime": "13:25",
-        "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992502L": {
-        "bookOnLocation": "HTD",
-        "bookOnTime": "05:05",
-        "bookOffTime": "13:35",
-        "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992503L": {
-        "bookOnLocation": "HTD",
-        "bookOnTime": "05:18",
-        "bookOffTime": "13:48",
-        "bookOffLocation": "LOW",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992504L": {
-        "bookOnLocation": "LOW",
-        "bookOnTime": "09:00",
-        "bookOffTime": "17:30",
-        "bookOffLocation": "LOW",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992505L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "14:08",
-        "bookOffTime": "22:38",
-        "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992506L": {
-        "bookOnLocation": "HTD",
-        "bookOnTime": "16:21",
-        "bookOffTime": "00:51",
-        "bookOffLocation": "HTD",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992507L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "17:07",
-        "bookOffTime": "01:37",
-        "bookOffLocation": "HTD",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992508L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "17:08",
-        "bookOffTime": "01:38",
-        "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992509L": {
-        "bookOnLocation": "HTD",
-        "bookOnTime": "17:08",
-        "bookOffTime": "01:38",
-        "bookOffLocation": "HTD",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992510L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "17:11",
-        "bookOffTime": "01:41",
-        "bookOffLocation": "HUH",
-        "duration": "8:00",
-        "remarks": "Secondman"
-      },
-      "992701K": {
-        "bookOnLocation": "SHT",
-        "bookOnTime": "04:05",
-        "bookOffTime": "13:05",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992702K": {
-        "bookOnLocation": "SHT",
-        "bookOnTime": "04:05",
-        "bookOffTime": "13:05",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992703K": {
-        "bookOnLocation": "SHT",
-        "bookOnTime": "04:05",
-        "bookOffTime": "13:05",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992704K": {
-        "bookOnLocation": "SHT",
-        "bookOnTime": "04:05",
-        "bookOffTime": "13:05",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992705K": {
-        "bookOnLocation": "SHS",
-        "bookOnTime": "04:55",
-        "bookOffTime": "13:55",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992706K": {
-        "bookOnLocation": "HTD",
-        "bookOnTime": "05:00",
-        "bookOffTime": "14:00",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992707K": {
-        "bookOnLocation": "HTD",
-        "bookOnTime": "05:00",
-        "bookOffTime": "14:00",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992708K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "07:30",
-        "bookOffTime": "16:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992709K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "07:30",
-        "bookOffTime": "16:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992710K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "07:30",
-        "bookOffTime": "16:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992711K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "07:30",
-        "bookOffTime": "16:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992712K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "13:30",
-        "bookOffTime": "22:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992713K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "13:30",
-        "bookOffTime": "22:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992714K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "13:30",
-        "bookOffTime": "22:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992715K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "13:30",
-        "bookOffTime": "22:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992716K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "15:30",
-        "bookOffTime": "00:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992717K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "15:30",
-        "bookOffTime": "00:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992718K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "15:30",
-        "bookOffTime": "00:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992719K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "16:30",
-        "bookOffTime": "01:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992720K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "16:30",
-        "bookOffTime": "01:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992721K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "16:30",
-        "bookOffTime": "01:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992722K": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "16:30",
-        "bookOffTime": "01:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-
-      "992701L": {
-        "bookOnLocation": "SHT",
-        "bookOnTime": "04:05",
-        "bookOffTime": "13:05",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992702L": {
-        "bookOnLocation": "SHT",
-        "bookOnTime": "04:05",
-        "bookOffTime": "13:05",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992703L": {
-        "bookOnLocation": "SHT",
-        "bookOnTime": "04:05",
-        "bookOffTime": "13:05",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992704L": {
-        "bookOnLocation": "SHT",
-        "bookOnTime": "04:05",
-        "bookOffTime": "13:05",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992705L": {
-        "bookOnLocation": "",
-        "bookOnTime": "DUTY",
-        "bookOffTime": "COVER",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "DUTY COVER"
-      },
-      "992706L": {
-        "bookOnLocation": "HTD",
-        "bookOnTime": "05:00",
-        "bookOffTime": "14:00",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992707L": {
-        "bookOnLocation": "",
-        "bookOnTime": "DUTY",
-        "bookOffTime": "COVER",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "DUTY COVER"
-      },
-      "992708L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "07:30",
-        "bookOffTime": "16:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992709L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "07:30",
-        "bookOffTime": "16:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992710L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "07:30",
-        "bookOffTime": "16:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992711L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "07:30",
-        "bookOffTime": "16:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992712L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "13:30",
-        "bookOffTime": "22:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992713L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "13:30",
-        "bookOffTime": "22:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992714L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "13:30",
-        "bookOffTime": "22:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992715L": {
-        "bookOnLocation": "",
-        "bookOnTime": "DUTY",
-        "bookOffTime": "COVER",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "DUTY COVER"
-      },
-      "992716L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "15:30",
-        "bookOffTime": "00:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992717L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "15:30",
-        "bookOffTime": "00:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992718L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "15:30",
-        "bookOffTime": "00:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992719L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "16:30",
-        "bookOffTime": "01:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992720L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "16:30",
-        "bookOffTime": "01:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992721L": {
-        "bookOnLocation": "HUH",
-        "bookOnTime": "16:30",
-        "bookOffTime": "01:30",
-        "bookOffLocation": "HUH",
-        "duration": "8:30",
-        "remarks": "ROTEM"
-      },
-      "992722L": {
-        "bookOnLocation": "",
-        "bookOnTime": "DUTY",
-        "bookOffTime": "COVER",
-        "bookOffLocation": "",
-        "duration": "",
-        "remarks": "DUTY COVER"
-      }
+        "992501Z": {
+          "bookOnLocation": "SHS",
+          "bookOnTime": "04:55",
+          "bookOffTime": "13:25",
+          "bookOffLocation": "HUH",
+          "duration": "08:00",
+          "remarks": "Secondman"
+        },
+        "992502Z": {
+          "bookOnLocation": "HTD",
+          "bookOnTime": "05:05",
+          "bookOffTime": "13:35",
+          "bookOffLocation": "HUH",
+          "duration": "08:00",
+          "remarks": "Secondman"
+        },
+        "992503Z": {
+          "bookOnLocation": "HTD",
+          "bookOnTime": "05:18",
+          "bookOffTime": "13:48",
+          "bookOffLocation": "LOW",
+          "duration": "08:00",
+          "remarks": "Secondman"
+        },
+        "992504Z": {
+          "bookOnLocation": "LOW",
+          "bookOnTime": "09:00",
+          "bookOffTime": "17:30",
+          "bookOffLocation": "LOW",
+          "duration": "08:00",
+          "remarks": "Secondman"
+        },
+        "992505Z": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "14:08",
+          "bookOffTime": "22:38",
+          "bookOffLocation": "HUH",
+          "duration": "08:00",
+          "remarks": "Secondman"
+        },
+        "992506Z": {
+          "bookOnLocation": "HTD",
+          "bookOnTime": "16:21",
+          "bookOffTime": "00:51",
+          "bookOffLocation": "HTD",
+          "duration": "08:00",
+          "remarks": "Secondman"
+        },
+        "992507Z": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "17:07",
+          "bookOffTime": "01:37",
+          "bookOffLocation": "HTD",
+          "duration": "08:00",
+          "remarks": "Secondman"
+        },
+        "992508Z": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "17:08",
+          "bookOffTime": "01:38",
+          "bookOffLocation": "HUH",
+          "duration": "08:00",
+          "remarks": "Secondman"
+        },
+        "992509Z": {
+          "bookOnLocation": "HTD",
+          "bookOnTime": "17:08",
+          "bookOffTime": "01:38",
+          "bookOffLocation": "HTD",
+          "duration": "08:00",
+          "remarks": "Secondman"
+        },
+        "992510Z": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "17:11",
+          "bookOffTime": "01:41",
+          "bookOffLocation": "HUH",
+          "duration": "08:00",
+          "remarks": "Secondman"
+        },
+        "992701B": {
+          "bookOnLocation": "SHT",
+          "bookOnTime": "04:05",
+          "bookOffTime": "13:05",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992702B": {
+          "bookOnLocation": "SHT",
+          "bookOnTime": "04:05",
+          "bookOffTime": "13:05",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992703B": {
+          "bookOnLocation": "SHT",
+          "bookOnTime": "04:05",
+          "bookOffTime": "13:05",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992704B": {
+          "bookOnLocation": "SHT",
+          "bookOnTime": "04:05",
+          "bookOffTime": "13:05",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992705B": {
+          "bookOnLocation": "SHS",
+          "bookOnTime": "04:55",
+          "bookOffTime": "13:55",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992706B": {
+          "bookOnLocation": "HTD",
+          "bookOnTime": "05:00",
+          "bookOffTime": "14:00",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992707B": {
+          "bookOnLocation": "HTD",
+          "bookOnTime": "05:00",
+          "bookOffTime": "14:00",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992708B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "07:00",
+          "bookOffTime": "16:00",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992709B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "07:00",
+          "bookOffTime": "16:00",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992710B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "07:30",
+          "bookOffTime": "16:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992711B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "07:30",
+          "bookOffTime": "16:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992712B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "13:30",
+          "bookOffTime": "22:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992713B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "13:30",
+          "bookOffTime": "22:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992714B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "13:30",
+          "bookOffTime": "22:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992715B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "13:30",
+          "bookOffTime": "22:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992716B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "15:30",
+          "bookOffTime": "00:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992717B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "15:30",
+          "bookOffTime": "00:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992718B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "15:30",
+          "bookOffTime": "00:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992719B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "16:30",
+          "bookOffTime": "01:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992720B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "16:30",
+          "bookOffTime": "01:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992721B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "16:30",
+          "bookOffTime": "01:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992722B": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "16:30",
+          "bookOffTime": "01:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992701A": {
+          "bookOnLocation": "SHT",
+          "bookOnTime": "04:05",
+          "bookOffTime": "13:05",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992702A": {
+          "bookOnLocation": "SHT",
+          "bookOnTime": "04:05",
+          "bookOffTime": "13:05",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992703A": {
+          "bookOnLocation": "SHT",
+          "bookOnTime": "04:05",
+          "bookOffTime": "13:05",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992704A": {
+          "bookOnLocation": "SHT",
+          "bookOnTime": "04:05",
+          "bookOffTime": "13:05",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992705A": {
+          "bookOnLocation": "SHS",
+          "bookOnTime": "04:55",
+          "bookOffTime": "13:55",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992706A": {
+          "bookOnLocation": "HTD",
+          "bookOnTime": "05:00",
+          "bookOffTime": "14:00",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992707A": {
+          "bookOnLocation": "HTD",
+          "bookOnTime": "05:00",
+          "bookOffTime": "14:00",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992708A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "07:00",
+          "bookOffTime": "16:00",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992709A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "07:00",
+          "bookOffTime": "16:00",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992710A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "07:30",
+          "bookOffTime": "16:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992711A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "07:30",
+          "bookOffTime": "16:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992712A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "13:30",
+          "bookOffTime": "22:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992713A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "13:30",
+          "bookOffTime": "22:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992714A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "13:30",
+          "bookOffTime": "22:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992715A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "13:30",
+          "bookOffTime": "22:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992716A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "15:30",
+          "bookOffTime": "00:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992717A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "15:30",
+          "bookOffTime": "00:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992718A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "15:30",
+          "bookOffTime": "00:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992719A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "16:30",
+          "bookOffTime": "01:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992720A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "16:30",
+          "bookOffTime": "01:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992721A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "16:30",
+          "bookOffTime": "01:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        },
+        "992722A": {
+          "bookOnLocation": "HUH",
+          "bookOnTime": "16:30",
+          "bookOffTime": "01:30",
+          "bookOffLocation": "HUH",
+          "duration": "08:30",
+          "remarks": "ROTEM"
+        }
+      
     }
   },
   "stamp": {
-    "version": "0.1.0",
-    "edit": "2021-08-24 21:57:53",
-    "description": "Timetable changed, added TAP. Coded with C15 & V75"
+    "version": "0.1.1",
+    "edit": "2021-10-20 12:22:21",
+    "description": "Timetable changed, grave sweeping"
   }
 }
